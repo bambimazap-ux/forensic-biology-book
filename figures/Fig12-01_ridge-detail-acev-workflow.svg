@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="457.863307pt" height="333.138898pt" viewBox="0 0 457.863307 333.138898" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-01T00:43:11.825474</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 333.138898 
+L 457.863307 333.138898 
+L 457.863307 -0 
+L 0 -0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 14.915906 148.144252 
+L 221.845039 148.144252 
+Q 224.679685 148.144252 224.679685 145.309606 
+L 224.679685 22.00252 
+Q 224.679685 19.167874 221.845039 19.167874 
+L 14.915906 19.167874 
+Q 12.08126 19.167874 12.08126 22.00252 
+L 12.08126 145.309606 
+Q 12.08126 148.144252 14.915906 148.144252 
+z
+" clip-path="url(#pd49276d74e)" style="fill: #f4f8fa; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 238.852913 148.144252 
+L 442.947402 148.144252 
+Q 445.782047 148.144252 445.782047 145.309606 
+L 445.782047 22.00252 
+Q 445.782047 19.167874 442.947402 19.167874 
+L 238.852913 19.167874 
+Q 236.018268 19.167874 236.018268 22.00252 
+L 236.018268 145.309606 
+Q 236.018268 148.144252 238.852913 148.144252 
+z
+" clip-path="url(#pd49276d74e)" style="fill: #fdfbf7; stroke: #e69f00; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 14.915906 282.789921 
+L 221.845039 282.789921 
+Q 224.679685 282.789921 224.679685 279.955276 
+L 224.679685 172.23874 
+Q 224.679685 169.404094 221.845039 169.404094 
+L 14.915906 169.404094 
+Q 12.08126 169.404094 12.08126 172.23874 
+L 12.08126 279.955276 
+Q 12.08126 282.789921 14.915906 282.789921 
+z
+" clip-path="url(#pd49276d74e)" style="fill: #f4faf6; stroke: #009e73; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 238.852913 282.789921 
+L 442.947402 282.789921 
+Q 445.782047 282.789921 445.782047 279.955276 
+L 445.782047 172.23874 
+Q 445.782047 169.404094 442.947402 169.404094 
+L 238.852913 169.404094 
+Q 236.018268 169.404094 236.018268 172.23874 
+L 236.018268 279.955276 
+Q 236.018268 282.789921 238.852913 282.789921 
+z
+" clip-path="url(#pd49276d74e)" style="fill: #faf5f9; stroke: #cc79a7; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 14.915906 321.057638 
+L 442.947402 321.057638 
+Q 445.782047 321.057638 445.782047 318.222992 
+L 445.782047 294.128504 
+Q 445.782047 291.293858 442.947402 291.293858 
+L 14.915906 291.293858 
+Q 12.08126 291.293858 12.08126 294.128504 
+L 12.08126 318.222992 
+Q 12.08126 321.057638 14.915906 321.057638 
+z
+" clip-path="url(#pd49276d74e)" style="fill: #fffdf7; stroke: #d55e00; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="11.393895" transform="rotate(-0 12.08126 11.393895)">(A) Levels of ridge detail [Bec20]</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="236.018268" y="11.393895" transform="rotate(-0 236.018268 11.393895)">(B) Quality &amp; clarity mapping [Bec20]</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="16.049764" y="28.454112" transform="rotate(-0 16.049764 28.454112)">Three Levels of Ridge Detail [Bec20, Bec22]</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="36.415879" transform="rotate(-0 16.049764 36.415879)">Hierarchical Feature Information:</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="43.788008" transform="rotate(-0 16.049764 43.788008)">- Level 1: Overall Ridge Flow &amp; Pattern</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="51.158087" transform="rotate(-0 16.049764 51.158087)">  * Orientation, pattern type, core, delta</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="58.526115" transform="rotate(-0 16.049764 58.526115)">  * Value: Anatomical orientation &amp; exclusion</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="65.896194" transform="rotate(-0 16.049764 65.896194)">  * Cannot individualize a source alone [Bec20]</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="73.266272" transform="rotate(-0 16.049764 73.266272)">- Level 2: Specific Minutiae Paths</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="80.636278" transform="rotate(-0 16.049764 80.636278)">  * Ridge endings, bifurcations, dots, islands</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="88.00643" transform="rotate(-0 16.049764 88.00643)">  * Spatial relationships &amp; relative positions</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="95.376435" transform="rotate(-0 16.049764 95.376435)">  * Value: Primary basis for individualization</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="102.746514" transform="rotate(-0 16.049764 102.746514)">- Level 3: Fine Morphological Detail</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="110.116593" transform="rotate(-0 16.049764 110.116593)">  * Pores, ridge edge contours, incipient ridges</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="117.486671" transform="rotate(-0 16.049764 117.486671)">  * Value: Supplementary when clarity permits</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="124.85675" transform="rotate(-0 16.049764 124.85675)">  * Highly variable across recording conditions</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #e69f00" x="239.986772" y="28.454112" transform="rotate(-0 239.986772 28.454112)">Impression Quality &amp; Clarity [Bec20]</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="36.415805" transform="rotate(-0 239.986772 36.415805)">Degradation Factors in Casework Latents:</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="43.785884" transform="rotate(-0 239.986772 43.785884)">- Distortion: Pressure, lateral slippage, angle</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="51.155963" transform="rotate(-0 239.986772 51.155963)">- Partiality: Incomplete contact boundary</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="58.526042" transform="rotate(-0 239.986772 58.526042)">- Substrate: Texture, porosity, curvature, dirt</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="65.89612" transform="rotate(-0 239.986772 65.89612)">- Matrix &amp; Dev: Excess powder, background noise</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="80.638402" transform="rotate(-0 239.986772 80.638402)">Clarity Dictates Observable Detail:</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="88.006357" transform="rotate(-0 239.986772 88.006357)">- High Clarity: Level 1, 2, and 3 visible</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="95.376435" transform="rotate(-0 239.986772 95.376435)">- Medium Clarity: Level 1 and 2 dependable</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="102.746514" transform="rotate(-0 239.986772 102.746514)">- Low Clarity: Level 1 only or fragmented detail</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="117.488796" transform="rotate(-0 239.986772 117.488796)">Critical Quality Rule [Bec20]:</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="124.85675" transform="rotate(-0 239.986772 124.85675)">- Levels are not a simple ladder of certainty;</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="132.226829" transform="rotate(-0 239.986772 132.226829)">- Smudging limits visible area and comparison</text>
+   </g>
+   <g id="text_30">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="160.212793" transform="rotate(-0 12.08126 160.212793)">(C) The linear ACE-V workflow [Dal18]</text>
+   </g>
+   <g id="text_31">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="236.018268" y="160.212793" transform="rotate(-0 236.018268 160.212793)">(D) Three distinct decisions [Ule14]</text>
+   </g>
+   <g id="text_32">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="16.049764" y="178.690416" transform="rotate(-0 16.049764 178.690416)">ACE-V Examination Workflow [Dal18, Bec20]</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="186.652026" transform="rotate(-0 16.049764 186.652026)">1. Analysis (Latent Alone):</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="194.022105" transform="rotate(-0 16.049764 194.022105)">   - Assess quality, distortion, and clarity</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="201.392257" transform="rotate(-0 16.049764 201.392257)">   - Annotate visible features before exemplar</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="208.762335" transform="rotate(-0 16.049764 208.762335)">   - Prevents backward confirmation bias</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="216.132341" transform="rotate(-0 16.049764 216.132341)">2. Comparison (Side-by-Side):</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="223.502493" transform="rotate(-0 16.049764 223.502493)">   - Search for correspondences &amp; discrepancies</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="230.872498" transform="rotate(-0 16.049764 230.872498)">   - Weigh features in light of preserved area</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="238.242577" transform="rotate(-0 16.049764 238.242577)">3. Evaluation (Conclusion Formulation):</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="245.612729" transform="rotate(-0 16.049764 245.612729)">   - Assess whether detail supports a decision</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="252.982734" transform="rotate(-0 16.049764 252.982734)">4. Verification (Review Safeguard) [Ule14]:</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="260.352813" transform="rotate(-0 16.049764 260.352813)">   - Independent review by a second examiner</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="267.722892" transform="rotate(-0 16.049764 267.722892)">   - Procedural safeguard, not proof of truth</text>
+   </g>
+   <g id="text_45">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #cc79a7" x="239.986772" y="178.690416" transform="rotate(-0 239.986772 178.690416)">Decision Boundaries in ACE-V [Ule14]</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="186.652026" transform="rotate(-0 239.986772 186.652026)">Three Distinct Decision Stages [Ule14]:</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="194.022178" transform="rotate(-0 239.986772 194.022178)">1. Feature Correspondence:</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="201.392183" transform="rotate(-0 239.986772 201.392183)">   - Which physical features correspond or diverge</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="208.762262" transform="rotate(-0 239.986772 208.762262)">   - Distinguishes agreement from discrepancy</text>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="216.132341" transform="rotate(-0 239.986772 216.132341)">2. Information Sufficiency:</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="223.50242" transform="rotate(-0 239.986772 223.50242)">   - Judgment whether available information is</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="230.872572" transform="rotate(-0 239.986772 230.872572)">     sufficient to reach a source decision</text>
+   </g>
+   <g id="text_53">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="238.24265" transform="rotate(-0 239.986772 238.24265)">3. Reported Source Conclusion:</text>
+   </g>
+   <g id="text_54">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="245.612656" transform="rotate(-0 239.986772 245.612656)">   - Categorical or probabilistic output reported</text>
+   </g>
+   <g id="text_55">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="260.352813" transform="rotate(-0 239.986772 260.352813)">Cardinal Examination Boundary:</text>
+   </g>
+   <g id="text_56">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="267.722965" transform="rotate(-0 239.986772 267.722965)">- Feature markup is an examiner interpretation,</text>
+   </g>
+   <g id="text_57">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="275.092971" transform="rotate(-0 239.986772 275.092971)">- Not an objective physical ground truth count</text>
+   </g>
+   <g id="text_58">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="17.750551" y="302.564431" transform="rotate(-0 17.750551 302.564431)">CARDINAL COMPARISON &amp; WORKFLOW PRINCIPLE [Dal18, Bec20, Ule14]:</text>
+   </g>
+   <g id="text_59">
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #8c8c8c" x="440.112756" y="302.316629" transform="rotate(-0 440.112756 302.316629)">Simulated data for illustration</text>
+   </g>
+   <g id="text_60">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #4d4d4d" transform="translate(17.750551 310.413051)">ACE-V structures examination; verification is an administrative review safeguard, not empirical proof of correctness;</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #4d4d4d" transform="translate(17.750551 318.57604)">feature correspondence, information sufficiency, and reported conclusion remain three distinct and non-interchangeable decisions.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pd49276d74e">
+   <rect x="2.16" y="2.16" width="453.543307" height="328.818898"/>
+  </clipPath>
+ </defs>
+</svg>

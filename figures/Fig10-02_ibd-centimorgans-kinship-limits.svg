@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="465.136332pt" height="333.138898pt" viewBox="0 0 465.136332 333.138898" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-01T00:18:10.178807</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 333.138898 
+L 465.136332 333.138898 
+L 465.136332 -0 
+L 0 -0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 14.915906 148.144252 
+L 221.845039 148.144252 
+Q 224.679685 148.144252 224.679685 145.309606 
+L 224.679685 22.00252 
+Q 224.679685 19.167874 221.845039 19.167874 
+L 14.915906 19.167874 
+Q 12.08126 19.167874 12.08126 22.00252 
+L 12.08126 145.309606 
+Q 12.08126 148.144252 14.915906 148.144252 
+z
+" clip-path="url(#p99750f55d2)" style="fill: #fdfdfd; stroke: #bfbfbf; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 149.561575 44.679685 
+L 219.010394 44.679685 
+L 219.010394 39.010394 
+L 149.561575 39.010394 
+z
+" clip-path="url(#p99750f55d2)" style="fill: #e8ecef; stroke: #8c8c8c; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 149.561575 44.679685 
+L 219.010394 44.679685 
+L 219.010394 39.010394 
+L 149.561575 39.010394 
+z
+" clip-path="url(#p99750f55d2)" style="fill: #0072b2"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 149.561575 61.687559 
+L 219.010394 61.687559 
+L 219.010394 56.018268 
+L 149.561575 56.018268 
+z
+" clip-path="url(#p99750f55d2)" style="fill: #e8ecef; stroke: #8c8c8c; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 149.561575 61.687559 
+L 184.285984 61.687559 
+L 184.285984 56.018268 
+L 149.561575 56.018268 
+z
+" clip-path="url(#p99750f55d2)" style="fill: #0072b2"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 198.175748 61.687559 
+L 219.010394 61.687559 
+L 219.010394 56.018268 
+L 198.175748 56.018268 
+z
+" clip-path="url(#p99750f55d2)" style="fill: #0072b2"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 149.561575 78.695433 
+L 219.010394 78.695433 
+L 219.010394 73.026142 
+L 149.561575 73.026142 
+z
+" clip-path="url(#p99750f55d2)" style="fill: #e8ecef; stroke: #8c8c8c; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 155.230866 78.695433 
+L 172.593071 78.695433 
+L 172.593071 73.026142 
+L 155.230866 73.026142 
+z
+" clip-path="url(#p99750f55d2)" style="fill: #0072b2"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 192.08126 78.695433 
+L 202.498583 78.695433 
+L 202.498583 73.026142 
+L 192.08126 73.026142 
+z
+" clip-path="url(#p99750f55d2)" style="fill: #0072b2"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 149.561575 95.703307 
+L 219.010394 95.703307 
+L 219.010394 90.034016 
+L 149.561575 90.034016 
+z
+" clip-path="url(#p99750f55d2)" style="fill: #e8ecef; stroke: #8c8c8c; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 163.734803 95.703307 
+L 172.068661 95.703307 
+L 172.068661 90.034016 
+L 163.734803 90.034016 
+z
+" clip-path="url(#p99750f55d2)" style="fill: #0072b2"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 200.585197 95.703307 
+L 206.141102 95.703307 
+L 206.141102 90.034016 
+L 200.585197 90.034016 
+z
+" clip-path="url(#p99750f55d2)" style="fill: #0072b2"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 238.852913 148.144252 
+L 442.947402 148.144252 
+Q 445.782047 148.144252 445.782047 145.309606 
+L 445.782047 22.00252 
+Q 445.782047 19.167874 442.947402 19.167874 
+L 238.852913 19.167874 
+Q 236.018268 19.167874 236.018268 22.00252 
+L 236.018268 145.309606 
+Q 236.018268 148.144252 238.852913 148.144252 
+z
+" clip-path="url(#p99750f55d2)" style="fill: #fdfbf7; stroke: #e69f00; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 14.915906 282.789921 
+L 221.845039 282.789921 
+Q 224.679685 282.789921 224.679685 279.955276 
+L 224.679685 172.23874 
+Q 224.679685 169.404094 221.845039 169.404094 
+L 14.915906 169.404094 
+Q 12.08126 169.404094 12.08126 172.23874 
+L 12.08126 279.955276 
+Q 12.08126 282.789921 14.915906 282.789921 
+z
+" clip-path="url(#p99750f55d2)" style="fill: #fdfdfd; stroke: #bfbfbf; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 145.309606 251.608819 
+L 190.663937 251.608819 
+L 190.663937 245.372598 
+L 145.309606 245.372598 
+z
+" clip-path="url(#p99750f55d2)" style="fill: #f0f0f0; stroke: #bfbfbf; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 145.309606 251.608819 
+L 149.845039 251.608819 
+L 149.845039 245.372598 
+L 145.309606 245.372598 
+z
+" clip-path="url(#p99750f55d2)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 145.309606 235.167874 
+L 190.663937 235.167874 
+L 190.663937 228.931654 
+L 145.309606 228.931654 
+z
+" clip-path="url(#p99750f55d2)" style="fill: #f0f0f0; stroke: #bfbfbf; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 145.309606 235.167874 
+L 167.986772 235.167874 
+L 167.986772 228.931654 
+L 145.309606 228.931654 
+z
+" clip-path="url(#p99750f55d2)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 145.309606 218.726929 
+L 190.663937 218.726929 
+L 190.663937 212.490709 
+L 145.309606 212.490709 
+z
+" clip-path="url(#p99750f55d2)" style="fill: #f0f0f0; stroke: #bfbfbf; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 145.309606 218.726929 
+L 183.860787 218.726929 
+L 183.860787 212.490709 
+L 145.309606 212.490709 
+z
+" clip-path="url(#p99750f55d2)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 238.852913 282.789921 
+L 442.947402 282.789921 
+Q 445.782047 282.789921 445.782047 279.955276 
+L 445.782047 172.23874 
+Q 445.782047 169.404094 442.947402 169.404094 
+L 238.852913 169.404094 
+Q 236.018268 169.404094 236.018268 172.23874 
+L 236.018268 279.955276 
+Q 236.018268 282.789921 238.852913 282.789921 
+z
+" clip-path="url(#p99750f55d2)" style="fill: #faf5f9; stroke: #cc79a7; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 14.915906 321.057638 
+L 442.947402 321.057638 
+Q 445.782047 321.057638 445.782047 318.222992 
+L 445.782047 294.128504 
+Q 445.782047 291.293858 442.947402 291.293858 
+L 14.915906 291.293858 
+Q 12.08126 291.293858 12.08126 294.128504 
+L 12.08126 318.222992 
+Q 12.08126 321.057638 14.915906 321.057638 
+z
+" clip-path="url(#p99750f55d2)" style="fill: #fffdf7; stroke: #d55e00; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 20.585197 258.695433 
+L 136.805669 258.695433 
+" clip-path="url(#p99750f55d2)" style="fill: none; stroke: #8c8c8c; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 20.585197 258.695433 
+L 20.585197 184.994646 
+" clip-path="url(#p99750f55d2)" style="fill: none; stroke: #8c8c8c; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 20.585197 251.5791 
+L 21.3652 247.496119 
+L 22.145203 241.979473 
+L 22.925206 235.032095 
+L 26.045219 202.732283 
+L 26.825222 197.900056 
+L 27.605225 196.056592 
+L 28.385229 197.485541 
+L 29.165232 201.966546 
+L 29.945235 208.830911 
+L 33.065248 241.165158 
+L 33.845251 246.870468 
+L 34.625254 251.130314 
+L 35.405257 254.105183 
+L 36.18526 256.053865 
+L 36.965263 257.253677 
+L 37.745267 257.94911 
+L 38.52527 258.329024 
+L 40.085276 258.620087 
+L 43.205289 258.693745 
+L 121.985609 258.695433 
+L 136.805669 258.695433 
+L 136.805669 258.695433 
+" clip-path="url(#p99750f55d2)" style="fill: none; stroke: #cc79a7; stroke-width: 1.2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 20.585197 258.591364 
+L 22.925206 258.335638 
+L 24.485213 257.933577 
+L 26.045219 257.178307 
+L 26.825222 256.603272 
+L 27.605225 255.854235 
+L 28.385229 254.895809 
+L 29.165232 253.69149 
+L 29.945235 252.205848 
+L 30.725238 250.407348 
+L 31.505241 248.271678 
+L 33.065248 242.949716 
+L 34.625254 236.327203 
+L 39.305273 214.332029 
+L 40.085276 211.57004 
+L 40.865279 209.398733 
+L 41.645282 207.913007 
+L 42.425286 207.179476 
+L 43.205289 207.231515 
+L 43.985292 208.066747 
+L 44.765295 209.647218 
+L 45.545298 211.902261 
+L 46.325301 214.73373 
+L 47.885308 221.639584 
+L 51.785324 240.218269 
+L 53.34533 246.132938 
+L 54.905336 250.662994 
+L 55.68534 252.41872 
+L 56.465343 253.865402 
+L 57.245346 255.035271 
+L 58.025349 255.964045 
+L 58.805352 256.688194 
+L 59.585355 257.242827 
+L 61.145362 257.968921 
+L 62.705368 258.353714 
+L 65.045378 258.597189 
+L 68.945393 258.686382 
+L 93.905495 258.695433 
+L 136.805669 258.695433 
+L 136.805669 258.695433 
+" clip-path="url(#p99750f55d2)" style="fill: none; stroke: #0072b2; stroke-width: 1.2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 20.585197 258.692542 
+L 29.945235 258.571737 
+L 33.065248 258.34387 
+L 35.405257 257.976547 
+L 36.965263 257.57424 
+L 38.52527 256.991578 
+L 40.085276 256.172434 
+L 41.645282 255.055159 
+L 43.205289 253.577633 
+L 44.765295 251.684676 
+L 46.325301 249.337524 
+L 47.885308 246.524467 
+L 49.445314 243.271199 
+L 51.785324 237.735275 
+L 56.465343 226.207683 
+L 58.025349 222.998904 
+L 59.585355 220.477723 
+L 60.365359 219.533996 
+L 61.145362 218.826403 
+L 61.925365 218.368445 
+L 62.705368 218.168943 
+L 63.485371 218.231762 
+L 64.265374 218.555684 
+L 65.045378 219.134448 
+L 65.825381 219.956948 
+L 66.605384 221.007593 
+L 68.16539 223.711574 
+L 69.725397 227.053244 
+L 72.065406 232.769295 
+L 75.185419 240.543228 
+L 77.525428 245.716308 
+L 79.085435 248.648392 
+L 80.645441 251.117282 
+L 82.205447 253.125876 
+L 83.765454 254.706926 
+L 85.32546 255.91231 
+L 86.885466 256.803147 
+L 88.445473 257.441791 
+L 90.005479 257.886165 
+L 92.345489 258.295632 
+L 95.465501 258.552847 
+L 100.14552 258.670434 
+L 115.745584 258.695419 
+L 136.805669 258.695433 
+L 136.805669 258.695433 
+" clip-path="url(#p99750f55d2)" style="fill: none; stroke: #009e73; stroke-width: 1.2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 20.585197 258.695433 
+L 58.805352 258.60107 
+L 64.265374 258.349968 
+L 67.385387 258.021148 
+L 70.5054 257.447223 
+L 72.845409 256.782145 
+L 75.185419 255.848756 
+L 77.525428 254.584304 
+L 79.085435 253.529004 
+L 80.645441 252.288194 
+L 82.985451 250.063409 
+L 85.32546 247.407367 
+L 87.66547 244.367235 
+L 90.785482 239.895045 
+L 95.465501 233.108776 
+L 97.805511 230.150128 
+L 99.365517 228.49387 
+L 100.925523 227.161704 
+L 102.48553 226.203732 
+L 104.045536 225.656901 
+L 105.605542 225.542632 
+L 107.165549 225.865432 
+L 108.725555 226.612597 
+L 110.285561 227.755043 
+L 111.845568 229.249181 
+L 113.405574 231.039683 
+L 115.745584 234.140456 
+L 120.425603 240.992581 
+L 123.545615 245.373467 
+L 125.885625 248.299308 
+L 128.225634 250.820627 
+L 130.565644 252.905502 
+L 132.905653 254.563321 
+L 135.245663 255.832996 
+L 136.805669 256.491192 
+L 136.805669 256.491192 
+" clip-path="url(#p99750f55d2)" style="fill: none; stroke: #e69f00; stroke-width: 1.2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 20.585197 258.695433 
+L 20.585197 260.39622 
+" clip-path="url(#p99750f55d2)" style="fill: none; stroke: #8c8c8c; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 49.640315 258.695433 
+L 49.640315 260.39622 
+" clip-path="url(#p99750f55d2)" style="fill: none; stroke: #8c8c8c; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_9">
+    <path d="M 78.695433 258.695433 
+L 78.695433 260.39622 
+" clip-path="url(#p99750f55d2)" style="fill: none; stroke: #8c8c8c; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_10">
+    <path d="M 107.750551 258.695433 
+L 107.750551 260.39622 
+" clip-path="url(#p99750f55d2)" style="fill: none; stroke: #8c8c8c; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_11">
+    <path d="M 136.805669 258.695433 
+L 136.805669 260.39622 
+" clip-path="url(#p99750f55d2)" style="fill: none; stroke: #8c8c8c; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="11.393895" transform="rotate(-0 12.08126 11.393895)">(A) Biology of IBD tracts [Kli21, Huf11]</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="236.018268" y="11.393895" transform="rotate(-0 236.018268 11.393895)">(B) cM metrics &amp; ERSA [Huf11, Kli21]</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="17.750551" y="31.288758" transform="rotate(-0 17.750551 31.288758)">Meiotic Recombination &amp; Fragmentation</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="43.785957" transform="rotate(-0 17.750551 43.785957)">Ancestors</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #8c8c8c" x="77.27811" y="43.785957" transform="rotate(-0 77.27811 43.785957)">100% blocks</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="60.793758" transform="rotate(-0 17.750551 60.793758)">Children (1C)</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #8c8c8c" x="77.27811" y="60.793758" transform="rotate(-0 77.27811 60.793758)">~50% (3500 cM)</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="77.801632" transform="rotate(-0 17.750551 77.801632)">Grandchild (2C)</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #8c8c8c" x="77.27811" y="77.801632" transform="rotate(-0 77.27811 77.801632)">~25% (1750 cM)</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="94.809506" transform="rotate(-0 17.750551 94.809506)">Great-grand (3C)</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #8c8c8c" x="77.27811" y="94.809506" transform="rotate(-0 77.27811 94.809506)">~12.5% (875 cM)</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="117.486671" transform="rotate(-0 17.750551 117.486671)">Biological Principles [Kli21, Huf11]:</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="125.990682" transform="rotate(-0 17.750551 125.990682)">- Meiotic crossovers split chromosomes each event</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="134.494546" transform="rotate(-0 17.750551 134.494546)">- Shared IBD tracts shorten with genetic distance</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="142.998483" transform="rotate(-0 17.750551 142.998483)">- Distant kin inherit mosaic sub-segments or none</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #e69f00" x="239.986772" y="28.454112" transform="rotate(-0 239.986772 28.454112)">cM Metrics &amp; ERSA Kinship Modeling [Huf11]</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="36.415805" transform="rotate(-0 239.986772 36.415805)">Centimorgan (cM) Definition:</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="43.785884" transform="rotate(-0 239.986772 43.785884)">- Map unit: 1 cM = 1% recombination probability</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="51.155963" transform="rotate(-0 239.986772 51.155963)">- 1 cM corresponds to ~1 Mb physical DNA on average</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="58.526042" transform="rotate(-0 239.986772 58.526042)">- Genome map length is ~3,500 cM autosomal total</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="73.266199" transform="rotate(-0 239.986772 73.266199)">Total Shared cM vs Segment Lengths:</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="80.636278" transform="rotate(-0 239.986772 80.636278)">- Total shared cM aggregates detected IBD segments</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="88.006357" transform="rotate(-0 239.986772 88.006357)">- Segment length distribution adds crucial power:</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="95.376435" transform="rotate(-0 239.986772 95.376435)">  A single 40 cM tract indicates close ancestry,</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="102.746514" transform="rotate(-0 239.986772 102.746514)">  whereas eight 5 cM tracts reflect distant sharing</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="117.486745" transform="rotate(-0 239.986772 117.486745)">ERSA Maximum Likelihood Estimation [Huf11]:</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="124.85675" transform="rotate(-0 239.986772 124.85675)">- Jointly models segment count and segment lengths</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="132.226829" transform="rotate(-0 239.986772 132.226829)">- Bypasses limits of naive total-cM summing models</text>
+   </g>
+   <g id="text_29">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="160.212793" transform="rotate(-0 12.08126 160.212793)">(C) Overlapping cM &amp; zero-IBD [Huf11, Kli19]</text>
+   </g>
+   <g id="text_30">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="236.018268" y="160.212793" transform="rotate(-0 236.018268 160.212793)">(D) Technical confounders [Huf11, Erl18]</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="20.585197" y="266.706819" transform="rotate(-0 20.585197 266.706819)">0</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="49.640315" y="266.706819" transform="rotate(-0 49.640315 266.706819)">300</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="78.695433" y="266.706819" transform="rotate(-0 78.695433 266.706819)">600</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="107.750551" y="266.706819" transform="rotate(-0 107.750551 266.706819)">900</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="136.805669" y="266.706819" transform="rotate(-0 136.805669 266.706819)">1200</text>
+   </g>
+   <g id="text_36">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="78.695433" y="277.761937" transform="rotate(-0 78.695433 277.761937)">Total Shared cM</text>
+   </g>
+   <g id="text_37">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="22.852913" y="191.230866" transform="rotate(-0 22.852913 191.230866)">Shared cM Density Ranges</text>
+   </g>
+   <g id="text_38">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #cc79a7" x="46.097008" y="197.750551" transform="rotate(-0 46.097008 197.750551)">3C</text>
+   </g>
+   <g id="text_39">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="61.687559" y="210.506457" transform="rotate(-0 61.687559 210.506457)">2C</text>
+   </g>
+   <g id="text_40">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="78.695433" y="223.262362" transform="rotate(-0 78.695433 223.262362)">1C1R</text>
+   </g>
+   <g id="text_41">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #e69f00" x="108.459213" y="233.183622" transform="rotate(-0 108.459213 233.183622)">1C</text>
+   </g>
+   <g id="text_42">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="145.309606" y="189.246614" transform="rotate(-0 145.309606 189.246614)">Zero-IBD Risk [Kli19]</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="145.309606" y="195.766299" transform="rotate(-0 145.309606 195.766299)">(True kin sharing 0 cM)</text>
+   </g>
+   <g id="text_44">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="145.309606" y="241.971024" transform="rotate(-0 145.309606 241.971024)">3rd Cousins</text>
+   </g>
+   <g id="text_45">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="192.931654" y="250.431627" transform="rotate(-0 192.931654 250.431627)">~10%</text>
+   </g>
+   <g id="text_46">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="145.309606" y="225.530079" transform="rotate(-0 145.309606 225.530079)">4th Cousins</text>
+   </g>
+   <g id="text_47">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="192.931654" y="233.990682" transform="rotate(-0 192.931654 233.990682)">~50%</text>
+   </g>
+   <g id="text_48">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="145.309606" y="209.089134" transform="rotate(-0 145.309606 209.089134)">5th Cousins</text>
+   </g>
+   <g id="text_49">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="192.931654" y="217.549737" transform="rotate(-0 192.931654 217.549737)">&gt;85%</text>
+   </g>
+   <g id="text_50">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #cc79a7" x="239.986772" y="178.690333" transform="rotate(-0 239.986772 178.690333)">Confounders in Segment Calling [Huf11, Erl18]</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="186.652026" transform="rotate(-0 239.986772 186.652026)">- Genotyping Error &amp; Drop-out [Kli21]:</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="194.022105" transform="rotate(-0 239.986772 194.022105)">  Stochastic missing calls break true contiguous tracts,</text>
+   </g>
+   <g id="text_53">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="201.392183" transform="rotate(-0 239.986772 201.392183)">  deflating total shared cM and underestimating kinship.</text>
+   </g>
+   <g id="text_54">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="208.762335" transform="rotate(-0 239.986772 208.762335)">- Imputation Noise &amp; Inferred Loci [Kli21]:</text>
+   </g>
+   <g id="text_55">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="216.132341" transform="rotate(-0 239.986772 216.132341)">  Imputing untyped SNPs bridges gaps but can create</text>
+   </g>
+   <g id="text_56">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="223.50242" transform="rotate(-0 239.986772 223.50242)">  false IBD segments; depends on reference panel fit.</text>
+   </g>
+   <g id="text_57">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="230.872498" transform="rotate(-0 239.986772 230.872498)">- Population Endogamy &amp; Pedigree Collapse [Huf11]:</text>
+   </g>
+   <g id="text_58">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="238.242577" transform="rotate(-0 239.986772 238.242577)">  Intermarriage in closed groups inflates background IBD;</text>
+   </g>
+   <g id="text_59">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="245.612656" transform="rotate(-0 239.986772 245.612656)">  standard models predict deceptively close kinship.</text>
+   </g>
+   <g id="text_60">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="252.982808" transform="rotate(-0 239.986772 252.982808)">- Ancestral Representation Bias in Databases [Erl18]:</text>
+   </g>
+   <g id="text_61">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="260.352886" transform="rotate(-0 239.986772 260.352886)">  Consumer services overrepresent European ancestries;</text>
+   </g>
+   <g id="text_62">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="267.722892" transform="rotate(-0 239.986772 267.722892)">  underrepresented groups yield fewer distant-relative leads.</text>
+   </g>
+   <g id="text_63">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="17.750551" y="302.564431" transform="rotate(-0 17.750551 302.564431)">CARDINAL FORENSIC REPORTING RULE [Kli21, Gue21]:</text>
+   </g>
+   <g id="text_64">
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #8c8c8c" x="440.112756" y="302.316629" transform="rotate(-0 440.112756 302.316629)">Simulated data for illustration</text>
+   </g>
+   <g id="text_65">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #4d4d4d" transform="translate(17.750551 310.413051)">Database reports provide an estimated range of relationships (e.g. 2nd-3rd cousin), never a definitive family relationship.</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #4d4d4d" transform="translate(17.750551 318.57604)">Inheritance and recombination are stochastic, and overlapping cM distributions preclude unique pedigree assignment from DNA alone.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p99750f55d2">
+   <rect x="2.16" y="2.16" width="453.543307" height="328.818898"/>
+  </clipPath>
+ </defs>
+</svg>

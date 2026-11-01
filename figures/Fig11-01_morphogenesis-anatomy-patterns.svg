@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="457.863307pt" height="333.138898pt" viewBox="0 0 457.863307 333.138898" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-01T00:33:29.086546</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 333.138898 
+L 457.863307 333.138898 
+L 457.863307 -0 
+L 0 -0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 14.915906 148.144252 
+L 221.845039 148.144252 
+Q 224.679685 148.144252 224.679685 145.309606 
+L 224.679685 22.00252 
+Q 224.679685 19.167874 221.845039 19.167874 
+L 14.915906 19.167874 
+Q 12.08126 19.167874 12.08126 22.00252 
+L 12.08126 145.309606 
+Q 12.08126 148.144252 14.915906 148.144252 
+z
+" clip-path="url(#pc4110f9a1f)" style="fill: #f4f8fa; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 238.852913 148.144252 
+L 442.947402 148.144252 
+Q 445.782047 148.144252 445.782047 145.309606 
+L 445.782047 22.00252 
+Q 445.782047 19.167874 442.947402 19.167874 
+L 238.852913 19.167874 
+Q 236.018268 19.167874 236.018268 22.00252 
+L 236.018268 145.309606 
+Q 236.018268 148.144252 238.852913 148.144252 
+z
+" clip-path="url(#pc4110f9a1f)" style="fill: #fdfdfd; stroke: #bfbfbf; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 243.955276 125.467087 
+L 303.19937 125.467087 
+Q 305.467087 125.467087 305.467087 123.19937 
+L 305.467087 39.860787 
+Q 305.467087 37.593071 303.19937 37.593071 
+L 243.955276 37.593071 
+Q 241.687559 37.593071 241.687559 39.860787 
+L 241.687559 123.19937 
+Q 241.687559 125.467087 243.955276 125.467087 
+z
+" clip-path="url(#pc4110f9a1f)" style="fill: #fdfbf7; stroke: #e69f00; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 283.636424 90.573185 
+C 282.707211 89.137126 281.257395 87.925891 279.453603 87.078684 
+C 277.64981 86.231477 275.563896 85.782047 273.435591 85.782047 
+C 271.307285 85.782047 269.221371 86.231477 267.417578 87.078684 
+C 265.613786 87.925891 264.163971 89.137126 263.234757 90.573185 
+" clip-path="url(#pc4110f9a1f)" style="fill: none; stroke: #e69f00; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 288.736841 88.716785 
+C 287.343021 86.562697 285.168297 84.745844 282.462609 83.475034 
+C 279.75692 82.204223 276.628049 81.530079 273.435591 81.530079 
+C 270.243132 81.530079 267.114261 82.204223 264.408572 83.475034 
+C 261.702884 84.745844 259.528161 86.562697 258.134341 88.716785 
+" clip-path="url(#pc4110f9a1f)" style="fill: none; stroke: #e69f00; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 293.837257 86.860385 
+C 291.978831 83.988268 289.0792 81.565797 285.471615 79.871383 
+C 281.86403 78.176969 277.692201 77.27811 273.435591 77.27811 
+C 269.17898 77.27811 265.007151 78.176969 261.399566 79.871383 
+C 257.791981 81.565797 254.892351 83.988268 253.033924 86.860385 
+" clip-path="url(#pc4110f9a1f)" style="fill: none; stroke: #e69f00; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 298.937674 85.003985 
+C 296.614641 81.413839 292.990102 78.385751 288.480621 76.267733 
+C 283.97114 74.149716 278.756354 73.026142 273.435591 73.026142 
+C 268.114827 73.026142 262.900041 74.149716 258.39056 76.267733 
+C 253.881079 78.385751 250.256541 81.413839 247.933507 85.003985 
+" clip-path="url(#pc4110f9a1f)" style="fill: none; stroke: #e69f00; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 311.986772 125.467087 
+L 371.230866 125.467087 
+Q 373.498583 125.467087 373.498583 123.19937 
+L 373.498583 39.860787 
+Q 373.498583 37.593071 371.230866 37.593071 
+L 311.986772 37.593071 
+Q 309.719055 37.593071 309.719055 39.860787 
+L 309.719055 123.19937 
+Q 309.719055 125.467087 311.986772 125.467087 
+z
+" clip-path="url(#pc4110f9a1f)" style="fill: #f4faf6; stroke: #009e73; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 342.539889 80.96315 
+C 341.875585 79.81254 341.004715 78.802329 339.99734 78.013785 
+C 338.989966 77.225242 337.873845 76.680095 336.738769 76.422201 
+C 335.603693 76.164308 334.48094 76.200774 333.460833 76.528666 
+C 332.440726 76.856558 331.551375 77.466841 330.864328 78.310418 
+C 330.177281 79.153995 329.711469 80.207622 329.504367 81.386533 
+C 329.297265 82.565445 329.354579 83.837157 329.671698 85.099362 
+C 329.988818 86.361567 330.557005 87.579483 331.330549 88.655131 
+C 332.104092 89.730779 333.061678 90.634519 334.126268 91.293645 
+" clip-path="url(#pc4110f9a1f)" style="fill: none; stroke: #009e73; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 346.46769 78.695433 
+C 345.360515 76.777751 343.909066 75.094065 342.230108 73.779826 
+C 340.55115 72.465587 338.690949 71.557009 336.799156 71.127186 
+C 334.907363 70.697364 333.036107 70.758141 331.335929 71.304628 
+C 329.635751 71.851114 328.153499 72.868253 327.008421 74.274214 
+C 325.863342 75.680176 325.086989 77.43622 324.741819 79.401073 
+C 324.396648 81.365926 324.492172 83.485446 325.020705 85.58912 
+C 325.549237 87.692795 326.496215 89.722655 327.785455 91.515402 
+C 329.074695 93.308148 330.67067 94.814381 332.444988 95.912925 
+" clip-path="url(#pc4110f9a1f)" style="fill: none; stroke: #009e73; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 350.39549 76.427717 
+C 348.845446 73.742962 346.813416 71.385801 344.462876 69.545866 
+C 342.112335 67.705931 339.508053 66.433922 336.859543 65.832171 
+C 334.211033 65.230419 331.591274 65.315507 329.211025 66.080589 
+C 326.830775 66.84567 324.755623 68.269664 323.152513 70.23801 
+C 321.549403 72.206357 320.462509 74.664818 319.979271 77.415612 
+C 319.496032 80.166406 319.629765 83.133735 320.369711 86.078879 
+C 321.109657 89.024023 322.435426 91.865828 324.240361 94.375673 
+C 326.045297 96.885518 328.279663 98.994244 330.763707 100.532205 
+" clip-path="url(#pc4110f9a1f)" style="fill: none; stroke: #009e73; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 354.32329 74.16 
+C 352.330377 70.708172 349.717767 67.677537 346.695643 65.311907 
+C 343.67352 62.946276 340.325158 61.310836 336.91993 60.537155 
+C 333.514702 59.763475 330.146441 59.872874 327.086121 60.85655 
+C 324.0258 61.840226 321.357747 63.671075 319.296606 66.201806 
+C 317.235464 68.732538 315.838029 71.893416 315.216723 75.430151 
+C 314.595416 78.966887 314.767359 82.782023 315.718717 86.568637 
+C 316.670076 90.355251 318.374636 94.009 320.695268 97.235944 
+C 323.015899 100.462888 325.888656 103.174107 329.082427 105.151486 
+" clip-path="url(#pc4110f9a1f)" style="fill: none; stroke: #009e73; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 380.018268 125.467087 
+L 439.262362 125.467087 
+Q 441.530079 125.467087 441.530079 123.19937 
+L 441.530079 39.860787 
+Q 441.530079 37.593071 439.262362 37.593071 
+L 380.018268 37.593071 
+Q 377.750551 37.593071 377.750551 39.860787 
+L 377.750551 123.19937 
+Q 377.750551 125.467087 380.018268 125.467087 
+z
+" clip-path="url(#pc4110f9a1f)" style="fill: #faf5f9; stroke: #cc79a7; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 409.498583 90.034016 
+C 411.377975 90.034016 413.180645 89.287325 414.509576 87.958395 
+C 415.838506 86.629464 416.585197 84.826794 416.585197 82.947402 
+C 416.585197 81.06801 415.838506 79.265339 414.509576 77.936409 
+C 413.180645 76.607478 411.377975 75.860787 409.498583 75.860787 
+C 407.619191 75.860787 405.816521 76.607478 404.48759 77.936409 
+C 403.158659 79.265339 402.411969 81.06801 402.411969 82.947402 
+C 402.411969 84.826794 403.158659 86.629464 404.48759 87.958395 
+C 405.816521 89.287325 407.619191 90.034016 409.498583 90.034016 
+L 409.498583 90.034016 
+z
+" clip-path="url(#pc4110f9a1f)" style="fill: none; stroke: #cc79a7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 409.498583 95.703307 
+C 412.881488 95.703307 416.126294 94.359264 418.51837 91.967189 
+C 420.910446 89.575113 422.254488 86.330307 422.254488 82.947402 
+C 422.254488 79.564496 420.910446 76.31969 418.51837 73.927614 
+C 416.126294 71.535539 412.881488 70.191496 409.498583 70.191496 
+C 406.115677 70.191496 402.870871 71.535539 400.478795 73.927614 
+C 398.08672 76.31969 396.742677 79.564496 396.742677 82.947402 
+C 396.742677 86.330307 398.08672 89.575113 400.478795 91.967189 
+C 402.870871 94.359264 406.115677 95.703307 409.498583 95.703307 
+L 409.498583 95.703307 
+z
+" clip-path="url(#pc4110f9a1f)" style="fill: none; stroke: #cc79a7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 409.498583 101.372598 
+C 414.385002 101.372598 419.071944 99.431203 422.527164 95.975983 
+C 425.982385 92.520763 427.92378 87.833821 427.92378 82.947402 
+C 427.92378 78.060982 425.982385 73.37404 422.527164 69.91882 
+C 419.071944 66.4636 414.385002 64.522205 409.498583 64.522205 
+C 404.612163 64.522205 399.925221 66.4636 396.470001 69.91882 
+C 393.014781 73.37404 391.073386 78.060982 391.073386 82.947402 
+C 391.073386 87.833821 393.014781 92.520763 396.470001 95.975983 
+C 399.925221 99.431203 404.612163 101.372598 409.498583 101.372598 
+L 409.498583 101.372598 
+z
+" clip-path="url(#pc4110f9a1f)" style="fill: none; stroke: #cc79a7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 409.498583 107.04189 
+C 415.888516 107.04189 422.017594 104.503142 426.535959 99.984778 
+C 431.054324 95.466413 433.593071 89.337335 433.593071 82.947402 
+C 433.593071 76.557469 431.054324 70.428391 426.535959 65.910026 
+C 422.017594 61.391661 415.888516 58.852913 409.498583 58.852913 
+C 403.10865 58.852913 396.979572 61.391661 392.461207 65.910026 
+C 387.942842 70.428391 385.404094 76.557469 385.404094 82.947402 
+C 385.404094 89.337335 387.942842 95.466413 392.461207 99.984778 
+C 396.979572 104.503142 403.10865 107.04189 409.498583 107.04189 
+L 409.498583 107.04189 
+z
+" clip-path="url(#pc4110f9a1f)" style="fill: none; stroke: #cc79a7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 14.915906 282.789921 
+L 221.845039 282.789921 
+Q 224.679685 282.789921 224.679685 279.955276 
+L 224.679685 172.23874 
+Q 224.679685 169.404094 221.845039 169.404094 
+L 14.915906 169.404094 
+Q 12.08126 169.404094 12.08126 172.23874 
+L 12.08126 279.955276 
+Q 12.08126 282.789921 14.915906 282.789921 
+z
+" clip-path="url(#pc4110f9a1f)" style="fill: #fdfdfd; stroke: #bfbfbf; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 17.750551 260.112756 
+L 213.341102 260.112756 
+L 213.341102 231.766299 
+L 17.750551 231.766299 
+z
+" clip-path="url(#pc4110f9a1f)" style="fill: #f4f8fa; stroke: #bfbfbf; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 17.750551 231.766299 
+L 213.341102 231.766299 
+L 213.341102 197.750551 
+L 17.750551 197.750551 
+z
+" clip-path="url(#pc4110f9a1f)" style="fill: #faf5f9; stroke: #bfbfbf; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 56.018268 241.687559 
+L 78.695433 241.687559 
+L 78.695433 227.514331 
+L 56.018268 227.514331 
+z
+" clip-path="url(#pc4110f9a1f)" style="fill: #faf5f9; stroke: #8c8c8c; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 109.876535 241.687559 
+L 132.553701 241.687559 
+L 132.553701 227.514331 
+L 109.876535 227.514331 
+z
+" clip-path="url(#pc4110f9a1f)" style="fill: #faf5f9; stroke: #8c8c8c; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 163.734803 241.687559 
+L 186.411969 241.687559 
+L 186.411969 227.514331 
+L 163.734803 227.514331 
+z
+" clip-path="url(#pc4110f9a1f)" style="fill: #faf5f9; stroke: #8c8c8c; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 121.215118 258.128504 
+C 122.56828 258.128504 123.866203 257.590887 124.823033 256.634057 
+C 125.779863 255.677226 126.31748 254.379304 126.31748 253.026142 
+C 126.31748 251.672979 125.779863 250.375057 124.823033 249.418227 
+C 123.866203 248.461397 122.56828 247.92378 121.215118 247.92378 
+C 119.861956 247.92378 118.564033 248.461397 117.607203 249.418227 
+C 116.650373 250.375057 116.112756 251.672979 116.112756 253.026142 
+C 116.112756 254.379304 116.650373 255.677226 117.607203 256.634057 
+C 118.564033 257.590887 119.861956 258.128504 121.215118 258.128504 
+z
+" clip-path="url(#pc4110f9a1f)" style="fill: #009e73; stroke: #4d4d4d; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 238.852913 224.679685 
+L 442.947402 224.679685 
+Q 445.782047 224.679685 445.782047 221.845039 
+L 445.782047 172.23874 
+Q 445.782047 169.404094 442.947402 169.404094 
+L 238.852913 169.404094 
+Q 236.018268 169.404094 236.018268 172.23874 
+L 236.018268 221.845039 
+Q 236.018268 224.679685 238.852913 224.679685 
+z
+" clip-path="url(#pc4110f9a1f)" style="fill: #f4f8fa; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 238.852913 282.789921 
+L 442.947402 282.789921 
+Q 445.782047 282.789921 445.782047 279.955276 
+L 445.782047 230.348976 
+Q 445.782047 227.514331 442.947402 227.514331 
+L 238.852913 227.514331 
+Q 236.018268 227.514331 236.018268 230.348976 
+L 236.018268 279.955276 
+Q 236.018268 282.789921 238.852913 282.789921 
+z
+" clip-path="url(#pc4110f9a1f)" style="fill: #fdfbf7; stroke: #e69f00; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 14.915906 321.057638 
+L 442.947402 321.057638 
+Q 445.782047 321.057638 445.782047 318.222992 
+L 445.782047 294.128504 
+Q 445.782047 291.293858 442.947402 291.293858 
+L 14.915906 291.293858 
+Q 12.08126 291.293858 12.08126 294.128504 
+L 12.08126 318.222992 
+Q 12.08126 321.057638 14.915906 321.057638 
+z
+" clip-path="url(#pc4110f9a1f)" style="fill: #fffdf7; stroke: #d55e00; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 360.742677 98.537953 
+" clip-path="url(#pc4110f9a1f)" style="fill: none; stroke: #d55e00; stroke-width: 1.2; stroke-linecap: square"/>
+    <defs>
+     <path id="md3d83bd408" d="M 0 -2.5 
+L -2.5 2.5 
+L 2.5 2.5 
+z
+" style="stroke: #d55e00; stroke-linejoin: miter"/>
+    </defs>
+    <g clip-path="url(#pc4110f9a1f)">
+     <use xlink:href="#md3d83bd408" x="360.742677" y="98.537953" style="fill: #d55e00; stroke: #d55e00; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="line2d_2">
+    <path d="M 387.671811 98.537953 
+" clip-path="url(#pc4110f9a1f)" style="fill: none; stroke: #d55e00; stroke-width: 1.2; stroke-linecap: square"/>
+    <g clip-path="url(#pc4110f9a1f)">
+     <use xlink:href="#md3d83bd408" x="387.671811" y="98.537953" style="fill: #d55e00; stroke: #d55e00; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="line2d_3">
+    <path d="M 431.608819 98.537953 
+" clip-path="url(#pc4110f9a1f)" style="fill: none; stroke: #d55e00; stroke-width: 1.2; stroke-linecap: square"/>
+    <g clip-path="url(#pc4110f9a1f)">
+     <use xlink:href="#md3d83bd408" x="431.608819" y="98.537953" style="fill: #d55e00; stroke: #d55e00; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="line2d_4">
+    <path d="M 121.215118 247.92378 
+L 121.215118 206.254488 
+" clip-path="url(#pc4110f9a1f)" style="fill: none; stroke-dasharray: 1.2,1.98; stroke-dashoffset: 0; stroke: #009e73; stroke-width: 1.2"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 121.215118 206.254488 
+" clip-path="url(#pc4110f9a1f)" style="fill: none; stroke: #009e73; stroke-width: 1.2; stroke-linecap: square"/>
+    <defs>
+     <path id="m44507fa913" d="M 0 2.5 
+C 0.663008 2.5 1.29895 2.236584 1.767767 1.767767 
+C 2.236584 1.29895 2.5 0.663008 2.5 0 
+C 2.5 -0.663008 2.236584 -1.29895 1.767767 -1.767767 
+C 1.29895 -2.236584 0.663008 -2.5 0 -2.5 
+C -0.663008 -2.5 -1.29895 -2.236584 -1.767767 -1.767767 
+C -2.236584 -1.29895 -2.5 -0.663008 -2.5 0 
+C -2.5 0.663008 -2.236584 1.29895 -1.767767 1.767767 
+C -1.29895 2.236584 -0.663008 2.5 0 2.5 
+z
+" style="stroke: #009e73"/>
+    </defs>
+    <g clip-path="url(#pc4110f9a1f)">
+     <use xlink:href="#m44507fa913" x="121.215118" y="206.254488" style="fill: #009e73; stroke: #009e73"/>
+    </g>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="11.393895" transform="rotate(-0 12.08126 11.393895)">(A) Morphogenesis models [Glo23, Kuc05]</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="236.018268" y="11.393895" transform="rotate(-0 236.018268 11.393895)">(B) Pattern topologies &amp; triradii [Li22, Glo23]</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="16.049764" y="28.454112" transform="rotate(-0 16.049764 28.454112)">Morphogenesis &amp; Developmental Models [Glo23]</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="36.415805" transform="rotate(-0 16.049764 36.415805)">Embryonic Volar Pads [Wer02, Glo23]:</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="43.785884" transform="rotate(-0 16.049764 43.785884)">- Temporary fetal swellings present before ridge formation</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="51.155963" transform="rotate(-0 16.049764 51.155963)">- Pad height, symmetry, and regression timing shape local</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="58.526115" transform="rotate(-0 16.049764 58.526115)">  mechanical stress and broad pattern orientation</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="73.266199" transform="rotate(-0 16.049764 73.266199)">Competing Morphogenetic Hypotheses:</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="80.636278" transform="rotate(-0 16.049764 80.636278)">- Mechanical Buckling Model [Kuc05]:</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="88.006357" transform="rotate(-0 16.049764 88.006357)">  Differential growth stresses compress basal epidermis,</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="95.376435" transform="rotate(-0 16.049764 95.376435)">  causing mechanical buckling into periodic folds.</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="102.746514" transform="rotate(-0 16.049764 102.746514)">- Reaction-Diffusion Signaling Waves [Glo23]:</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="110.116593" transform="rotate(-0 16.049764 110.116593)">  EDAR and WNT promote ridge growth; BMP inhibits.</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="117.486671" transform="rotate(-0 16.049764 117.486671)">  Pattern propagates in waves from variable sites;</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="124.856823" transform="rotate(-0 16.049764 124.856823)">  collision of three waves forms a triradius [Glo23].</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="132.226829" transform="rotate(-0 16.049764 132.226829)">- Limb development genes influence digit growth [Li22]</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #e69f00" x="241.687559" y="31.288758" transform="rotate(-0 241.687559 31.288758)">Three Topologies Defined by Triradii Count</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #e69f00" x="273.435591" y="46.097008" transform="rotate(-0 273.435591 46.097008)">Arch (0 Triradii)</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="273.435591" y="114.128504" transform="rotate(-0 273.435591 114.128504)">No delta</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #8c8c8c" x="273.435591" y="120.648189" transform="rotate(-0 273.435591 120.648189)">Parallel flow</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #009e73" x="341.467087" y="46.097008" transform="rotate(-0 341.467087 46.097008)">Loop (1 Triradius)</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #d55e00" x="360.742677" y="94.285984" transform="rotate(-0 360.742677 94.285984)">Delta</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="341.467087" y="114.128504" transform="rotate(-0 341.467087 114.128504)">1 delta</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #8c8c8c" x="341.467087" y="120.648189" transform="rotate(-0 341.467087 120.648189)">Recurving core</text>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #cc79a7" x="409.498583" y="46.097008" transform="rotate(-0 409.498583 46.097008)">Whorl (2 Triradii)</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="409.498583" y="114.128504" transform="rotate(-0 409.498583 114.128504)">2 deltas</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #8c8c8c" x="409.498583" y="120.648189" transform="rotate(-0 409.498583 120.648189)">Concentric flow</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.687559" y="135.911942" transform="rotate(-0 241.687559 135.911942)">- Triradii form at collisions of three waves [Glo23]</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.687559" y="143.565412" transform="rotate(-0 241.687559 143.565412)">- Pattern type reflects developmental geometry [Li22]</text>
+   </g>
+   <g id="text_30">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="160.212793" transform="rotate(-0 12.08126 160.212793)">(C) Friction-ridge histology [Wer02, Glo23]</text>
+   </g>
+   <g id="text_31">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="236.018268" y="160.212793" transform="rotate(-0 236.018268 160.212793)">(D) Permanence vs persistence [Mon19]</text>
+   </g>
+   <g id="text_32">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="17.750551" y="179.540726" transform="rotate(-0 17.750551 179.540726)">Histological Cross-Section &amp; Pores</text>
+   </g>
+   <g id="text_33">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #cc79a7" x="22.00252" y="207.671811" transform="rotate(-0 22.00252 207.671811)">Epidermis</text>
+   </g>
+   <g id="text_34">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="22.00252" y="251.608819" transform="rotate(-0 22.00252 251.608819)">Dermal Stroma</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="22.00252" y="244.522205" transform="rotate(-0 22.00252 244.522205)">Primary Ridges</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="128.301732" y="254.966986" transform="rotate(-0 128.301732 254.966986)">Eccrine gland</text>
+   </g>
+   <g id="text_37">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="128.301732" y="208.195333" transform="rotate(-0 128.301732 208.195333)">Pore (apex)</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="274.809506" transform="rotate(-0 17.750551 274.809506)">- Anatomical minutiae (ridge endings, bifurcations)</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="281.329191" transform="rotate(-0 17.750551 281.329191)">  reflect local epidermal ridge branching paths</text>
+   </g>
+   <g id="text_40">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="239.986772" y="178.690333" transform="rotate(-0 239.986772 178.690333)">Permanence (Biological Stability) [Mon19]</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="186.652026" transform="rotate(-0 239.986772 186.652026)">- Lifetime morphological stability of skin structures</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="194.022105" transform="rotate(-0 239.986772 194.022105)">- Governed by the basement membrane &amp; primary ridges</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="201.392183" transform="rotate(-0 239.986772 201.392183)">- Pattern morphology persists from gestation through death</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="208.762262" transform="rotate(-0 239.986772 208.762262)">- Superficial epidermal injury regenerates original ridge flow</text>
+   </g>
+   <g id="text_45">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #e69f00" x="239.986772" y="236.800569" transform="rotate(-0 239.986772 236.800569)">Persistence (Impression Reproducibility) [Mon19]</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="244.762262" transform="rotate(-0 239.986772 244.762262)">- Reproducibility of transferred marks across contact events</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="252.132341" transform="rotate(-0 239.986772 252.132341)">- Subject to contact pressure, deposition angle &amp; distortion</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="259.50242" transform="rotate(-0 239.986772 259.50242)">- Local ridge paths recognizable; pores &amp; edges less stable</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="266.872498" transform="rotate(-0 239.986772 266.872498)">- Impression persistence != biological permanence [Mon19]</text>
+   </g>
+   <g id="text_50">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="17.750551" y="302.564431" transform="rotate(-0 17.750551 302.564431)">FOUNDATIONAL ANATOMICAL PRINCIPLE [Wer02, Mon19]:</text>
+   </g>
+   <g id="text_51">
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #8c8c8c" x="440.112756" y="302.316629" transform="rotate(-0 440.112756 302.316629)">Simulated data for illustration</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #4d4d4d" transform="translate(17.750551 310.413051)">Minutiae and pores are anatomical descriptions of friction-ridge skin architecture, not comparison features for individualization.</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #4d4d4d" transform="translate(17.750551 318.57604)">Forensic comparison methodologies (ACE-V), Level 1/2/3 feature evaluation, and AFIS algorithms are reserved for Chapter 12.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pc4110f9a1f">
+   <rect x="2.16" y="2.16" width="453.543307" height="328.818898"/>
+  </clipPath>
+ </defs>
+</svg>

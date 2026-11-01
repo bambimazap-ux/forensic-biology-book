@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="468.006393pt" height="335.223216pt" viewBox="0 0 468.006393 335.223216" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-01T00:01:34.962247</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 335.223216 
+L 468.006393 335.223216 
+L 468.006393 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 14.915906 138.222992 
+L 219.010394 138.222992 
+Q 221.845039 138.222992 221.845039 135.388346 
+L 221.845039 20.585197 
+Q 221.845039 17.750551 219.010394 17.750551 
+L 14.915906 17.750551 
+Q 12.08126 17.750551 12.08126 20.585197 
+L 12.08126 135.388346 
+Q 12.08126 138.222992 14.915906 138.222992 
+z
+" clip-path="url(#p8d896465dd)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 238.852913 138.222992 
+L 442.947402 138.222992 
+Q 445.782047 138.222992 445.782047 135.388346 
+L 445.782047 20.585197 
+Q 445.782047 17.750551 442.947402 17.750551 
+L 238.852913 17.750551 
+Q 236.018268 17.750551 236.018268 20.585197 
+L 236.018268 135.388346 
+Q 236.018268 138.222992 238.852913 138.222992 
+z
+" clip-path="url(#p8d896465dd)" style="fill: #ffffff; stroke: #009e73; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 14.915906 255.860787 
+L 219.010394 255.860787 
+Q 221.845039 255.860787 221.845039 253.026142 
+L 221.845039 155.230866 
+Q 221.845039 152.39622 219.010394 152.39622 
+L 14.915906 152.39622 
+Q 12.08126 152.39622 12.08126 155.230866 
+L 12.08126 253.026142 
+Q 12.08126 255.860787 14.915906 255.860787 
+z
+" clip-path="url(#p8d896465dd)" style="fill: #ffffff; stroke: #e69f00; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 238.852913 255.860787 
+L 442.947402 255.860787 
+Q 445.782047 255.860787 445.782047 253.026142 
+L 445.782047 155.230866 
+Q 445.782047 152.39622 442.947402 152.39622 
+L 238.852913 152.39622 
+Q 236.018268 152.39622 236.018268 155.230866 
+L 236.018268 253.026142 
+Q 236.018268 255.860787 238.852913 255.860787 
+z
+" clip-path="url(#p8d896465dd)" style="fill: #ffffff; stroke: #d55e00; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 14.915906 319.640315 
+L 442.947402 319.640315 
+Q 445.782047 319.640315 445.782047 316.805669 
+L 445.782047 270.034016 
+Q 445.782047 267.19937 442.947402 267.19937 
+L 14.915906 267.19937 
+Q 12.08126 267.19937 12.08126 270.034016 
+L 12.08126 316.805669 
+Q 12.08126 319.640315 14.915906 319.640315 
+z
+" clip-path="url(#p8d896465dd)" style="fill: #fff8f5; stroke: #d55e00; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 247.35685 94.285984 
+L 323.892283 94.285984 
+" clip-path="url(#p8d896465dd)" style="fill: none; stroke: #4d4d4d; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 247.35685 94.285984 
+L 247.35685 40.427717 
+" clip-path="url(#p8d896465dd)" style="fill: none; stroke: #4d4d4d; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 247.35685 86.207244 
+L 248.918798 85.43784 
+L 250.480746 84.668436 
+L 252.042693 83.899033 
+L 253.604641 83.129629 
+L 255.166588 82.360225 
+L 256.728536 81.590821 
+L 258.290484 80.821417 
+L 259.852431 80.052013 
+L 261.414379 79.28261 
+L 262.976327 78.513206 
+L 264.538274 77.743802 
+L 266.100222 76.974398 
+L 267.662169 76.204994 
+L 269.224117 75.435591 
+L 270.786065 74.666187 
+L 272.348012 73.896783 
+L 273.90996 73.127379 
+L 275.471907 72.357975 
+L 277.033855 71.588571 
+L 278.595803 70.819168 
+L 280.15775 70.049764 
+L 281.719698 69.28036 
+L 283.281646 68.510956 
+L 284.843593 67.741552 
+L 286.405541 66.972148 
+L 287.967488 66.202745 
+L 289.529436 65.433341 
+L 291.091384 64.663937 
+L 292.653331 63.894533 
+L 294.215279 63.125129 
+L 295.777226 62.355726 
+L 297.339174 61.586322 
+L 298.901122 60.816918 
+L 300.463069 60.047514 
+L 302.025017 59.27811 
+L 303.586964 58.508706 
+L 305.148912 57.739303 
+L 306.71086 56.969899 
+L 308.272807 56.200495 
+L 309.834755 55.431091 
+L 311.396703 54.661687 
+L 312.95865 53.892283 
+L 314.520598 53.12288 
+L 316.082545 52.353476 
+L 317.644493 51.584072 
+L 319.206441 50.814668 
+L 320.768388 50.045264 
+L 322.330336 49.275861 
+L 323.892283 48.506457 
+" clip-path="url(#p8d896465dd)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #8c8c8c"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 247.35685 88.900157 
+L 248.918798 87.537438 
+L 250.480746 86.19715 
+L 252.042693 84.879293 
+L 253.604641 83.583869 
+L 255.166588 82.310875 
+L 256.728536 81.060314 
+L 258.290484 79.832184 
+L 259.852431 78.626485 
+L 261.414379 77.443219 
+L 262.976327 76.282383 
+L 264.538274 75.14398 
+L 266.100222 74.028008 
+L 267.662169 72.934467 
+L 269.224117 71.863359 
+L 270.786065 70.814681 
+L 272.348012 69.788436 
+L 273.90996 68.784622 
+L 275.471907 67.803239 
+L 277.033855 66.844288 
+L 278.595803 65.907769 
+L 280.15775 64.993682 
+L 281.719698 64.102025 
+L 283.281646 63.232801 
+L 284.843593 62.386008 
+L 286.405541 61.561647 
+L 287.967488 60.759717 
+L 289.529436 59.980219 
+L 291.091384 59.223153 
+L 292.653331 58.488518 
+L 294.215279 57.776315 
+L 295.777226 57.086543 
+L 297.339174 56.419203 
+L 298.901122 55.774295 
+L 300.463069 55.151818 
+L 302.025017 54.551772 
+L 303.586964 53.974159 
+L 305.148912 53.418977 
+L 306.71086 52.886226 
+L 308.272807 52.375907 
+L 309.834755 51.88802 
+L 311.396703 51.422564 
+L 312.95865 50.97954 
+L 314.520598 50.558948 
+L 316.082545 50.160787 
+L 317.644493 49.785058 
+L 319.206441 49.43176 
+L 320.768388 49.100894 
+L 322.330336 48.79246 
+L 323.892283 48.506457 
+" clip-path="url(#p8d896465dd)" style="fill: none; stroke: #0072b2; stroke-width: 1.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 247.35685 95.36315 
+L 248.918798 94.00043 
+L 250.480746 92.660142 
+L 252.042693 91.342286 
+L 253.604641 90.046861 
+L 255.166588 88.773868 
+L 256.728536 87.523306 
+L 258.290484 86.295176 
+L 259.852431 85.089478 
+L 261.414379 83.906211 
+L 262.976327 82.745376 
+L 264.538274 81.606972 
+L 266.100222 80.491 
+L 267.662169 79.397459 
+L 269.224117 78.326351 
+L 270.786065 77.277673 
+L 272.348012 76.251428 
+L 273.90996 75.247614 
+L 275.471907 74.266231 
+L 277.033855 73.30728 
+L 278.595803 72.370761 
+L 280.15775 71.456674 
+L 281.719698 70.565018 
+L 283.281646 69.695793 
+L 284.843593 68.849 
+L 286.405541 68.024639 
+L 287.967488 67.222709 
+L 289.529436 66.443211 
+L 291.091384 65.686145 
+L 292.653331 64.95151 
+L 294.215279 64.239307 
+L 295.777226 63.549535 
+L 297.339174 62.882195 
+L 298.901122 62.237287 
+L 300.463069 61.61481 
+L 302.025017 61.014765 
+L 303.586964 60.437151 
+L 305.148912 59.881969 
+L 306.71086 59.349218 
+L 308.272807 58.8389 
+L 309.834755 58.351012 
+L 311.396703 57.885557 
+L 312.95865 57.442533 
+L 314.520598 57.02194 
+L 316.082545 56.623779 
+L 317.644493 56.24805 
+L 319.206441 55.894752 
+L 320.768388 55.563886 
+L 322.330336 55.255452 
+L 323.892283 54.969449 
+" clip-path="url(#p8d896465dd)" style="fill: none; stroke-dasharray: 1,1.65; stroke-dashoffset: 0; stroke: #009e73"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 247.35685 82.437165 
+L 248.918798 81.074446 
+L 250.480746 79.734158 
+L 252.042693 78.416301 
+L 253.604641 77.120877 
+L 255.166588 75.847883 
+L 256.728536 74.597322 
+L 258.290484 73.369192 
+L 259.852431 72.163493 
+L 261.414379 70.980226 
+L 262.976327 69.819391 
+L 264.538274 68.680988 
+L 266.100222 67.565016 
+L 267.662169 66.471475 
+L 269.224117 65.400366 
+L 270.786065 64.351689 
+L 272.348012 63.325444 
+L 273.90996 62.32163 
+L 275.471907 61.340247 
+L 277.033855 60.381296 
+L 278.595803 59.444777 
+L 280.15775 58.530689 
+L 281.719698 57.639033 
+L 283.281646 56.769809 
+L 284.843593 55.923016 
+L 286.405541 55.098655 
+L 287.967488 54.296725 
+L 289.529436 53.517227 
+L 291.091384 52.760161 
+L 292.653331 52.025526 
+L 294.215279 51.313323 
+L 295.777226 50.623551 
+L 297.339174 49.956211 
+L 298.901122 49.311302 
+L 300.463069 48.688826 
+L 302.025017 48.08878 
+L 303.586964 47.511167 
+L 305.148912 46.955985 
+L 306.71086 46.423234 
+L 308.272807 45.912915 
+L 309.834755 45.425028 
+L 311.396703 44.959572 
+L 312.95865 44.516548 
+L 314.520598 44.095956 
+L 316.082545 43.697795 
+L 317.644493 43.322066 
+L 319.206441 42.968768 
+L 320.768388 42.637902 
+L 322.330336 42.329467 
+L 323.892283 42.043465 
+" clip-path="url(#p8d896465dd)" style="fill: none; stroke-dasharray: 1,1.65; stroke-dashoffset: 0; stroke: #009e73"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="12.811218" transform="rotate(-0 12.08126 12.811218)">(A) Recurrent forensic age markers [Nau23]</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="236.018268" y="12.811218" transform="rotate(-0 236.018268 12.811218)">(B) Clock modeling: linear vs non-linear [Woz21]</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="17.183622" y="27.887183" transform="rotate(-0 17.183622 27.887183)">Recurrent Age-Associated Loci [Nau23]</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="36.132341" transform="rotate(-0 17.183622 36.132341)">• Primary targeted clock markers [Nau23, Ref23]:</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="44.071473" transform="rotate(-0 17.183622 44.071473)">  - ELOVL2: Strongest single age correlation.</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="52.00643" transform="rotate(-0 17.183622 52.00643)">  - FHL2, KLF14, PDE4C, TRIM59: Core panel.</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="59.943364" transform="rotate(-0 17.183622 59.943364)">• Direction of methylation trajectory:</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="67.882496" transform="rotate(-0 17.183622 67.882496)">  - Hypermethylation (gain with age): ELOVL2,</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="75.81738" transform="rotate(-0 17.183622 75.81738)">    FHL2, KLF14, TRIM59 gain 5mC [Zbi15b].</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="83.754388" transform="rotate(-0 17.183622 83.754388)">  - Hypomethylation (loss with age): MIR29B2CHG</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="91.691396" transform="rotate(-0 17.183622 91.691396)">    (C1orf132) loses methylation across lifespan.</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="99.628404" transform="rotate(-0 17.183622 99.628404)">• Tissue &amp; locus specificity:</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="107.565412" transform="rotate(-0 17.183622 107.565412)">  Correlation strength and rate vary by CpG.</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="241.12063" y="27.887266" transform="rotate(-0 241.12063 27.887266)">ELOVL2 Saturation &amp; Quantile Intervals [Fre22]</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="247.35685" y="38.16" transform="rotate(-0 247.35685 38.16)">Methylation Beta (0–1)</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="285.624567" y="101.372598" transform="rotate(-0 285.624567 101.372598)">Chronological Age (0–80 yrs)</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="330.978898" y="43.262362" transform="rotate(-0 330.978898 43.262362)">Quadratic curve:</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="330.978898" y="50.348976" transform="rotate(-0 330.978898 50.348976)">  Captures elderly plateau</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="330.978898" y="61.687559" transform="rotate(-0 330.978898 61.687559)">Linear regression:</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="330.978898" y="68.774173" transform="rotate(-0 330.978898 68.774173)">  Poor fit at extremes</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="330.978898" y="80.112756" transform="rotate(-0 330.978898 80.112756)">Quantile intervals:</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="330.978898" y="87.19937" transform="rotate(-0 330.978898 87.19937)">  Prediction bounds [Fre22]</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="109.309606" transform="rotate(-0 241.12063 109.309606)">• Non-linear saturation: Quadratic models capture</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="117.246614" transform="rotate(-0 241.12063 117.246614)">  the elderly plateau in ELOVL2 [Woz21, Bek15].</text>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="241.12063" y="125.183622" transform="rotate(-0 241.12063 125.183622)">• Quantile regression models heteroscedastic error.</text>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="147.456887" transform="rotate(-0 12.08126 147.456887)">(C) Multi-tissue MAE benchmarks [Woz21]</text>
+   </g>
+   <g id="text_27">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="236.018268" y="147.456887" transform="rotate(-0 236.018268 147.456887)">(D) Casework prediction boundaries [Hei25c]</text>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #e69f00" x="17.183622" y="162.532852" transform="rotate(-0 17.183622 162.532852)">Mean Absolute Errors (MAE) by Tissue</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="170.778083" transform="rotate(-0 17.183622 170.778083)">• Multi-tissue benchmarks [Woz21, Hei25c]:</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="178.715018" transform="rotate(-0 17.183622 178.715018)">  - Blood: 3.2–4.0 years pooled MAE.</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="186.652026" transform="rotate(-0 17.183622 186.652026)">  - Buccal swabs: 3.7–4.4 years pooled MAE.</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="194.589034" transform="rotate(-0 17.183622 194.589034)">  - Bone: 3.4 years (held-out VISAGE) [Woz21].</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="202.526042" transform="rotate(-0 17.183622 202.526042)">  - Semen: ~5.4 years preliminary MAD [Lee15b].</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="210.463049" transform="rotate(-0 17.183622 210.463049)">  - Teeth / dentin: ~4.9 years [Bek15].</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="218.400057" transform="rotate(-0 17.183622 218.400057)">• Inter-laboratory variability [Hei25c]:</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="226.337065" transform="rotate(-0 17.183622 226.337065)">  Blood MAE varied from 2.85 to 5.01 years</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="234.274073" transform="rotate(-0 17.183622 234.274073)">  across three testing laboratories.</text>
+   </g>
+   <g id="text_38">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="241.12063" y="162.532935" transform="rotate(-0 241.12063 162.532935)">MAE vs Individual Prediction Error</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="170.780207" transform="rotate(-0 241.12063 170.780207)">• MAE is NOT an individual error bound:</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="178.715018" transform="rotate(-0 241.12063 178.715018)">  MAE reflects average cohort dispersion [Nau23].</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="186.652026" transform="rotate(-0 241.12063 186.652026)">  Individual error can reach 10–15 years [Hei25c]!</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="194.589034" transform="rotate(-0 241.12063 194.589034)">• Danger of unvalidated extrapolation [Nau17]:</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="202.526042" transform="rotate(-0 241.12063 202.526042)">  Predictions outside tested age ranges represent</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="210.463123" transform="rotate(-0 241.12063 210.463123)">  unvalidated extrapolation [Bek15].</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="218.400057" transform="rotate(-0 241.12063 218.400057)">• Biological drift &amp; pathology [Koo20]:</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="226.337065" transform="rotate(-0 241.12063 226.337065)">  Disease, lifestyle, and drift shift apparent age</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="234.274073" transform="rotate(-0 241.12063 234.274073)">  independently of calendar years.</text>
+   </g>
+   <g id="text_48">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="17.750551" y="277.902931" transform="rotate(-0 17.750551 277.902931)">Foundational Reporting Principles for Epigenetic Age Estimation [Fre22, Hei25c, Nau23]</text>
+   </g>
+   <g id="text_49">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="17.750551" y="285.057638" transform="rotate(-0 17.750551 285.057638)">Point + Interval [Fre22]</text>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="292.711181" transform="rotate(-0 17.750551 292.711181)">• Report point estimate plus</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="299.797795" transform="rotate(-0 17.750551 299.797795)">  calibrated prediction interval.</text>
+   </g>
+   <g id="text_52">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="17.750551" y="306.884409" transform="rotate(-0 17.750551 306.884409)">• Never report point alone.</text>
+   </g>
+   <g id="text_53">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="313.971024" transform="rotate(-0 17.750551 313.971024)">• Account for heteroscedasticity.</text>
+   </g>
+   <g id="text_54">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="162.31748" y="285.057638" transform="rotate(-0 162.31748 285.057638)">Validated Bounds [Hei25c]</text>
+   </g>
+   <g id="text_55">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="162.31748" y="292.711181" transform="rotate(-0 162.31748 292.711181)">• State specific tissue, assay,</text>
+   </g>
+   <g id="text_56">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="162.31748" y="299.797795" transform="rotate(-0 162.31748 299.797795)">  instrument, and model used.</text>
+   </g>
+   <g id="text_57">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="162.31748" y="306.884409" transform="rotate(-0 162.31748 306.884409)">• Disclose tested age range.</text>
+   </g>
+   <g id="text_58">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="162.31748" y="313.971024" transform="rotate(-0 162.31748 313.971024)">• Prohibit extrapolation.</text>
+   </g>
+   <g id="text_59">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="306.884409" y="285.057638" transform="rotate(-0 306.884409 285.057638)">Investigative Lead [Nau23]</text>
+   </g>
+   <g id="text_60">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="306.884409" y="292.711181" transform="rotate(-0 306.884409 292.711181)">• Age predictions guide search</text>
+   </g>
+   <g id="text_61">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="306.884409" y="299.797795" transform="rotate(-0 306.884409 299.797795)">  and prioritize candidate pools.</text>
+   </g>
+   <g id="text_62">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="306.884409" y="306.884409" transform="rotate(-0 306.884409 306.884409)">• NEVER evidence of identity.</text>
+   </g>
+   <g id="text_63">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="306.884409" y="313.971024" transform="rotate(-0 306.884409 313.971024)">• Autonomous STR confirmation.</text>
+   </g>
+   <g id="text_64">
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #8c8c8c" x="451.167874" y="331.506819" transform="rotate(-0 451.167874 331.506819)">Simulated data for illustration</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p8d896465dd">
+   <rect x="2.16" y="2.16" width="453.543307" height="328.818898"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="471.501957pt" height="335.223216pt" viewBox="0 0 471.501957 335.223216" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-31T23:47:48.459182</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 335.223216 
+L 471.501957 335.223216 
+L 471.501957 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 15.482835 118.380472 
+L 218.443465 118.380472 
+Q 221.845039 118.380472 221.845039 114.978898 
+L 221.845039 23.986772 
+Q 221.845039 20.585197 218.443465 20.585197 
+L 15.482835 20.585197 
+Q 12.08126 20.585197 12.08126 23.986772 
+L 12.08126 114.978898 
+Q 12.08126 118.380472 15.482835 118.380472 
+z
+" clip-path="url(#pab5ec37591)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 239.419843 118.380472 
+L 442.380472 118.380472 
+Q 445.782047 118.380472 445.782047 114.978898 
+L 445.782047 23.986772 
+Q 445.782047 20.585197 442.380472 20.585197 
+L 239.419843 20.585197 
+Q 236.018268 20.585197 236.018268 23.986772 
+L 236.018268 114.978898 
+Q 236.018268 118.380472 239.419843 118.380472 
+z
+" clip-path="url(#pab5ec37591)" style="fill: #ffffff; stroke: #009e73; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 15.482835 260.112756 
+L 442.380472 260.112756 
+Q 445.782047 260.112756 445.782047 256.711181 
+L 445.782047 135.955276 
+Q 445.782047 132.553701 442.380472 132.553701 
+L 15.482835 132.553701 
+Q 12.08126 132.553701 12.08126 135.955276 
+L 12.08126 256.711181 
+Q 12.08126 260.112756 15.482835 260.112756 
+z
+" clip-path="url(#pab5ec37591)" style="fill: #f8f9fa; stroke: #e69f00; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 20.018268 206.254488 
+L 147.293858 206.254488 
+Q 149.561575 206.254488 149.561575 203.986772 
+L 149.561575 148.994646 
+Q 149.561575 146.726929 147.293858 146.726929 
+L 20.018268 146.726929 
+Q 17.750551 146.726929 17.750551 148.994646 
+L 17.750551 203.986772 
+Q 17.750551 206.254488 20.018268 206.254488 
+z
+" clip-path="url(#pab5ec37591)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 164.585197 206.254488 
+L 291.860787 206.254488 
+Q 294.128504 206.254488 294.128504 203.986772 
+L 294.128504 148.994646 
+Q 294.128504 146.726929 291.860787 146.726929 
+L 164.585197 146.726929 
+Q 162.31748 146.726929 162.31748 148.994646 
+L 162.31748 203.986772 
+Q 162.31748 206.254488 164.585197 206.254488 
+z
+" clip-path="url(#pab5ec37591)" style="fill: #ffffff; stroke: #009e73; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 309.152126 206.254488 
+L 436.427717 206.254488 
+Q 438.695433 206.254488 438.695433 203.986772 
+L 438.695433 148.994646 
+Q 438.695433 146.726929 436.427717 146.726929 
+L 309.152126 146.726929 
+Q 306.884409 146.726929 306.884409 148.994646 
+L 306.884409 203.986772 
+Q 306.884409 206.254488 309.152126 206.254488 
+z
+" clip-path="url(#pab5ec37591)" style="fill: #ffffff; stroke: #cc79a7; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 20.018268 233.183622 
+L 436.427717 233.183622 
+Q 438.695433 233.183622 438.695433 230.915906 
+L 438.695433 214.191496 
+Q 438.695433 211.92378 436.427717 211.92378 
+L 20.018268 211.92378 
+Q 17.750551 211.92378 17.750551 214.191496 
+L 17.750551 230.915906 
+Q 17.750551 233.183622 20.018268 233.183622 
+z
+" clip-path="url(#pab5ec37591)" style="fill: #ffffff; stroke: #8c8c8c; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 279.955276 229.498583 
+L 336.648189 229.498583 
+L 336.648189 215.325354 
+L 279.955276 215.325354 
+z
+" clip-path="url(#pab5ec37591)" style="fill: #0072b2"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 336.648189 229.498583 
+L 393.341102 229.498583 
+L 393.341102 215.325354 
+L 336.648189 215.325354 
+z
+" clip-path="url(#pab5ec37591)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 14.915906 319.640315 
+L 442.947402 319.640315 
+Q 445.782047 319.640315 445.782047 316.805669 
+L 445.782047 274.285984 
+Q 445.782047 271.451339 442.947402 271.451339 
+L 14.915906 271.451339 
+Q 12.08126 271.451339 12.08126 274.285984 
+L 12.08126 316.805669 
+Q 12.08126 319.640315 14.915906 319.640315 
+z
+" clip-path="url(#pab5ec37591)" style="fill: #fff8f5; stroke: #d55e00; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="12.811218" transform="rotate(-0 12.08126 12.811218)">(A) Clines vs discrete clusters [Ser04, Ros05]</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="236.018268" y="12.811218" transform="rotate(-0 236.018268 12.811218)">(B) Model clustering principles [Pri00c, Ale09]</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="17.183622" y="31.855687" transform="rotate(-0 17.183622 31.855687)">Continuous Clines &amp; Sampling Gaps [Ser04]</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="40.951238" transform="rotate(-0 17.183622 40.951238)">• Continuous geographic clines:</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="49.455175" transform="rotate(-0 17.183622 49.455175)">  Allele frequencies vary continuously across geography</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="57.959112" transform="rotate(-0 17.183622 57.959112)">  through isolation-by-distance [Ser04].</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="66.463049" transform="rotate(-0 17.183622 66.463049)">• Sampling gaps create artificial clusters:</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="74.966986" transform="rotate(-0 17.183622 74.966986)">  Gaps in geographic sampling produce illusions of</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="83.470997" transform="rotate(-0 17.183622 83.470997)">  discrete continental divisions or sharp breaks [Ser04].</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="91.97486" transform="rotate(-0 17.183622 91.97486)">• Clusters are model-dependent groupings:</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="100.478797" transform="rotate(-0 17.183622 100.478797)">  Boundaries reflect marker choice, sampling, and</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="108.984859" transform="rotate(-0 17.183622 108.984859)">  model parameters, NOT natural biological categories.</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="241.12063" y="31.85577" transform="rotate(-0 241.12063 31.85577)">STRUCTURE &amp; ADMIXTURE Models [Pri00c]</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="40.951312" transform="rotate(-0 241.12063 40.951312)">• Statistical optimization models:</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="49.455175" transform="rotate(-0 241.12063 49.455175)">  - STRUCTURE: Bayesian MCMC estimation [Pri00c].</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="57.959186" transform="rotate(-0 241.12063 57.959186)">  - ADMIXTURE: Maximum-likelihood approach [Ale09].</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="66.463123" transform="rotate(-0 241.12063 66.463123)">• Inferred model parameters:</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="74.96706" transform="rotate(-0 241.12063 74.96706)">  - P matrix: Cluster allele frequencies.</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="83.473047" transform="rotate(-0 241.12063 83.473047)">  - Q matrix: Ancestry proportions per individual.</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="91.974934" transform="rotate(-0 241.12063 91.974934)">• Strict model assumptions:</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="100.478797" transform="rotate(-0 241.12063 100.478797)">  Assumes HWE and linkage equilibrium within groups;</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="108.982734" transform="rotate(-0 241.12063 108.982734)">  departures alter apparent clustering structure.</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="126.197045" transform="rotate(-0 12.08126 126.197045)">(C) The admixture fallacy: distinct histories yielding identical bar plots [Law18]</text>
+   </g>
+   <g id="text_24">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #e69f00" x="17.750551" y="143.257262" transform="rotate(-0 17.750551 143.257262)">Three Distinct Demographic Histories Resulting in Identical 50/50 Admixture Bars [Law18]</text>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="22.00252" y="154.663937" transform="rotate(-0 22.00252 154.663937)">History 1: Recent Admixture</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="22.00252" y="165.152126" transform="rotate(-0 22.00252 165.152126)">• Two distinct source populations</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="22.00252" y="175.073386" transform="rotate(-0 22.00252 175.073386)">• Recent generation intermarriage</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="22.00252" y="184.994646" transform="rotate(-0 22.00252 184.994646)">• Literal parental crossing event</text>
+   </g>
+   <g id="text_29">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="22.00252" y="197.750551" transform="rotate(-0 22.00252 197.750551)">Source: 50% Pop A + 50% Pop B</text>
+   </g>
+   <g id="text_30">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="166.569449" y="154.663937" transform="rotate(-0 166.569449 154.663937)">History 2: Ancient Divergence</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="166.569449" y="165.152126" transform="rotate(-0 166.569449 165.152126)">• Ancient ancestral divergence</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="166.569449" y="175.073386" transform="rotate(-0 166.569449 175.073386)">• Intermediate genetic drift</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="166.569449" y="184.994646" transform="rotate(-0 166.569449 184.994646)">• Zero recent migration events</text>
+   </g>
+   <g id="text_34">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="166.569449" y="197.750551" transform="rotate(-0 166.569449 197.750551)">Source: Diverged ancestral lineage</text>
+   </g>
+   <g id="text_35">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #cc79a7" x="311.136378" y="154.663937" transform="rotate(-0 311.136378 154.663937)">History 3: Unsampled Source</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="311.136378" y="165.152126" transform="rotate(-0 311.136378 165.152126)">• Continuous geographic cline</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="311.136378" y="175.073386" transform="rotate(-0 311.136378 175.073386)">• True native population omitted</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="311.136378" y="184.994646" transform="rotate(-0 311.136378 184.994646)">• Model splits across extremes</text>
+   </g>
+   <g id="text_39">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #cc79a7" x="311.136378" y="197.750551" transform="rotate(-0 311.136378 197.750551)">Source: Unsampled cline position</text>
+   </g>
+   <g id="text_40">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="23.419843" y="224.636278" transform="rotate(-0 23.419843 224.636278)">All 3 histories yield the identical STRUCTURE / ADMIXTURE output bar:</text>
+   </g>
+   <g id="text_41">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="308.301732" y="224.352886" transform="rotate(-0 308.301732 224.352886)">50% Pop A</text>
+   </g>
+   <g id="text_42">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="364.994646" y="224.352886" transform="rotate(-0 364.994646 224.352886)">50% Pop B</text>
+   </g>
+   <g id="text_43">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="399.010394" y="224.352813" transform="rotate(-0 399.010394 224.352813)">(Q-bar)</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="244.522205" transform="rotate(-0 17.750551 244.522205)">• Lawson Tutorial Warning [Law18]: Admixture proportions describe genetic contributions relative to sampled clusters,</text>
+   </g>
+   <g id="text_45">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="17.750551" y="254.443465" transform="rotate(-0 17.750551 254.443465)">  NOT a person's literal family tree, recent genealogies, or historical migrations. Admixture coefficients do not equal pedigrees.</text>
+   </g>
+   <g id="text_46">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="17.750551" y="283.572222" transform="rotate(-0 17.750551 283.572222)">Foundational Forensic Evidentiary Principle of Biogeographical Ancestry [Job22, Tve22]</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="293.801632" transform="rotate(-0 17.750551 293.801632)">• BGA inference provides an investigative intelligence lead to narrow follow-up, conditional on the reference populations tested.</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="303.441551" transform="rotate(-0 17.750551 303.441551)">• It does NOT establish personal identity, ethnicity, race, social identity, birthplace, culture, or individualize a suspect.</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="313.077223" transform="rotate(-0 17.750551 313.077223)">• Investigative leads must be corroborated through independent autosomal STR profiling before any operational action.</text>
+   </g>
+   <g id="text_50">
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #8c8c8c" x="451.167874" y="331.506819" transform="rotate(-0 451.167874 331.506819)">Simulated data for illustration</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pab5ec37591">
+   <rect x="2.16" y="2.16" width="453.543307" height="328.818898"/>
+  </clipPath>
+ </defs>
+</svg>

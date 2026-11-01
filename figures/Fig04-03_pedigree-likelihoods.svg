@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="457.863307pt" height="327.469606pt" viewBox="0 0 457.863307 327.469606" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-31T22:53:36.476716</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 327.469606 
+L 457.863307 327.469606 
+L 457.863307 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 15.482835 298.380472 
+L 218.443465 298.380472 
+Q 221.845039 298.380472 221.845039 294.978898 
+L 221.845039 33.908031 
+Q 221.845039 30.506457 218.443465 30.506457 
+L 15.482835 30.506457 
+Q 12.08126 30.506457 12.08126 33.908031 
+L 12.08126 294.978898 
+Q 12.08126 298.380472 15.482835 298.380472 
+z
+" clip-path="url(#p7b796d043c)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 53.892283 94.994646 
+L 72.31748 94.994646 
+L 72.31748 76.569449 
+L 53.892283 76.569449 
+z
+" clip-path="url(#p7b796d043c)" style="fill: #0072b2; stroke: #4d4d4d; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 131.136378 94.994646 
+C 133.579588 94.994646 135.923059 94.023948 137.650669 92.296338 
+C 139.378279 90.568728 140.348976 88.225257 140.348976 85.782047 
+C 140.348976 83.338838 139.378279 80.995367 137.650669 79.267756 
+C 135.923059 77.540146 133.579588 76.569449 131.136378 76.569449 
+C 128.693168 76.569449 126.349697 77.540146 124.622087 79.267756 
+C 122.894477 80.995367 121.92378 83.338838 121.92378 85.782047 
+C 121.92378 88.225257 122.894477 90.568728 124.622087 92.296338 
+C 126.349697 94.023948 128.693168 94.994646 131.136378 94.994646 
+z
+" clip-path="url(#p7b796d043c)" style="fill: #0072b2; stroke: #4d4d4d; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 34.049764 150.270236 
+L 52.474961 150.270236 
+L 52.474961 131.845039 
+L 34.049764 131.845039 
+z
+" clip-path="url(#p7b796d043c)" style="fill: #0072b2; stroke: #4d4d4d; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 88.616693 150.270236 
+C 91.059903 150.270236 93.403374 149.299539 95.130984 147.571929 
+C 96.858594 145.844318 97.829291 143.500847 97.829291 141.057638 
+C 97.829291 138.614428 96.858594 136.270957 95.130984 134.543347 
+C 93.403374 132.815737 91.059903 131.845039 88.616693 131.845039 
+C 86.173483 131.845039 83.830012 132.815737 82.102402 134.543347 
+C 80.374792 136.270957 79.404094 138.614428 79.404094 141.057638 
+C 79.404094 143.500847 80.374792 145.844318 82.102402 147.571929 
+C 83.830012 149.299539 86.173483 150.270236 88.616693 150.270236 
+z
+" clip-path="url(#p7b796d043c)" style="fill: #ffffff; stroke: #4d4d4d; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 133.971024 150.270236 
+C 136.414233 150.270236 138.757704 149.299539 140.485314 147.571929 
+C 142.212925 145.844318 143.183622 143.500847 143.183622 141.057638 
+C 143.183622 138.614428 142.212925 136.270957 140.485314 134.543347 
+C 138.757704 132.815737 136.414233 131.845039 133.971024 131.845039 
+C 131.527814 131.845039 129.184343 132.815737 127.456733 134.543347 
+C 125.729123 136.270957 124.758425 138.614428 124.758425 141.057638 
+C 124.758425 143.500847 125.729123 145.844318 127.456733 147.571929 
+C 129.184343 149.299539 131.527814 150.270236 133.971024 150.270236 
+z
+" clip-path="url(#p7b796d043c)" style="fill: #e6e6e6; stroke-dasharray: 4.44,1.92; stroke-dashoffset: 0; stroke: #d55e00; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 98.679685 211.35685 
+L 169.262362 211.35685 
+Q 171.530079 211.35685 171.530079 209.089134 
+L 171.530079 192.08126 
+Q 171.530079 189.813543 169.262362 189.813543 
+L 98.679685 189.813543 
+Q 96.411969 189.813543 96.411969 192.08126 
+L 96.411969 209.089134 
+Q 96.411969 211.35685 98.679685 211.35685 
+z
+" clip-path="url(#p7b796d043c)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 133.971024 184.714773 
+Q 133.971024 170.469619 133.971024 156.224465 
+" clip-path="url(#p7b796d043c)" style="fill: none; stroke: #d55e00; stroke-linecap: round"/>
+    <path d="M 135.571024 181.514773 
+L 133.971024 184.714773 
+L 132.371024 181.514773 
+z
+" clip-path="url(#p7b796d043c)" style="fill: #d55e00; stroke: #d55e00; stroke-linecap: round"/>
+    <path d="M 132.371024 159.424465 
+L 133.971024 156.224465 
+L 135.571024 159.424465 
+z
+" clip-path="url(#p7b796d043c)" style="fill: #d55e00; stroke: #d55e00; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 22.00252 231.766299 
+L 30.506457 231.766299 
+L 30.506457 223.262362 
+L 22.00252 223.262362 
+z
+" clip-path="url(#p7b796d043c)" style="fill: #0072b2; stroke: #4d4d4d; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 74.443465 231.766299 
+C 75.5711 231.766299 76.652702 231.318285 77.45006 230.520926 
+C 78.247419 229.723568 78.695433 228.641966 78.695433 227.514331 
+C 78.695433 226.386695 78.247419 225.305093 77.45006 224.507735 
+C 76.652702 223.710376 75.5711 223.262362 74.443465 223.262362 
+C 73.315829 223.262362 72.234227 223.710376 71.436869 224.507735 
+C 70.63951 225.305093 70.191496 226.386695 70.191496 227.514331 
+C 70.191496 228.641966 70.63951 229.723568 71.436869 230.520926 
+C 72.234227 231.318285 73.315829 231.766299 74.443465 231.766299 
+z
+" clip-path="url(#p7b796d043c)" style="fill: #ffffff; stroke: #4d4d4d; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 142.474961 231.766299 
+C 143.602596 231.766299 144.684198 231.318285 145.481556 230.520926 
+C 146.278915 229.723568 146.726929 228.641966 146.726929 227.514331 
+C 146.726929 226.386695 146.278915 225.305093 145.481556 224.507735 
+C 144.684198 223.710376 143.602596 223.262362 142.474961 223.262362 
+C 141.347325 223.262362 140.265723 223.710376 139.468365 224.507735 
+C 138.671006 225.305093 138.222992 226.386695 138.222992 227.514331 
+C 138.222992 228.641966 138.671006 229.723568 139.468365 230.520926 
+C 140.265723 231.318285 141.347325 231.766299 142.474961 231.766299 
+z
+" clip-path="url(#p7b796d043c)" style="fill: #e6e6e6; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #d55e00; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 21.435591 291.293858 
+L 212.490709 291.293858 
+Q 214.758425 291.293858 214.758425 289.026142 
+L 214.758425 238.285984 
+Q 214.758425 236.018268 212.490709 236.018268 
+L 21.435591 236.018268 
+Q 19.167874 236.018268 19.167874 238.285984 
+L 19.167874 289.026142 
+Q 19.167874 291.293858 21.435591 291.293858 
+z
+" clip-path="url(#p7b796d043c)" style="fill: #e6e6e6; stroke: #bfbfbf; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 239.419843 114.128504 
+L 442.380472 114.128504 
+Q 445.782047 114.128504 445.782047 110.726929 
+L 445.782047 33.908031 
+Q 445.782047 30.506457 442.380472 30.506457 
+L 239.419843 30.506457 
+Q 236.018268 30.506457 236.018268 33.908031 
+L 236.018268 110.726929 
+Q 236.018268 114.128504 239.419843 114.128504 
+z
+" clip-path="url(#p7b796d043c)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 239.419843 204.837165 
+L 442.380472 204.837165 
+Q 445.782047 204.837165 445.782047 201.435591 
+L 445.782047 124.616693 
+Q 445.782047 121.215118 442.380472 121.215118 
+L 239.419843 121.215118 
+Q 236.018268 121.215118 236.018268 124.616693 
+L 236.018268 201.435591 
+Q 236.018268 204.837165 239.419843 204.837165 
+z
+" clip-path="url(#p7b796d043c)" style="fill: #ffffff; stroke: #009e73; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 239.419843 295.545827 
+L 442.380472 295.545827 
+Q 445.782047 295.545827 445.782047 292.144252 
+L 445.782047 215.325354 
+Q 445.782047 211.92378 442.380472 211.92378 
+L 239.419843 211.92378 
+Q 236.018268 211.92378 236.018268 215.325354 
+L 236.018268 292.144252 
+Q 236.018268 295.545827 239.419843 295.545827 
+z
+" clip-path="url(#p7b796d043c)" style="fill: #fdf7f5; stroke: #d55e00; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 72.31748 85.782047 
+L 121.92378 85.782047 
+" clip-path="url(#p7b796d043c)" style="fill: none; stroke: #4d4d4d; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 97.12063 85.782047 
+L 97.12063 116.96315 
+" clip-path="url(#p7b796d043c)" style="fill: none; stroke: #4d4d4d; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 43.262362 116.96315 
+L 133.971024 116.96315 
+" clip-path="url(#p7b796d043c)" style="fill: none; stroke: #4d4d4d; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 43.262362 116.96315 
+L 43.262362 131.845039 
+" clip-path="url(#p7b796d043c)" style="fill: none; stroke: #4d4d4d; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 88.616693 116.96315 
+L 88.616693 131.845039 
+" clip-path="url(#p7b796d043c)" style="fill: none; stroke: #4d4d4d; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 133.971024 116.96315 
+L 133.971024 131.845039 
+" clip-path="url(#p7b796d043c)" style="fill: none; stroke: #4d4d4d; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 22.00252 218.443465 
+L 211.92378 218.443465 
+" clip-path="url(#p7b796d043c)" style="fill: none; stroke: #bfbfbf; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="20.778856" transform="rotate(-0 12.08126 20.778856)">(A) Missing-person pedigree comparison</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="236.018268" y="20.778856" transform="rotate(-0 236.018268 20.778856)">(B) Principles of pedigree evaluation</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="19.167874" y="43.477734" transform="rotate(-0 19.167874 43.477734)">Illustrative pedigree</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #8c8c8c" x="214.758425" y="43.219028" transform="rotate(-0 214.758425 43.219028)">Section 4.5 [Ge10]</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="63.104882" y="70.738965" transform="rotate(-0 63.104882 70.738965)">Father (typed)</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="131.136378" y="70.738965" transform="rotate(-0 131.136378 70.738965)">Mother (typed)</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #4d4d4d" transform="translate(32.005331 160.334046)">Sibling</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #4d4d4d" transform="translate(31.592245 168.076477)">(typed)</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="88.616693" y="143.257345" transform="rotate(-0 88.616693 143.257345)">?</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #4d4d4d" transform="translate(74.650287 160.288342)">Untyped</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #4d4d4d" transform="translate(76.528802 168.776087)">relative</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #d55e00" transform="translate(147.435591 139.081344)">Missing person</text>
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #d55e00" transform="translate(147.435591 146.869479)">(candidate)</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="133.971024" y="202.526115" transform="rotate(-0 133.971024 202.526115)">Unidentified remains</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="33.341102" y="229.455175" transform="rotate(-0 33.341102 229.455175)">Typed</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="81.530079" y="229.455175" transform="rotate(-0 81.530079 229.455175)">Untyped (?)</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="149.561575" y="229.455249" transform="rotate(-0 149.561575 229.455249)">Candidate</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="24.837165" y="247.029979" transform="rotate(-0 24.837165 247.029979)">Competing propositions [Ge10]:</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="24.837165" y="258.368561" transform="rotate(-0 24.837165 258.368561)">• Hp: Remains occupy specified position in pedigree</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="24.837165" y="269.707217" transform="rotate(-0 24.837165 269.707217)">• Hd: Remains from an unknown, unrelated person</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="24.837165" y="281.045727" transform="rotate(-0 24.837165 281.045727)">  (or from a different relationship)</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="243.104882" y="43.477734" transform="rotate(-0 243.104882 43.477734)">Joint evaluation linked by inheritance</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="243.104882" y="55.124467" transform="rotate(-0 243.104882 55.124467)">• Profiles from several relatives evaluated jointly</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="243.104882" y="66.463049" transform="rotate(-0 243.104882 66.463049)">  because genotypes are linked by inheritance [Ge10]</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="243.104882" y="77.801632" transform="rotate(-0 243.104882 77.801632)">• Untyped relatives included as unknowns where needed</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="243.104882" y="89.140215" transform="rotate(-0 243.104882 89.140215)">• Incomplete references leave some pedigrees difficult</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="243.104882" y="100.478797" transform="rotate(-0 243.104882 100.478797)">  to distinguish [Pri07, Ge10]</text>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="243.104882" y="134.186396" transform="rotate(-0 243.104882 134.186396)">Mutation modelling</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="243.104882" y="145.833201" transform="rotate(-0 243.104882 145.833201)">• An apparent mismatch does not exclude true kinship</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="243.104882" y="157.171711" transform="rotate(-0 243.104882 157.171711)">  if accounted for by a specified mutation model</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="243.104882" y="168.510294" transform="rotate(-0 243.104882 168.510294)">• Allows a genuine relative to remain compatible</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="243.104882" y="179.848876" transform="rotate(-0 243.104882 179.848876)">  despite an apparent mismatch [Gje07, Ge10]</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="243.104882" y="191.187532" transform="rotate(-0 243.104882 191.187532)">• Mutation form and assumptions must be specified</text>
+   </g>
+   <g id="text_31">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="243.104882" y="224.89514" transform="rotate(-0 243.104882 224.89514)">Candidate set bounds and DVI</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="243.104882" y="236.54179" transform="rotate(-0 243.104882 236.54179)">• Best-supported pedigree is only the best among those</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="243.104882" y="247.880372" transform="rotate(-0 243.104882 247.880372)">  specified; ranking changes with omitted alternatives</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="243.104882" y="259.218955" transform="rotate(-0 243.104882 259.218955)">• Pedigree LR supports one stated model over another;</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="243.104882" y="270.557538" transform="rotate(-0 243.104882 270.557538)">  it does not prove the relationship [Ge10, Ege00]</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="243.104882" y="281.89612" transform="rotate(-0 243.104882 281.89612)">• Joint assignment across remains in DVI avoids</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="243.104882" y="293.234703" transform="rotate(-0 243.104882 293.234703)">  incompatible assignments, conditional on the</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="243.104882" y="304.573286" transform="rotate(-0 243.104882 304.573286)">  family pedigrees used [Vig21]</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p7b796d043c">
+   <rect x="2.16" y="2.16" width="453.543307" height="323.149606"/>
+  </clipPath>
+ </defs>
+</svg>

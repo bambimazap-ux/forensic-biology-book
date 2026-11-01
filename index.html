@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Forensic Biological Identification: From DNA to Fingerprints</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="icon" type="image/png" href="assets/logos/logo_rnd_web.png">
+</head>
+<body>
+
+  <div id="app">
+    <!-- Left Navigation Sidebar -->
+    <aside id="sidebar">
+      <div class="sidebar-header">
+        <div class="brand-logos">
+          <img src="assets/logos/logo_rnd_web.png" alt="R&D" class="brand-logo-img">
+          <img src="assets/logos/logo_difs_web.png" alt="DIFS" class="brand-logo-img">
+          <div>
+            <div class="brand-title">Forensic Biology</div>
+            <span class="brand-badge">DIFS • R&D Section</span>
+          </div>
+        </div>
+        <button id="sidebar-close-btn" class="sidebar-close-mobile-btn" title="Close Menu" aria-label="Close Menu">✕</button>
+      </div>
+
+      <!-- Quick Search Bar -->
+      <div class="sidebar-search-box">
+        <div class="search-input-wrap">
+          <span class="search-icon">🔍</span>
+          <input type="text" id="sidebar-search-input" class="search-input" placeholder="Search chapters, concepts, papers..." autocomplete="off">
+        </div>
+      </div>
+
+      <!-- Navigation Tabs -->
+      <div class="sidebar-tabs">
+        <button class="sidebar-tab-btn active" data-tab="chapters">Chapters</button>
+        <button class="sidebar-tab-btn" data-tab="figures">Figures (62)</button>
+        <button class="sidebar-tab-btn" data-tab="bookmarks">Bookmarks</button>
+      </div>
+
+      <!-- Scrollable Navigation Area -->
+      <div id="sidebar-scroll" class="sidebar-scroll">
+        <!-- Rendered dynamically by reader.js -->
+      </div>
+    </aside>
+
+    <!-- Mobile Backdrop Overlay -->
+    <div id="sidebar-backdrop" class="sidebar-backdrop"></div>
+
+    <!-- Main Content Stage -->
+    <div id="main-wrapper">
+      <!-- Top Sticky Utility Bar -->
+      <header id="topbar">
+        <div class="topbar-left">
+          <button id="toggle-sidebar-btn" class="btn-icon" title="Toggle Sidebar">
+            <span>☰</span>
+          </button>
+          <span id="breadcrumb-title" class="breadcrumb-title">Cover & Overview</span>
+        </div>
+
+        <div class="topbar-right">
+          <!-- Font Size Adjustment -->
+          <div style="display:flex; gap:4px; margin-right:8px;">
+            <button class="btn-icon" onclick="window.reader.adjustFontSize(-1)" title="Decrease font size" style="padding:4px 8px; font-size:0.8rem;">A-</button>
+            <button class="btn-icon" onclick="window.reader.adjustFontSize(1)" title="Increase font size" style="padding:4px 8px; font-size:0.8rem;">A+</button>
+          </div>
+
+          <!-- Theme Switcher -->
+          <div class="theme-switch">
+            <button class="theme-btn active" data-theme="light" title="Light Theme">☀️<span class="theme-btn-label"> Light</span></button>
+            <button class="theme-btn" data-theme="dark" title="Dark Theme">🌙<span class="theme-btn-label"> Dark</span></button>
+            <button class="theme-btn" data-theme="sepia" title="Sepia Theme">📜<span class="theme-btn-label"> Sepia</span></button>
+          </div>
+        </div>
+      </header>
+
+      <!-- Reading Progress Indicator -->
+      <div id="reading-progress-bar"></div>
+
+      <!-- Main Reading Article Container -->
+      <main id="content-container">
+        <!-- Populated dynamically by reader.js -->
+      </main>
+    </div>
+  </div>
+
+  <!-- Floating Concept Modal -->
+  <div id="concept-modal" class="floating-overlay"></div>
+
+  <!-- Floating Citation Popover Modal -->
+  <div id="citation-modal" class="floating-overlay"></div>
+
+  <!-- Fullscreen Figure Lightbox Modal -->
+  <div id="figure-modal" class="floating-overlay"></div>
+
+  <!-- Application Scripts (100% Offline Standalone) -->
+  <script src="assets/js/book_data.js"></script>
+  <script src="assets/js/reader.js"></script>
+</body>
+</html>

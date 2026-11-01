@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="457.863307pt" height="327.469606pt" viewBox="0 0 457.863307 327.469606" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-31T22:53:37.485020</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 327.469606 
+L 457.863307 327.469606 
+L 457.863307 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 14.915906 124.049764 
+L 107.04189 124.049764 
+Q 109.876535 124.049764 109.876535 121.215118 
+L 109.876535 29.089134 
+Q 109.876535 26.254488 107.04189 26.254488 
+L 14.915906 26.254488 
+Q 12.08126 26.254488 12.08126 29.089134 
+L 12.08126 121.215118 
+Q 12.08126 124.049764 14.915906 124.049764 
+z
+" clip-path="url(#p4e932580c7)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 125.467087 124.049764 
+L 217.593071 124.049764 
+Q 220.427717 124.049764 220.427717 121.215118 
+L 220.427717 29.089134 
+Q 220.427717 26.254488 217.593071 26.254488 
+L 125.467087 26.254488 
+Q 122.632441 26.254488 122.632441 29.089134 
+L 122.632441 121.215118 
+Q 122.632441 124.049764 125.467087 124.049764 
+z
+" clip-path="url(#p4e932580c7)" style="fill: #ffffff; stroke: #009e73; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 236.018268 124.049764 
+L 328.144252 124.049764 
+Q 330.978898 124.049764 330.978898 121.215118 
+L 330.978898 29.089134 
+Q 330.978898 26.254488 328.144252 26.254488 
+L 236.018268 26.254488 
+Q 233.183622 26.254488 233.183622 29.089134 
+L 233.183622 121.215118 
+Q 233.183622 124.049764 236.018268 124.049764 
+z
+" clip-path="url(#p4e932580c7)" style="fill: #ffffff; stroke: #e69f00; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 346.569449 124.049764 
+L 438.695433 124.049764 
+Q 441.530079 124.049764 441.530079 121.215118 
+L 441.530079 29.089134 
+Q 441.530079 26.254488 438.695433 26.254488 
+L 346.569449 26.254488 
+Q 343.734803 26.254488 343.734803 29.089134 
+L 343.734803 121.215118 
+Q 343.734803 124.049764 346.569449 124.049764 
+z
+" clip-path="url(#p4e932580c7)" style="fill: #ffffff; stroke: #cc79a7; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 113.294581 75.860787 
+Q 116.255114 75.860787 118.321219 75.860787 
+" clip-path="url(#p4e932580c7)" style="fill: none; stroke: #4d4d4d; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 115.521219 74.460787 
+L 118.321219 75.860787 
+L 115.521219 77.260787 
+z
+" clip-path="url(#p4e932580c7)" style="fill: #4d4d4d; stroke: #4d4d4d; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 223.845762 75.860787 
+Q 226.806295 75.860787 228.872401 75.860787 
+" clip-path="url(#p4e932580c7)" style="fill: none; stroke: #4d4d4d; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 226.072401 74.460787 
+L 228.872401 75.860787 
+L 226.072401 77.260787 
+z
+" clip-path="url(#p4e932580c7)" style="fill: #4d4d4d; stroke: #4d4d4d; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 334.396943 75.860787 
+Q 337.357476 75.860787 339.423582 75.860787 
+" clip-path="url(#p4e932580c7)" style="fill: none; stroke: #4d4d4d; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 336.623582 74.460787 
+L 339.423582 75.860787 
+L 336.623582 77.260787 
+z
+" clip-path="url(#p4e932580c7)" style="fill: #4d4d4d; stroke: #4d4d4d; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 14.348976 148.144252 
+L 439.262362 148.144252 
+Q 441.530079 148.144252 441.530079 145.876535 
+L 441.530079 131.986772 
+Q 441.530079 129.719055 439.262362 129.719055 
+L 14.348976 129.719055 
+Q 12.08126 129.719055 12.08126 131.986772 
+L 12.08126 145.876535 
+Q 12.08126 148.144252 14.348976 148.144252 
+z
+" clip-path="url(#p4e932580c7)" style="fill: #e6e6e6; stroke: #8c8c8c; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 15.482835 298.380472 
+L 144.742677 298.380472 
+Q 148.144252 298.380472 148.144252 294.978898 
+L 148.144252 177.057638 
+Q 148.144252 173.656063 144.742677 173.656063 
+L 15.482835 173.656063 
+Q 12.08126 173.656063 12.08126 177.057638 
+L 12.08126 294.978898 
+Q 12.08126 298.380472 15.482835 298.380472 
+z
+" clip-path="url(#p4e932580c7)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 161.467087 298.380472 
+L 290.726929 298.380472 
+Q 294.128504 298.380472 294.128504 294.978898 
+L 294.128504 177.057638 
+Q 294.128504 173.656063 290.726929 173.656063 
+L 161.467087 173.656063 
+Q 158.065512 173.656063 158.065512 177.057638 
+L 158.065512 294.978898 
+Q 158.065512 298.380472 161.467087 298.380472 
+z
+" clip-path="url(#p4e932580c7)" style="fill: #ffffff; stroke: #009e73; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 308.868661 298.380472 
+L 438.128504 298.380472 
+Q 441.530079 298.380472 441.530079 294.978898 
+L 441.530079 177.057638 
+Q 441.530079 173.656063 438.128504 173.656063 
+L 308.868661 173.656063 
+Q 305.467087 173.656063 305.467087 177.057638 
+L 305.467087 294.978898 
+Q 305.467087 298.380472 308.868661 298.380472 
+z
+" clip-path="url(#p4e932580c7)" style="fill: #fdf7f5; stroke: #d55e00; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="20.778856" transform="rotate(-0 12.08126 20.778856)">(A) The TPPR path from activity to observed findings</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="17.183622" y="38.116666" transform="rotate(-0 17.183622 38.116666)">1. Transfer</text>
+   </g>
+   <g id="text_3">
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #4d4d4d" transform="translate(17.183622 54.189111)">Movement between</text>
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #4d4d4d" transform="translate(17.183622 61.524023)">people and objects</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="79.219028" transform="rotate(-0 17.183622 79.219028)">• Direct transfer</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="89.990609" transform="rotate(-0 17.183622 89.990609)">• Secondary, tertiary,</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="100.762335" transform="rotate(-0 17.183622 100.762335)">  or further transfer</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="111.53604" transform="rotate(-0 17.183622 111.53604)">  [Tay18, Oor19]</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="127.734803" y="38.116666" transform="rotate(-0 127.734803 38.116666)">2. Persistence</text>
+   </g>
+   <g id="text_9">
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #4d4d4d" transform="translate(127.734803 54.189111)">Whether material remains</text>
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #4d4d4d" transform="translate(127.734803 62.258203)">available over time</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="127.734803" y="79.219028" transform="rotate(-0 127.734803 79.219028)">• Retention vs loss</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="127.734803" y="89.990682" transform="rotate(-0 127.734803 89.990682)">  prior to collection</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="127.734803" y="100.762335" transform="rotate(-0 127.734803 100.762335)">• Material remains</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="127.734803" y="111.533916" transform="rotate(-0 127.734803 111.533916)">  available [Tay21]</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #e69f00" x="238.285984" y="38.116666" transform="rotate(-0 238.285984 38.116666)">3. Prevalence</text>
+   </g>
+   <g id="text_15">
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #4d4d4d" transform="translate(238.285984 53.454931)">Pre-existing background</text>
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #4d4d4d" transform="translate(238.285984 62.258203)">material on substrate</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="238.285984" y="79.218955" transform="rotate(-0 238.285984 79.218955)">• Background DNA</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="238.285984" y="89.990609" transform="rotate(-0 238.285984 89.990609)">  already present on</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="238.285984" y="100.762335" transform="rotate(-0 238.285984 100.762335)">  substrate / person</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="238.285984" y="111.53604" transform="rotate(-0 238.285984 111.53604)">  [Oor19, Tay21]</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="348.837165" y="38.116593" transform="rotate(-0 348.837165 38.116593)">4. Recovery</text>
+   </g>
+   <g id="text_21">
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #4d4d4d" transform="translate(348.837165 54.189111)">What collection and</text>
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #4d4d4d" transform="translate(348.837165 61.51289)">analysis detects</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="348.837165" y="79.219028" transform="rotate(-0 348.837165 79.219028)">• Case-specific</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="348.837165" y="89.990682" transform="rotate(-0 348.837165 89.990682)">  collection process</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="348.837165" y="100.762262" transform="rotate(-0 348.837165 100.762262)">• Analytical detection</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="348.837165" y="111.533989" transform="rotate(-0 348.837165 111.533989)">  limits [Gil25b]</text>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="228.931654" y="141.014231" transform="rotate(-0 228.931654 141.014231)">Core principle: The same finding may be expected under more than one account [Tay18, Oor19, Tay21]</text>
+   </g>
+   <g id="text_27">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="169.597754" transform="rotate(-0 12.08126 169.597754)">(B) Evidentiary principles in activity-level evaluation</text>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="17.750551" y="186.627341" transform="rotate(-0 17.750551 186.627341)">Sub-source vs activity [Gil20]</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="197.707217" transform="rotate(-0 17.750551 197.707217)">• Sub-source LR evaluates whose</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="208.478871" transform="rotate(-0 17.750551 208.478871)">  DNA is present [Coo98, Gil20]</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="219.250524" transform="rotate(-0 17.750551 219.250524)">• Does not address how or when</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="230.022178" transform="rotate(-0 17.750551 230.022178)">  the material arrived</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="240.793758" transform="rotate(-0 17.750551 240.793758)">• LR compares findings under</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="251.565412" transform="rotate(-0 17.750551 251.565412)">  competing propositions</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="262.337065" transform="rotate(-0 17.750551 262.337065)">• It is not the probability that</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="273.108719" transform="rotate(-0 17.750551 273.108719)">  an activity account is true</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="283.880372" transform="rotate(-0 17.750551 283.880372)">• Attributing DNA does not</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="294.652099" transform="rotate(-0 17.750551 294.652099)">  establish deposition [Gil20]</text>
+   </g>
+   <g id="text_39">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="163.734803" y="186.627341" transform="rotate(-0 163.734803 186.627341)">The ReAct study [Gil25b]</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="163.734803" y="197.707144" transform="rotate(-0 163.734803 197.707144)">• Collaborative study of recovery</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="163.734803" y="208.478871" transform="rotate(-0 163.734803 208.478871)">  across forensic laboratories</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="163.734803" y="219.250524" transform="rotate(-0 163.734803 219.250524)">• Found substantial variation</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="163.734803" y="230.022105" transform="rotate(-0 163.734803 230.022105)">  among laboratories in recovery</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="163.734803" y="240.793758" transform="rotate(-0 163.734803 240.793758)">  and resulting evaluations [Gil25b]</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="163.734803" y="251.565485" transform="rotate(-0 163.734803 251.565485)">• Limits direct transfer of</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="163.734803" y="262.337065" transform="rotate(-0 163.734803 262.337065)">  recovery data between labs</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="163.734803" y="273.108792" transform="rotate(-0 163.734803 273.108792)">• Informs conditions studied,</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="163.734803" y="283.880372" transform="rotate(-0 163.734803 283.880372)">  not universal recovery rates</text>
+   </g>
+   <g id="text_49">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="311.136378" y="186.627341" transform="rotate(-0 311.136378 186.627341)">Bayesian networks [Tay18b]</text>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="311.136378" y="197.707144" transform="rotate(-0 311.136378 197.707144)">• Structure activity pathways,</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="311.136378" y="208.478797" transform="rotate(-0 311.136378 208.478797)">  background sources, and</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="311.136378" y="219.250451" transform="rotate(-0 311.136378 219.250451)">  dependencies explicitly [Tay21]</text>
+   </g>
+   <g id="text_53">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="311.136378" y="230.022105" transform="rotate(-0 311.136378 230.022105)">• Sensitivity analysis identifies</text>
+   </g>
+   <g id="text_54">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="311.136378" y="240.793831" transform="rotate(-0 311.136378 240.793831)">  which inputs drive evaluation</text>
+   </g>
+   <g id="text_55">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="311.136378" y="251.565412" transform="rotate(-0 311.136378 251.565412)">• Cannot supply reliable values</text>
+   </g>
+   <g id="text_56">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="311.136378" y="262.337138" transform="rotate(-0 311.136378 262.337138)">  where suitable data are absent</text>
+   </g>
+   <g id="text_57">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="311.136378" y="273.108792" transform="rotate(-0 311.136378 273.108792)">• Limits should be stated [Buc25]</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p4e932580c7">
+   <rect x="2.16" y="2.16" width="453.543307" height="323.149606"/>
+  </clipPath>
+ </defs>
+</svg>

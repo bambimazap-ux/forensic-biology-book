@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="457.863307pt" height="333.138898pt" viewBox="0 0 457.863307 333.138898" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-31T23:47:49.186528</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 333.138898 
+L 457.863307 333.138898 
+L 457.863307 -0 
+L 0 -0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 14.915906 138.222992 
+L 219.010394 138.222992 
+Q 221.845039 138.222992 221.845039 135.388346 
+L 221.845039 20.585197 
+Q 221.845039 17.750551 219.010394 17.750551 
+L 14.915906 17.750551 
+Q 12.08126 17.750551 12.08126 20.585197 
+L 12.08126 135.388346 
+Q 12.08126 138.222992 14.915906 138.222992 
+z
+" clip-path="url(#pc542bfe9fa)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 238.852913 138.222992 
+L 442.947402 138.222992 
+Q 445.782047 138.222992 445.782047 135.388346 
+L 445.782047 20.585197 
+Q 445.782047 17.750551 442.947402 17.750551 
+L 238.852913 17.750551 
+Q 236.018268 17.750551 236.018268 20.585197 
+L 236.018268 135.388346 
+Q 236.018268 138.222992 238.852913 138.222992 
+z
+" clip-path="url(#pc542bfe9fa)" style="fill: #ffffff; stroke: #009e73; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 14.915906 245.939528 
+L 219.010394 245.939528 
+Q 221.845039 245.939528 221.845039 243.104882 
+L 221.845039 156.648189 
+Q 221.845039 153.813543 219.010394 153.813543 
+L 14.915906 153.813543 
+Q 12.08126 153.813543 12.08126 156.648189 
+L 12.08126 243.104882 
+Q 12.08126 245.939528 14.915906 245.939528 
+z
+" clip-path="url(#pc542bfe9fa)" style="fill: #ffffff; stroke: #e69f00; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 238.852913 245.939528 
+L 442.947402 245.939528 
+Q 445.782047 245.939528 445.782047 243.104882 
+L 445.782047 156.648189 
+Q 445.782047 153.813543 442.947402 153.813543 
+L 238.852913 153.813543 
+Q 236.018268 153.813543 236.018268 156.648189 
+L 236.018268 243.104882 
+Q 236.018268 245.939528 238.852913 245.939528 
+z
+" clip-path="url(#pc542bfe9fa)" style="fill: #ffffff; stroke: #cc79a7; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 14.915906 321.057638 
+L 442.947402 321.057638 
+Q 445.782047 321.057638 445.782047 318.222992 
+L 445.782047 264.364724 
+Q 445.782047 261.530079 442.947402 261.530079 
+L 14.915906 261.530079 
+Q 12.08126 261.530079 12.08126 264.364724 
+L 12.08126 318.222992 
+Q 12.08126 321.057638 14.915906 321.057638 
+z
+" clip-path="url(#pc542bfe9fa)" style="fill: #fff8f5; stroke: #d55e00; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="12.811218" transform="rotate(-0 12.08126 12.811218)">(A) Quantitative informativeness metrics for AIM selection [Ros03, Pfa04, Phi14]</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="17.183622" y="27.887266" transform="rotate(-0 17.183622 27.887266)">Pairwise &amp; Estimation Precision</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="36.132341" transform="rotate(-0 17.183622 36.132341)">• Pairwise difference: delta = |p1 - p2|</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="44.069349" transform="rotate(-0 17.183622 44.069349)">  Measures simple contrast between 2 groups.</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="52.006357" transform="rotate(-0 17.183622 52.006357)">  Blind to multi-group dynamics [Ros03].</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="59.943364" transform="rotate(-0 17.183622 59.943364)">• Rosenberg informativeness (In) [Ros03]:</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="67.880372" transform="rotate(-0 17.183622 67.880372)">  Expected Shannon entropy reduction across</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="75.81738" transform="rotate(-0 17.183622 75.81738)">  K groups; robust for multi-group sets.</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="83.754388" transform="rotate(-0 17.183622 83.754388)">• Fisher information in ancestry [Pfa04]:</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="91.691396" transform="rotate(-0 17.183622 91.691396)">  Curvature of log-likelihood function;</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="99.628477" transform="rotate(-0 17.183622 99.628477)">  dictates precision of estimated fractions.</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="107.565412" transform="rotate(-0 17.183622 107.565412)">  Yields tighter bounds near boundaries.</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="241.12063" y="27.887183" transform="rotate(-0 241.12063 27.887183)">Population Divergence &amp; Multi-Allelic</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="36.132341" transform="rotate(-0 241.12063 36.132341)">• Wright's fixation index (Fst) [Ros03]:</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="44.069349" transform="rotate(-0 241.12063 44.069349)">  Variance partitioned among subgroups</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="52.00643" transform="rotate(-0 241.12063 52.00643)">  relative to total sample variance.</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="59.943364" transform="rotate(-0 241.12063 59.943364)">• Effective alleles (Ae = 1 / sum(pi^2)):</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="67.880372" transform="rotate(-0 241.12063 67.880372)">  Measures multi-allelic diversity [Che19e].</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="75.81738" transform="rotate(-0 241.12063 75.81738)">  High Ae != between-group discrimination.</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="83.754388" transform="rotate(-0 241.12063 83.754388)">• Population-Specific Divergence (PSD):</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="91.691396" transform="rotate(-0 241.12063 91.691396)">  Target group divergence from mean [Phi14].</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="99.628404" transform="rotate(-0 241.12063 99.628404)">  Cumulative PSD balances global panels.</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="107.565412" transform="rotate(-0 241.12063 107.565412)">  Ensures even representation of groups.</text>
+   </g>
+   <g id="text_24">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="148.87421" transform="rotate(-0 12.08126 148.87421)">(B) Balanced panel engineering and marker classes [Phi14, Che19e, Kid14]</text>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #e69f00" x="17.183622" y="163.950258" transform="rotate(-0 17.183622 163.950258)">EUROFORGEN Global AIM Panel [Phi14]</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="172.195333" transform="rotate(-0 17.183622 172.195333)">• Balanced panel engineering [Phi14]:</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="180.132341" transform="rotate(-0 17.183622 180.132341)">  Combines complementary markers rather than</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="188.069349" transform="rotate(-0 17.183622 188.069349)">  simply pooling highest pairwise contrasts.</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="196.006357" transform="rotate(-0 17.183622 196.006357)">  Prevents regional over-representation.</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="203.943364" transform="rotate(-0 17.183622 203.943364)">• Continental vs regional resolution:</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="211.880372" transform="rotate(-0 17.183622 211.880372)">  Broad assignment requires fewer markers;</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="219.817453" transform="rotate(-0 17.183622 219.817453)">  sub-continental needs dense panels [Kid14].</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="227.756512" transform="rotate(-0 17.183622 227.756512)">• Omitted population boundary [Kid14]:</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="235.691469" transform="rotate(-0 17.183622 235.691469)">  No panel can overcome omitted populations.</text>
+   </g>
+   <g id="text_35">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #cc79a7" x="241.12063" y="163.950175" transform="rotate(-0 241.12063 163.950175)">Bi-allelic SNPs vs Microhaplotypes</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="172.195406" transform="rotate(-0 241.12063 172.195406)">• Bi-allelic AIM-SNPs [Che19e]:</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="180.132341" transform="rotate(-0 241.12063 180.132341)">  Abundant, low mutation rate (~10^-8).</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="188.069349" transform="rotate(-0 241.12063 188.069349)">  Short amplicons (&lt;100 bp); max H = 0.5.</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="196.006357" transform="rotate(-0 241.12063 196.006357)">• Microhaplotypes (2-5 SNPs within &lt;300 bp):</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="203.943438" transform="rotate(-0 241.12063 203.943438)">  Multiple alleles; zero stutter artefacts.</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="211.880372" transform="rotate(-0 241.12063 211.880372)">  High In per locus; excels in DNA mixtures.</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="219.81738" transform="rotate(-0 241.12063 219.81738)">• Population specificity [Che19e]:</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="227.754388" transform="rotate(-0 241.12063 227.754388)">  Informativeness varies with target groups.</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="235.691396" transform="rotate(-0 241.12063 235.691396)">  Ranking depends on tested reference sets.</text>
+   </g>
+   <g id="text_45">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="256.590746" transform="rotate(-0 12.08126 256.590746)">(C) MPS multiplex integration and the inferential firewall [Ter24, Kay23, Phi19]</text>
+   </g>
+   <g id="text_46">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="17.750551" y="269.183622" transform="rotate(-0 17.750551 269.183622)">Unified MPS Platforms [Phi19, del21]</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="277.12063" transform="rotate(-0 17.750551 277.12063)">• Co-amplification systems:</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="283.92378" transform="rotate(-0 17.750551 283.92378)">  ForenSeq, MAPlex, VISAGE Tools.</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="290.726929" transform="rotate(-0 17.750551 290.726929)">• Simultaneous sequence capture:</text>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="297.530079" transform="rotate(-0 17.750551 297.530079)">  Identity STRs + AIMs + EVCs in</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="304.333228" transform="rotate(-0 17.750551 304.333228)">  a single library sequencing run.</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="312.270236" transform="rotate(-0 17.750551 312.270236)">• Minimal DNA consumption (&lt;1 ng).</text>
+   </g>
+   <g id="text_53">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="162.31748" y="269.183622" transform="rotate(-0 162.31748 269.183622)">The Inferential Firewall [Ter24, Kay23]</text>
+   </g>
+   <g id="text_54">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="162.31748" y="277.12063" transform="rotate(-0 162.31748 277.12063)">• Separate inferential categories:</text>
+   </g>
+   <g id="text_55">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="162.31748" y="283.92378" transform="rotate(-0 162.31748 283.92378)">  Co-amplification != interchangeable!</text>
+   </g>
+   <g id="text_56">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="162.31748" y="290.726929" transform="rotate(-0 162.31748 290.726929)">• Identity STRs: Match / individualize.</text>
+   </g>
+   <g id="text_57">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="162.31748" y="297.530079" transform="rotate(-0 162.31748 297.530079)">• AIM-SNPs: Group probability vectors.</text>
+   </g>
+   <g id="text_58">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="162.31748" y="304.333228" transform="rotate(-0 162.31748 304.333228)">• EVCs: Physical trait predictions.</text>
+   </g>
+   <g id="text_59">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="162.31748" y="312.270236" transform="rotate(-0 162.31748 312.270236)">• Distinct legal &amp; reporting standards.</text>
+   </g>
+   <g id="text_60">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="306.884409" y="269.183622" transform="rotate(-0 306.884409 269.183622)">Panel Scope &amp; Limits [Kid14, Ter24]</text>
+   </g>
+   <g id="text_61">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="306.884409" y="277.12063" transform="rotate(-0 306.884409 277.12063)">• Diminishing returns with panel size:</text>
+   </g>
+   <g id="text_62">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="306.884409" y="283.92378" transform="rotate(-0 306.884409 283.92378)">  Adding markers cannot overcome</text>
+   </g>
+   <g id="text_63">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="306.884409" y="290.726929" transform="rotate(-0 306.884409 290.726929)">  missing reference populations [Kid14].</text>
+   </g>
+   <g id="text_64">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="306.884409" y="297.530079" transform="rotate(-0 306.884409 297.530079)">• Bounded classification lead:</text>
+   </g>
+   <g id="text_65">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="306.884409" y="304.333228" transform="rotate(-0 306.884409 304.333228)">  All inferences are relative strictly to</text>
+   </g>
+   <g id="text_66">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="306.884409" y="312.270236" transform="rotate(-0 306.884409 312.270236)">  represented reference groups [Ter24].</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pc542bfe9fa">
+   <rect x="2.16" y="2.16" width="453.543307" height="328.818898"/>
+  </clipPath>
+ </defs>
+</svg>

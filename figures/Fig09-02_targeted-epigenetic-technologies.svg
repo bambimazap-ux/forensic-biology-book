@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="457.863307pt" height="333.138898pt" viewBox="0 0 457.863307 333.138898" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-01T00:01:34.227417</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 333.138898 
+L 457.863307 333.138898 
+L 457.863307 -0 
+L 0 -0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 14.348976 150.978898 
+L 109.026142 150.978898 
+Q 111.293858 150.978898 111.293858 148.711181 
+L 111.293858 22.852913 
+Q 111.293858 20.585197 109.026142 20.585197 
+L 14.348976 20.585197 
+Q 12.08126 20.585197 12.08126 22.852913 
+L 12.08126 148.711181 
+Q 12.08126 150.978898 14.348976 150.978898 
+z
+" clip-path="url(#p4b82c681c2)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 125.750551 150.978898 
+L 220.427717 150.978898 
+Q 222.695433 150.978898 222.695433 148.711181 
+L 222.695433 22.852913 
+Q 222.695433 20.585197 220.427717 20.585197 
+L 125.750551 20.585197 
+Q 123.482835 20.585197 123.482835 22.852913 
+L 123.482835 148.711181 
+Q 123.482835 150.978898 125.750551 150.978898 
+z
+" clip-path="url(#p4b82c681c2)" style="fill: #ffffff; stroke: #009e73; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 237.152126 150.978898 
+L 331.829291 150.978898 
+Q 334.097008 150.978898 334.097008 148.711181 
+L 334.097008 22.852913 
+Q 334.097008 20.585197 331.829291 20.585197 
+L 237.152126 20.585197 
+Q 234.884409 20.585197 234.884409 22.852913 
+L 234.884409 148.711181 
+Q 234.884409 150.978898 237.152126 150.978898 
+z
+" clip-path="url(#p4b82c681c2)" style="fill: #ffffff; stroke: #e69f00; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 348.553701 150.978898 
+L 443.230866 150.978898 
+Q 445.498583 150.978898 445.498583 148.711181 
+L 445.498583 22.852913 
+Q 445.498583 20.585197 443.230866 20.585197 
+L 348.553701 20.585197 
+Q 346.285984 20.585197 346.285984 22.852913 
+L 346.285984 148.711181 
+Q 346.285984 150.978898 348.553701 150.978898 
+z
+" clip-path="url(#p4b82c681c2)" style="fill: #ffffff; stroke: #cc79a7; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 14.915906 260.112756 
+L 219.010394 260.112756 
+Q 221.845039 260.112756 221.845039 257.27811 
+L 221.845039 172.23874 
+Q 221.845039 169.404094 219.010394 169.404094 
+L 14.915906 169.404094 
+Q 12.08126 169.404094 12.08126 172.23874 
+L 12.08126 257.27811 
+Q 12.08126 260.112756 14.915906 260.112756 
+z
+" clip-path="url(#p4b82c681c2)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 238.852913 260.112756 
+L 442.947402 260.112756 
+Q 445.782047 260.112756 445.782047 257.27811 
+L 445.782047 172.23874 
+Q 445.782047 169.404094 442.947402 169.404094 
+L 238.852913 169.404094 
+Q 236.018268 169.404094 236.018268 172.23874 
+L 236.018268 257.27811 
+Q 236.018268 260.112756 238.852913 260.112756 
+z
+" clip-path="url(#p4b82c681c2)" style="fill: #ffffff; stroke: #009e73; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 14.915906 319.640315 
+L 442.947402 319.640315 
+Q 445.782047 319.640315 445.782047 316.805669 
+L 445.782047 270.034016 
+Q 445.782047 267.19937 442.947402 267.19937 
+L 14.915906 267.19937 
+Q 12.08126 267.19937 12.08126 270.034016 
+L 12.08126 316.805669 
+Q 12.08126 319.640315 14.915906 319.640315 
+z
+" clip-path="url(#p4b82c681c2)" style="fill: #fff8f5; stroke: #d55e00; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="12.811218" transform="rotate(-0 12.08126 12.811218)">(A) Targeted epigenetic detection technologies [Vid18, Fre20, Nau17]</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="16.333228" y="28.522205" transform="rotate(-0 16.333228 28.522205)">1. Pyrosequencing</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.333228" y="39.010394" transform="rotate(-0 16.333228 39.010394)">• Bioluminescent path:</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.333228" y="47.514331" transform="rotate(-0 16.333228 47.514331)">  Luciferase cascade</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.333228" y="56.018268" transform="rotate(-0 16.333228 56.018268)">  emits light pulses.</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.333228" y="67.35685" transform="rotate(-0 16.333228 67.35685)">• Proportional light:</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.333228" y="75.860787" transform="rotate(-0 16.333228 75.860787)">  Light equals C vs T</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.333228" y="84.364724" transform="rotate(-0 16.333228 84.364724)">  nucleotide uptake.</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.333228" y="95.703307" transform="rotate(-0 16.333228 95.703307)">• High precision:</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.333228" y="104.207244" transform="rotate(-0 16.333228 104.207244)">  Accurate single CpG.</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.333228" y="115.545827" transform="rotate(-0 16.333228 115.545827)">• Singleplex limit:</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.333228" y="124.049764" transform="rotate(-0 16.333228 124.049764)">  Short target scope.</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="16.333228" y="143.04189" transform="rotate(-0 16.333228 143.04189)">Accurate, singleplex</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="127.734803" y="28.522205" transform="rotate(-0 127.734803 28.522205)">2. SNaPshot / CE</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="127.734803" y="39.010394" transform="rotate(-0 127.734803 39.010394)">• Minisequencing:</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="127.734803" y="47.514331" transform="rotate(-0 127.734803 47.514331)">  Base extension using</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="127.734803" y="56.018268" transform="rotate(-0 127.734803 56.018268)">  fluorescent ddNTPs.</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="127.734803" y="67.35685" transform="rotate(-0 127.734803 67.35685)">• CE separation:</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="127.734803" y="75.860787" transform="rotate(-0 127.734803 75.860787)">  Run on CE analyzers;</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="127.734803" y="84.364724" transform="rotate(-0 127.734803 84.364724)">  multiplexes loci.</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="127.734803" y="95.703307" transform="rotate(-0 127.734803 95.703307)">• Peak-height ratios:</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="127.734803" y="104.207244" transform="rotate(-0 127.734803 104.207244)">  Semi-quantitative;</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="127.734803" y="112.711181" transform="rotate(-0 127.734803 112.711181)">  dye response bias.</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="127.734803" y="124.049764" transform="rotate(-0 127.734803 124.049764)">• 3130 vs 3500 shifts.</text>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="127.734803" y="143.04189" transform="rotate(-0 127.734803 143.04189)">Multiplex, semi-quant</text>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #e69f00" x="239.136378" y="28.522205" transform="rotate(-0 239.136378 28.522205)">3. Targeted MPS</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.136378" y="39.010394" transform="rotate(-0 239.136378 39.010394)">• Digital sequencing:</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.136378" y="47.514331" transform="rotate(-0 239.136378 47.514331)">  Deep parallel reads</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.136378" y="56.018268" transform="rotate(-0 239.136378 56.018268)">  of bisulfite PCR.</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.136378" y="67.35685" transform="rotate(-0 239.136378 67.35685)">• Digital read counts:</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.136378" y="75.860787" transform="rotate(-0 239.136378 75.860787)">  Direct C vs T count;</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.136378" y="84.364724" transform="rotate(-0 239.136378 84.364724)">  single-molecule data.</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.136378" y="95.703307" transform="rotate(-0 239.136378 95.703307)">• High multiplexing:</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.136378" y="104.207244" transform="rotate(-0 239.136378 104.207244)">  Dozens of CpGs with</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.136378" y="112.711181" transform="rotate(-0 239.136378 112.711181)">  STRs in one run.</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.136378" y="124.049764" transform="rotate(-0 239.136378 124.049764)">• High template need.</text>
+   </g>
+   <g id="text_37">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #e69f00" x="239.136378" y="143.04189" transform="rotate(-0 239.136378 143.04189)">Digital read counts</text>
+   </g>
+   <g id="text_38">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #cc79a7" x="350.537953" y="28.522205" transform="rotate(-0 350.537953 28.522205)">4. MSRE Cleavage</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="350.537953" y="39.010394" transform="rotate(-0 350.537953 39.010394)">• Cleavage assay:</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="350.537953" y="47.514331" transform="rotate(-0 350.537953 47.514331)">  Restriction enzyme</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="350.537953" y="56.018268" transform="rotate(-0 350.537953 56.018268)">  cleavage assay.</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="350.537953" y="67.35685" transform="rotate(-0 350.537953 67.35685)">• Zero bisulfite loss:</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="350.537953" y="75.860787" transform="rotate(-0 350.537953 75.860787)">  Preserves native DNA</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="350.537953" y="84.364724" transform="rotate(-0 350.537953 84.364724)">  template integrity.</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="350.537953" y="95.703307" transform="rotate(-0 350.537953 95.703307)">• Motif constraint:</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="350.537953" y="104.207244" transform="rotate(-0 350.537953 104.207244)">  Restricted strictly</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="350.537953" y="112.711181" transform="rotate(-0 350.537953 112.711181)">  to enzyme sites.</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="350.537953" y="124.049764" transform="rotate(-0 350.537953 124.049764)">• Indirect outcome.</text>
+   </g>
+   <g id="text_49">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #cc79a7" x="350.537953" y="143.04189" transform="rotate(-0 350.537953 143.04189)">Cleavage, no damage</text>
+   </g>
+   <g id="text_50">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="160.212793" transform="rotate(-0 12.08126 160.212793)">(B) Platform non-interchangeability: systematic calibration shifts [Fre20, Lee21]</text>
+   </g>
+   <g id="text_51">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="17.183622" y="179.540726" transform="rotate(-0 17.183622 179.540726)">Instrument &amp; Chemistry Shifts [Lee21]</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="187.785884" transform="rotate(-0 17.183622 187.785884)">• Systematic analyzer differences [Lee21]:</text>
+   </g>
+   <g id="text_53">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="195.722892" transform="rotate(-0 17.183622 195.722892)">  Collaborative trials show systematic shifts</text>
+   </g>
+   <g id="text_54">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="203.6599" transform="rotate(-0 17.183622 203.6599)">  between analyzer models (e.g. 3130 vs 3500).</text>
+   </g>
+   <g id="text_55">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="211.596908" transform="rotate(-0 17.183622 211.596908)">• Reagent &amp; primer conditions:</text>
+   </g>
+   <g id="text_56">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="219.533916" transform="rotate(-0 17.183622 219.533916)">  PCR buffer and primer design alter peak heights.</text>
+   </g>
+   <g id="text_57">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="227.470923" transform="rotate(-0 17.183622 227.470923)">• Inhibitor carry-over risk:</text>
+   </g>
+   <g id="text_58">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="235.408005" transform="rotate(-0 17.183622 235.408005)">  Excessive converted volume can cause failure,</text>
+   </g>
+   <g id="text_59">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="243.344939" transform="rotate(-0 17.183622 243.344939)">  plausibly through bisulfite reagent carry-over.</text>
+   </g>
+   <g id="text_60">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="241.12063" y="179.540809" transform="rotate(-0 241.12063 179.540809)">Cross-Platform Calibration Needs [Fre20]</text>
+   </g>
+   <g id="text_61">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="187.785884" transform="rotate(-0 241.12063 187.785884)">• Platform comparability [Fre20]:</text>
+   </g>
+   <g id="text_62">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="195.722892" transform="rotate(-0 241.12063 195.722892)">  Pyrosequencing, EpiTYPER, and MiSeq align</text>
+   </g>
+   <g id="text_63">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="203.6599" transform="rotate(-0 241.12063 203.6599)">  broadly; SNaPshot exhibits locus-specific bias.</text>
+   </g>
+   <g id="text_64">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="211.596908" transform="rotate(-0 241.12063 211.596908)">• Non-interchangeable raw metrics:</text>
+   </g>
+   <g id="text_65">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="219.533989" transform="rotate(-0 241.12063 219.533989)">  Raw beta values cannot be transferred across</text>
+   </g>
+   <g id="text_66">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="227.470997" transform="rotate(-0 241.12063 227.470997)">  platforms without platform-specific calibration.</text>
+   </g>
+   <g id="text_67">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="235.407931" transform="rotate(-0 241.12063 235.407931)">• Validated workflow matching [Woz21]:</text>
+   </g>
+   <g id="text_68">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="243.344939" transform="rotate(-0 241.12063 243.344939)">  Interpretation must strictly match platform.</text>
+   </g>
+   <g id="text_69">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="17.750551" y="277.902931" transform="rotate(-0 17.750551 277.902931)">Compounding Constraints in Compromised Forensic Traces [Nau23, Woz21, Lee21]</text>
+   </g>
+   <g id="text_70">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="17.750551" y="285.057638" transform="rotate(-0 17.750551 285.057638)">1. Conversion Loss [Woz21]</text>
+   </g>
+   <g id="text_71">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="292.711181" transform="rotate(-0 17.750551 292.711181)">• Severe chemical cleavage</text>
+   </g>
+   <g id="text_72">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="299.797795" transform="rotate(-0 17.750551 299.797795)">  leaves minimal intact DNA.</text>
+   </g>
+   <g id="text_73">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="306.884409" transform="rotate(-0 17.750551 306.884409)">• High input demand for MPS.</text>
+   </g>
+   <g id="text_74">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="313.971024" transform="rotate(-0 17.750551 313.971024)">• Extreme trace degradation.</text>
+   </g>
+   <g id="text_75">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="162.31748" y="285.057638" transform="rotate(-0 162.31748 285.057638)">2. Amplification Imbalance [Nau23]</text>
+   </g>
+   <g id="text_76">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="162.31748" y="292.711181" transform="rotate(-0 162.31748 292.711181)">• Stochastic sampling error in</text>
+   </g>
+   <g id="text_77">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="162.31748" y="299.797795" transform="rotate(-0 162.31748 299.797795)">  low-copy bisulfite templates.</text>
+   </g>
+   <g id="text_78">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="162.31748" y="306.884409" transform="rotate(-0 162.31748 306.884409)">• Primer slippage on T-tracts.</text>
+   </g>
+   <g id="text_79">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="162.31748" y="313.971024" transform="rotate(-0 162.31748 313.971024)">• Distorted quantitative ratios.</text>
+   </g>
+   <g id="text_80">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="306.884409" y="285.057638" transform="rotate(-0 306.884409 285.057638)">3. Read Depth Limits [Lee21]</text>
+   </g>
+   <g id="text_81">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="306.884409" y="292.711181" transform="rotate(-0 306.884409 292.711181)">• Low surviving molecules</text>
+   </g>
+   <g id="text_82">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="306.884409" y="299.797795" transform="rotate(-0 306.884409 299.797795)">  reduce digital MPS coverage.</text>
+   </g>
+   <g id="text_83">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="306.884409" y="306.884409" transform="rotate(-0 306.884409 306.884409)">• Imbalance across loci.</text>
+   </g>
+   <g id="text_84">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="306.884409" y="313.971024" transform="rotate(-0 306.884409 313.971024)">• Quantitative calls unreliable.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p4b82c681c2">
+   <rect x="2.16" y="2.16" width="453.543307" height="328.818898"/>
+  </clipPath>
+ </defs>
+</svg>

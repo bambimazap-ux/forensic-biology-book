@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="457.863307pt" height="333.138898pt" viewBox="0 0 457.863307 333.138898" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-01T00:01:35.711883</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 333.138898 
+L 457.863307 333.138898 
+L 457.863307 -0 
+L 0 -0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 14.915906 132.553701 
+L 219.010394 132.553701 
+Q 221.845039 132.553701 221.845039 129.719055 
+L 221.845039 20.585197 
+Q 221.845039 17.750551 219.010394 17.750551 
+L 14.915906 17.750551 
+Q 12.08126 17.750551 12.08126 20.585197 
+L 12.08126 129.719055 
+Q 12.08126 132.553701 14.915906 132.553701 
+z
+" clip-path="url(#pf1ffc4a15f)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 238.852913 132.553701 
+L 442.947402 132.553701 
+Q 445.782047 132.553701 445.782047 129.719055 
+L 445.782047 20.585197 
+Q 445.782047 17.750551 442.947402 17.750551 
+L 238.852913 17.750551 
+Q 236.018268 17.750551 236.018268 20.585197 
+L 236.018268 129.719055 
+Q 236.018268 132.553701 238.852913 132.553701 
+z
+" clip-path="url(#pf1ffc4a15f)" style="fill: #ffffff; stroke: #009e73; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 14.348976 257.27811 
+L 145.876535 257.27811 
+Q 148.144252 257.27811 148.144252 255.010394 
+L 148.144252 148.994646 
+Q 148.144252 146.726929 145.876535 146.726929 
+L 14.348976 146.726929 
+Q 12.08126 146.726929 12.08126 148.994646 
+L 12.08126 255.010394 
+Q 12.08126 257.27811 14.348976 257.27811 
+z
+" clip-path="url(#pf1ffc4a15f)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 158.915906 257.27811 
+L 290.443465 257.27811 
+Q 292.711181 257.27811 292.711181 255.010394 
+L 292.711181 148.994646 
+Q 292.711181 146.726929 290.443465 146.726929 
+L 158.915906 146.726929 
+Q 156.648189 146.726929 156.648189 148.994646 
+L 156.648189 255.010394 
+Q 156.648189 257.27811 158.915906 257.27811 
+z
+" clip-path="url(#pf1ffc4a15f)" style="fill: #ffffff; stroke: #e69f00; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 303.482835 257.27811 
+L 435.010394 257.27811 
+Q 437.27811 257.27811 437.27811 255.010394 
+L 437.27811 148.994646 
+Q 437.27811 146.726929 435.010394 146.726929 
+L 303.482835 146.726929 
+Q 301.215118 146.726929 301.215118 148.994646 
+L 301.215118 255.010394 
+Q 301.215118 257.27811 303.482835 257.27811 
+z
+" clip-path="url(#pf1ffc4a15f)" style="fill: #ffffff; stroke: #009e73; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 14.915906 319.640315 
+L 442.947402 319.640315 
+Q 445.782047 319.640315 445.782047 316.805669 
+L 445.782047 270.034016 
+Q 445.782047 267.19937 442.947402 267.19937 
+L 14.915906 267.19937 
+Q 12.08126 267.19937 12.08126 270.034016 
+L 12.08126 316.805669 
+Q 12.08126 319.640315 14.915906 319.640315 
+z
+" clip-path="url(#pf1ffc4a15f)" style="fill: #fff8f5; stroke: #d55e00; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="12.811218" transform="rotate(-0 12.08126 12.811218)">(A) Differentially methylated sites (DMSs) for fluid typing [Fru11, Sil16]</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="17.183622" y="27.887183" transform="rotate(-0 17.183622 27.887183)">Tissue-Specific DMS Methylation [Fru11, Sil16]</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="36.132341" transform="rotate(-0 17.183622 36.132341)">• Fluid-specific methylation profiles [Sil16]:</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="44.069349" transform="rotate(-0 17.183622 44.069349)">  - Blood: Specific unmethylated marks (e.g. ZC3H12D).</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="52.006357" transform="rotate(-0 17.183622 52.006357)">  - Semen: Distinct sperm hypomethylation (DACT1).</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="59.943364" transform="rotate(-0 17.183622 59.943364)">  - Saliva: Buccal epithelial marks (BCAS4).</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="67.880372" transform="rotate(-0 17.183622 67.880372)">  - Vaginal / Menstrual: Distinguishable from blood.</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="75.81738" transform="rotate(-0 17.183622 75.81738)">• Binary vs quantitative differences:</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="83.754388" transform="rotate(-0 17.183622 83.754388)">  Some CpGs show binary on/off states; others</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="91.691469" transform="rotate(-0 17.183622 91.691469)">  exhibit continuous fractional differences [For16].</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="99.628477" transform="rotate(-0 17.183622 99.628477)">• Tissue panel validation requirement [Sil16].</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="241.12063" y="27.887183" transform="rotate(-0 241.12063 27.887183)">Single-Aliquot Co-Analysis with STRs [Vid18]</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="36.132341" transform="rotate(-0 241.12063 36.132341)">• Co-extraction from single trace [Sij21]:</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="44.069349" transform="rotate(-0 241.12063 44.069349)">  DMS loci and identity STRs can be co-assessed</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="52.00643" transform="rotate(-0 241.12063 52.00643)">  from the identical DNA extraction aliquot.</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="59.943364" transform="rotate(-0 241.12063 59.943364)">• Sample preservation advantage:</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="67.880446" transform="rotate(-0 241.12063 67.880446)">  Avoids destructive consumption of separate stain</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="75.81738" transform="rotate(-0 241.12063 75.81738)">  portions required by conventional serology [Vid18].</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="83.754388" transform="rotate(-0 241.12063 83.754388)">• Physical linkage to DNA profile:</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="91.691396" transform="rotate(-0 241.12063 91.691396)">  Binds fluid identity directly to the DNA trace.</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="99.628477" transform="rotate(-0 241.12063 99.628477)">  Superior persistence compared to labile RNA.</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="141.787596" transform="rotate(-0 12.08126 141.787596)">(B) Multi-modal comparison: Serology vs RNA vs DNA methylation [Sij21, Ger24]</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="16.333228" y="154.663937" transform="rotate(-0 16.333228 154.663937)">1. Conventional Serology</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.333228" y="164.301732" transform="rotate(-0 16.333228 164.301732)">• Target molecule:</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.333228" y="171.671811" transform="rotate(-0 16.333228 171.671811)">  Proteins &amp; enzymes [Sij21].</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.333228" y="180.175748" transform="rotate(-0 16.333228 180.175748)">• Key strengths:</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.333228" y="187.545827" transform="rotate(-0 16.333228 187.545827)">  Rapid screening tests.</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.333228" y="196.049764" transform="rotate(-0 16.333228 196.049764)">• Major limitations:</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.333228" y="203.419843" transform="rotate(-0 16.333228 203.419843)">  Consumes DNA sample;</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.333228" y="210.789921" transform="rotate(-0 16.333228 210.789921)">  lacks link to donor profile.</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.333228" y="219.293858" transform="rotate(-0 16.333228 219.293858)">• Degradation risk:</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.333228" y="226.663937" transform="rotate(-0 16.333228 226.663937)">  Protein denatures outdoors.</text>
+   </g>
+   <g id="text_33">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="16.333228" y="250.191496" transform="rotate(-0 16.333228 250.191496)">Consumes separate stain</text>
+   </g>
+   <g id="text_34">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #e69f00" x="160.900157" y="154.663937" transform="rotate(-0 160.900157 154.663937)">2. RNA Expression [Ger24]</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="160.900157" y="164.301732" transform="rotate(-0 160.900157 164.301732)">• Target molecule:</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="160.900157" y="171.671811" transform="rotate(-0 160.900157 171.671811)">  mRNA / miRNA transcripts.</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="160.900157" y="180.175748" transform="rotate(-0 160.900157 180.175748)">• Key strengths:</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="160.900157" y="187.545827" transform="rotate(-0 160.900157 187.545827)">  High cell-type specificity.</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="160.900157" y="196.049764" transform="rotate(-0 160.900157 196.049764)">• Major limitations:</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="160.900157" y="203.419843" transform="rotate(-0 160.900157 203.419843)">  mRNA is highly labile;</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="160.900157" y="210.789921" transform="rotate(-0 160.900157 210.789921)">  requires separate extraction.</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="160.900157" y="219.293858" transform="rotate(-0 160.900157 219.293858)">• Degradation risk:</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="160.900157" y="226.663937" transform="rotate(-0 160.900157 226.663937)">  Rapid hydrolytic decay.</text>
+   </g>
+   <g id="text_44">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #e69f00" x="160.900157" y="250.191496" transform="rotate(-0 160.900157 250.191496)">Labile, separate extract</text>
+   </g>
+   <g id="text_45">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="305.467087" y="154.663937" transform="rotate(-0 305.467087 154.663937)">3. DNA Methylation [Vid18]</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="305.467087" y="164.301732" transform="rotate(-0 305.467087 164.301732)">• Target molecule:</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="305.467087" y="171.671811" transform="rotate(-0 305.467087 171.671811)">  5-Methylcytosine on DNA.</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="305.467087" y="180.175748" transform="rotate(-0 305.467087 180.175748)">• Key strengths:</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="305.467087" y="187.545827" transform="rotate(-0 305.467087 187.545827)">  Co-assessed with STRs.</text>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="305.467087" y="196.049764" transform="rotate(-0 305.467087 196.049764)">• Major limitations:</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="305.467087" y="203.419843" transform="rotate(-0 305.467087 203.419843)">  Mixtures yield bulk beta;</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="305.467087" y="210.789921" transform="rotate(-0 305.467087 210.789921)">  bisulfite loss in traces.</text>
+   </g>
+   <g id="text_53">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="305.467087" y="219.293858" transform="rotate(-0 305.467087 219.293858)">• Degradation risk:</text>
+   </g>
+   <g id="text_54">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="305.467087" y="226.663937" transform="rotate(-0 305.467087 226.663937)">  Stable DNA persistence.</text>
+   </g>
+   <g id="text_55">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="305.467087" y="250.191496" transform="rotate(-0 305.467087 250.191496)">Direct DNA link, stable</text>
+   </g>
+   <g id="text_56">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="17.750551" y="277.902931" transform="rotate(-0 17.750551 277.902931)">Cellular Mixture Deconvolution Limits &amp; Evidentiary Boundaries [Vid18, Sij21, Sil16]</text>
+   </g>
+   <g id="text_57">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="17.750551" y="285.057638" transform="rotate(-0 17.750551 285.057638)">Cellular Mixture Limit [Vid18]</text>
+   </g>
+   <g id="text_58">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="292.711181" transform="rotate(-0 17.750551 292.711181)">• Bulk methylation averages across</text>
+   </g>
+   <g id="text_59">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="299.797795" transform="rotate(-0 17.750551 299.797795)">  mixed fluids (e.g. semen + saliva).</text>
+   </g>
+   <g id="text_60">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="17.750551" y="306.884409" transform="rotate(-0 17.750551 306.884409)">• CANNOT assign fluid identity to a</text>
+   </g>
+   <g id="text_61">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="17.750551" y="313.971024" transform="rotate(-0 17.750551 313.971024)">  specific STR contributor profile!</text>
+   </g>
+   <g id="text_62">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="162.31748" y="285.057638" transform="rotate(-0 162.31748 285.057638)">Source vs Activity [Sij21]</text>
+   </g>
+   <g id="text_63">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="162.31748" y="292.711181" transform="rotate(-0 162.31748 292.711181)">• Fluid typing identifies biological</text>
+   </g>
+   <g id="text_64">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="162.31748" y="299.797795" transform="rotate(-0 162.31748 299.797795)">  material at the source level [Sij21].</text>
+   </g>
+   <g id="text_65">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="162.31748" y="306.884409" transform="rotate(-0 162.31748 306.884409)">• Does NOT prove deposition activity,</text>
+   </g>
+   <g id="text_66">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="162.31748" y="313.971024" transform="rotate(-0 162.31748 313.971024)">  timing, transfer, or consent.</text>
+   </g>
+   <g id="text_67">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="306.884409" y="285.057638" transform="rotate(-0 306.884409 285.057638)">Inconclusive Reporting [Sil16]</text>
+   </g>
+   <g id="text_68">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="306.884409" y="292.711181" transform="rotate(-0 306.884409 292.711181)">• Decision thresholds must be validated</text>
+   </g>
+   <g id="text_69">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="306.884409" y="299.797795" transform="rotate(-0 306.884409 299.797795)">  for the specific assay and tissue.</text>
+   </g>
+   <g id="text_70">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="306.884409" y="306.884409" transform="rotate(-0 306.884409 306.884409)">• If criteria are not met, report as</text>
+   </g>
+   <g id="text_71">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="306.884409" y="313.971024" transform="rotate(-0 306.884409 313.971024)">  inconclusive; never force a call [Sil16].</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pf1ffc4a15f">
+   <rect x="2.16" y="2.16" width="453.543307" height="328.818898"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="457.863307pt" height="333.138898pt" viewBox="0 0 457.863307 333.138898" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-01T00:18:12.307226</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 333.138898 
+L 457.863307 333.138898 
+L 457.863307 -0 
+L 0 -0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 14.915906 148.144252 
+L 221.845039 148.144252 
+Q 224.679685 148.144252 224.679685 145.309606 
+L 224.679685 22.00252 
+Q 224.679685 19.167874 221.845039 19.167874 
+L 14.915906 19.167874 
+Q 12.08126 19.167874 12.08126 22.00252 
+L 12.08126 145.309606 
+Q 12.08126 148.144252 14.915906 148.144252 
+z
+" clip-path="url(#p925d5059c9)" style="fill: #faf5f9; stroke: #cc79a7; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 238.852913 148.144252 
+L 442.947402 148.144252 
+Q 445.782047 148.144252 445.782047 145.309606 
+L 445.782047 22.00252 
+Q 445.782047 19.167874 442.947402 19.167874 
+L 238.852913 19.167874 
+Q 236.018268 19.167874 236.018268 22.00252 
+L 236.018268 145.309606 
+Q 236.018268 148.144252 238.852913 148.144252 
+z
+" clip-path="url(#p925d5059c9)" style="fill: #fdfdfd; stroke: #bfbfbf; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 14.915906 282.789921 
+L 221.845039 282.789921 
+Q 224.679685 282.789921 224.679685 279.955276 
+L 224.679685 172.23874 
+Q 224.679685 169.404094 221.845039 169.404094 
+L 14.915906 169.404094 
+Q 12.08126 169.404094 12.08126 172.23874 
+L 12.08126 279.955276 
+Q 12.08126 282.789921 14.915906 282.789921 
+z
+" clip-path="url(#p925d5059c9)" style="fill: #fffdf7; stroke: #d55e00; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 238.852913 282.789921 
+L 442.947402 282.789921 
+Q 445.782047 282.789921 445.782047 279.955276 
+L 445.782047 172.23874 
+Q 445.782047 169.404094 442.947402 169.404094 
+L 238.852913 169.404094 
+Q 236.018268 169.404094 236.018268 172.23874 
+L 236.018268 279.955276 
+Q 236.018268 282.789921 238.852913 282.789921 
+z
+" clip-path="url(#p925d5059c9)" style="fill: #f4faf6; stroke: #009e73; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 14.915906 321.057638 
+L 442.947402 321.057638 
+Q 445.782047 321.057638 445.782047 318.222992 
+L 445.782047 294.128504 
+Q 445.782047 291.293858 442.947402 291.293858 
+L 14.915906 291.293858 
+Q 12.08126 291.293858 12.08126 294.128504 
+L 12.08126 318.222992 
+Q 12.08126 321.057638 14.915906 321.057638 
+z
+" clip-path="url(#p925d5059c9)" style="fill: #fffdf7; stroke: #d55e00; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 244.522205 118.380472 
+L 335.230866 118.380472 
+" clip-path="url(#p925d5059c9)" style="fill: none; stroke: #8c8c8c; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 244.522205 118.380472 
+L 244.522205 41.845039 
+" clip-path="url(#p925d5059c9)" style="fill: none; stroke: #8c8c8c; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 247.545827 111.205331 
+L 249.335317 107.316069 
+L 251.124808 103.671939 
+L 252.914299 100.257493 
+L 254.703789 97.058253 
+L 256.49328 94.060655 
+L 258.28277 91.25199 
+L 260.072261 88.62035 
+L 261.861752 86.154577 
+L 263.651242 83.844217 
+L 265.440733 81.679476 
+L 267.230223 79.651173 
+L 269.019714 77.750711 
+L 270.809205 75.970032 
+L 272.598695 74.301585 
+L 274.388186 72.738298 
+L 276.177676 71.273542 
+L 277.967167 69.901106 
+L 279.756658 68.615173 
+L 281.546148 67.41029 
+L 283.335639 66.281348 
+L 285.125129 65.223561 
+L 286.91462 64.232445 
+L 288.704111 63.303797 
+L 290.493601 62.43368 
+L 292.283092 61.618404 
+L 294.072582 60.854514 
+L 295.862073 60.138771 
+L 297.651564 59.46814 
+L 299.441054 58.839777 
+L 301.230545 58.251019 
+L 303.020035 57.699369 
+L 304.809526 57.182489 
+L 306.599017 56.698186 
+L 308.388507 56.244408 
+L 310.177998 55.819232 
+L 311.967488 55.420853 
+L 313.756979 55.047583 
+L 315.54647 54.69784 
+L 317.33596 54.37014 
+L 319.125451 54.063095 
+L 320.914941 53.775402 
+L 322.704432 53.505842 
+L 324.493923 53.253272 
+L 326.283413 53.016621 
+L 328.072904 52.794885 
+L 329.862394 52.587126 
+L 331.651885 52.39246 
+L 333.441376 52.210065 
+L 335.230866 52.039165 
+" clip-path="url(#p925d5059c9)" style="fill: none; stroke: #0072b2; stroke-width: 1.3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 247.545827 116.679773 
+L 249.335317 115.693083 
+L 251.124808 114.720884 
+L 252.914299 113.762964 
+L 254.703789 112.819114 
+L 256.49328 111.889125 
+L 258.28277 110.972796 
+L 260.072261 110.069924 
+L 261.861752 109.180313 
+L 263.651242 108.303768 
+L 265.440733 107.440096 
+L 267.230223 106.589109 
+L 269.019714 105.750621 
+L 270.809205 104.924447 
+L 272.598695 104.110408 
+L 274.388186 103.308324 
+L 276.177676 102.518021 
+L 277.967167 101.739324 
+L 279.756658 100.972065 
+L 281.546148 100.216074 
+L 283.335639 99.471186 
+L 285.125129 98.737239 
+L 286.91462 98.014071 
+L 288.704111 97.301524 
+L 290.493601 96.599442 
+L 292.283092 95.907672 
+L 294.072582 95.226062 
+L 295.862073 94.554463 
+L 297.651564 93.892727 
+L 299.441054 93.240711 
+L 301.230545 92.59827 
+L 303.020035 91.965265 
+L 304.809526 91.341557 
+L 306.599017 90.727009 
+L 308.388507 90.121488 
+L 310.177998 89.524859 
+L 311.967488 88.936993 
+L 313.756979 88.357762 
+L 315.54647 87.787037 
+L 317.33596 87.224695 
+L 319.125451 86.670611 
+L 320.914941 86.124666 
+L 322.704432 85.586739 
+L 324.493923 85.056712 
+L 326.283413 84.53447 
+L 328.072904 84.019898 
+L 329.862394 83.512884 
+L 331.651885 83.013316 
+L 333.441376 82.521085 
+L 335.230866 82.036083 
+" clip-path="url(#p925d5059c9)" style="fill: none; stroke-dasharray: 4.44,1.92; stroke-dashoffset: 0; stroke: #e69f00; stroke-width: 1.2"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 244.522205 118.380472 
+L 244.522205 120.08126 
+" clip-path="url(#p925d5059c9)" style="fill: none; stroke: #8c8c8c; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 274.758425 118.380472 
+L 274.758425 120.08126 
+" clip-path="url(#p925d5059c9)" style="fill: none; stroke: #8c8c8c; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 304.994646 118.380472 
+L 304.994646 120.08126 
+" clip-path="url(#p925d5059c9)" style="fill: none; stroke: #8c8c8c; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 335.230866 118.380472 
+L 335.230866 120.08126 
+" clip-path="url(#p925d5059c9)" style="fill: none; stroke: #8c8c8c; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="11.393895" transform="rotate(-0 12.08126 11.393895)">(A) Relational privacy [Ram18, Scu19b]</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="236.018268" y="11.393895" transform="rotate(-0 236.018268 11.393895)">(B) Identifiability [Erl18]</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #cc79a7" x="16.049764" y="28.454112" transform="rotate(-0 16.049764 28.454112)">The Relational Privacy Paradox [Ram18, Scu19b]</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="36.415805" transform="rotate(-0 16.049764 36.415805)">Core Concept of Relational Privacy:</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="43.788008" transform="rotate(-0 16.049764 43.788008)">- One participant's upload creates genetic</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="51.155963" transform="rotate(-0 16.049764 51.155963)">  visibility for hundreds of non-participating kin.</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="58.526042" transform="rotate(-0 16.049764 58.526042)">- Distant cousins share detectable IBD segments</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="65.89612" transform="rotate(-0 16.049764 65.89612)">  without having consented to genealogy services.</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="80.636351" transform="rotate(-0 16.049764 80.636351)">The Kindred Exposure Ripple Effect:</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="88.006357" transform="rotate(-0 16.049764 88.006357)">- A single consumer upload exposes ~850 cousins</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="95.376435" transform="rotate(-0 16.049764 95.376435)">  reaching across branches and generations [Ram18].</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="102.746514" transform="rotate(-0 16.049764 102.746514)">- Terms-of-service agreement cannot bind or</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="110.116593" transform="rotate(-0 16.049764 110.116593)">  consent on behalf of unconsenting relatives.</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="124.85675" transform="rotate(-0 16.049764 124.85675)">Investigative Impact on Non-Participants:</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="132.226829" transform="rotate(-0 16.049764 132.226829)">- Draws unconsenting relatives into police inquiry</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="139.596908" transform="rotate(-0 16.049764 139.596908)">- Can expose unrecorded adoptions or non-paternity</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="241.687559" y="31.288758" transform="rotate(-0 241.687559 31.288758)">Erlich Identifiability Model [Erl18]</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="244.522205" y="126.108394" transform="rotate(-0 244.522205 126.108394)">0M</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="274.758425" y="126.108394" transform="rotate(-0 274.758425 126.108394)">1M</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="304.994646" y="126.108394" transform="rotate(-0 304.994646 126.108394)">2M</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="335.230866" y="126.108394" transform="rotate(-0 335.230866 126.108394)">3M</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="289.876535" y="135.746189" transform="rotate(-0 289.876535 135.746189)">Database Size</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="246.789921" y="47.514331" transform="rotate(-0 246.789921 47.514331)">Match Probability</text>
+   </g>
+   <g id="text_24">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="262.947402" y="65.939528" transform="rotate(-0 262.947402 65.939528)">&gt;=3C (~90%)</text>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #e69f00" x="277.12063" y="91.451339" transform="rotate(-0 277.12063 91.451339)">&gt;=2C (~50%)</text>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="345.152126" y="44.679685" transform="rotate(-0 345.152126 44.679685)">Demographic Funnel:</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="345.152126" y="56.018268" transform="rotate(-0 345.152126 56.018268)">1. Matches: ~500</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="345.152126" y="67.35685" transform="rotate(-0 345.152126 67.35685)">2. + Region: ~50</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="345.152126" y="78.695433" transform="rotate(-0 345.152126 78.695433)">3. + Age: ~5</text>
+   </g>
+   <g id="text_30">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="345.152126" y="90.034016" transform="rotate(-0 345.152126 90.034016)">4. + Sex: 1-2 leads!</text>
+   </g>
+   <g id="text_31">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="345.152126" y="105.624567" transform="rotate(-0 345.152126 105.624567)">Ancestral Bias [Erl18]:</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="345.152126" y="114.128504" transform="rotate(-0 345.152126 114.128504)">Consumer data skew to</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="345.152126" y="121.215118" transform="rotate(-0 345.152126 121.215118)">European lineages; other</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="345.152126" y="128.301732" transform="rotate(-0 345.152126 128.301732)">groups yield fewer leads.</text>
+   </g>
+   <g id="text_35">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="160.212793" transform="rotate(-0 12.08126 160.212793)">(C) Upload attack vectors [Edg19]</text>
+   </g>
+   <g id="text_36">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="236.018268" y="160.212793" transform="rotate(-0 236.018268 160.212793)">(D) Governance &amp; legitimacy [Wic25, Gue25]</text>
+   </g>
+   <g id="text_37">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="16.049764" y="178.690333" transform="rotate(-0 16.049764 178.690333)">Database Security &amp; Upload Attacks [Edg19]</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="186.652026" transform="rotate(-0 16.049764 186.652026)">Edge &amp; Coop Model Attack Vectors [Edg19]:</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="194.022105" transform="rotate(-0 16.049764 194.022105)">- Identity-by-State (IBS) Tiling:</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="201.392183" transform="rotate(-0 16.049764 201.392183)">  Adversary uploads synthetic genotypes designed to stitch</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="208.762262" transform="rotate(-0 16.049764 208.762262)">  overlapping shared segments across multiple iterations,</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="216.132341" transform="rotate(-0 16.049764 216.132341)">  enabling full genomic reconstruction of participants.</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="223.50242" transform="rotate(-0 16.049764 223.50242)">- Phase Probing:</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="230.872498" transform="rotate(-0 16.049764 230.872498)">  Exploits database reporting of phased segment matches to</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="238.242577" transform="rotate(-0 16.049764 238.242577)">  infer unobserved heterozygous alleles in target users.</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="252.982734" transform="rotate(-0 16.049764 252.982734)">Platform Vulnerability Drivers [Edg19]:</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="260.352813" transform="rotate(-0 16.049764 260.352813)">- Exploits permissive reporting of exact segment coordinates</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="267.722892" transform="rotate(-0 16.049764 267.722892)">- Low minimum segment length thresholds facilitate probing</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="275.092971" transform="rotate(-0 16.049764 275.092971)">- Demonstrates need for cryptographic database architectures</text>
+   </g>
+   <g id="text_50">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="239.986772" y="178.690333" transform="rotate(-0 239.986772 178.690333)">Statutory Governance &amp; Legitimacy [Wic25]</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="186.65415" transform="rotate(-0 239.986772 186.65415)">DOJ 2019 Policy vs NTVIC 2023/2025 Standards [Wic25]:</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="194.022105" transform="rotate(-0 239.986772 194.022105)">- Serious crime eligibility: violent crimes &amp; UHR only</text>
+   </g>
+   <g id="text_53">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="201.394381" transform="rotate(-0 239.986772 201.394381)">- Exhaustion rule: CODIS and routine leads must fail first</text>
+   </g>
+   <g id="text_54">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="208.762262" transform="rotate(-0 239.986772 208.762262)">- FIGG Responsible Authority (FIGG RA) oversight</text>
+   </g>
+   <g id="text_55">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="216.132341" transform="rotate(-0 239.986772 216.132341)">- Necessity &amp; proportionality review before approval</text>
+   </g>
+   <g id="text_56">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="223.50242" transform="rotate(-0 239.986772 223.50242)">- Sample destruction: prompt destruction of third-party</text>
+   </g>
+   <g id="text_57">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="230.872572" transform="rotate(-0 239.986772 230.872572)">  reference DNA upon case closure [Wic25]</text>
+   </g>
+   <g id="text_58">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="245.612656" transform="rotate(-0 239.986772 245.612656)">Public Attitudes &amp; Social Legitimacy [Gue25, Dah24]:</text>
+   </g>
+   <g id="text_59">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="252.982734" transform="rotate(-0 239.986772 252.982734)">- High public support for violent cold-case searches (&gt;85%)</text>
+   </g>
+   <g id="text_60">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="260.352886" transform="rotate(-0 239.986772 260.352886)">- Sharp drop for non-violent crimes or medical research data</text>
+   </g>
+   <g id="text_61">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="267.722965" transform="rotate(-0 239.986772 267.722965)">- Public demand for explicit opt-in consent [Dah24]</text>
+   </g>
+   <g id="text_62">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="17.750551" y="302.564431" transform="rotate(-0 17.750551 302.564431)">CARDINAL GOVERNANCE PRINCIPLE [Scu19b, Ske20]:</text>
+   </g>
+   <g id="text_63">
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #8c8c8c" x="440.112756" y="302.316629" transform="rotate(-0 440.112756 302.316629)">Simulated data for illustration</text>
+   </g>
+   <g id="text_64">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #4d4d4d" transform="translate(17.750551 310.413051)">Platform permission is not legal authorization, and a user's setting is not consent on behalf of affected relatives.</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #4d4d4d" transform="translate(17.750551 318.57604)">FIGG operations require independent statutory oversight, strict purpose limitation, and prompt destruction of third-party samples.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p925d5059c9">
+   <rect x="2.16" y="2.16" width="453.543307" height="328.818898"/>
+  </clipPath>
+ </defs>
+</svg>

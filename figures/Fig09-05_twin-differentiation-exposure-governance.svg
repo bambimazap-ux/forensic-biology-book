@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="457.863307pt" height="335.223216pt" viewBox="0 0 457.863307 335.223216" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-01T00:01:36.472515</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 335.223216 
+L 457.863307 335.223216 
+L 457.863307 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 14.915906 133.971024 
+L 219.010394 133.971024 
+Q 221.845039 133.971024 221.845039 131.136378 
+L 221.845039 20.585197 
+Q 221.845039 17.750551 219.010394 17.750551 
+L 14.915906 17.750551 
+Q 12.08126 17.750551 12.08126 20.585197 
+L 12.08126 131.136378 
+Q 12.08126 133.971024 14.915906 133.971024 
+z
+" clip-path="url(#p2f55bc362e)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 238.852913 133.971024 
+L 442.947402 133.971024 
+Q 445.782047 133.971024 445.782047 131.136378 
+L 445.782047 20.585197 
+Q 445.782047 17.750551 442.947402 17.750551 
+L 238.852913 17.750551 
+Q 236.018268 17.750551 236.018268 20.585197 
+L 236.018268 131.136378 
+Q 236.018268 133.971024 238.852913 133.971024 
+z
+" clip-path="url(#p2f55bc362e)" style="fill: #ffffff; stroke: #d55e00; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 14.915906 243.104882 
+L 442.947402 243.104882 
+Q 445.782047 243.104882 445.782047 240.270236 
+L 445.782047 150.978898 
+Q 445.782047 148.144252 442.947402 148.144252 
+L 14.915906 148.144252 
+Q 12.08126 148.144252 12.08126 150.978898 
+L 12.08126 240.270236 
+Q 12.08126 243.104882 14.915906 243.104882 
+z
+" clip-path="url(#p2f55bc362e)" style="fill: #f8f9fa; stroke: #e69f00; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 14.915906 319.640315 
+L 442.947402 319.640315 
+Q 445.782047 319.640315 445.782047 316.805669 
+L 445.782047 257.27811 
+Q 445.782047 254.443465 442.947402 254.443465 
+L 14.915906 254.443465 
+Q 12.08126 254.443465 12.08126 257.27811 
+L 12.08126 316.805669 
+Q 12.08126 319.640315 14.915906 319.640315 
+z
+" clip-path="url(#p2f55bc362e)" style="fill: #fff8f5; stroke: #d55e00; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="12.811218" transform="rotate(-0 12.08126 12.811218)">(A) MZ twin epigenetic divergence &amp; discovery-to-trace challenge [Vid17b, Vid18]</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="17.183622" y="27.887183" transform="rotate(-0 17.183622 27.887183)">MZ Twins: Sequence Identity vs Epigenetics</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="36.132414" transform="rotate(-0 17.183622 36.132414)">• Conventional STR profile failure [Vid18]:</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="44.069349" transform="rotate(-0 17.183622 44.069349)">  Monozygotic (MZ) twins share identical inherited</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="52.006357" transform="rotate(-0 17.183622 52.006357)">  DNA sequences; standard STR profiles match fully.</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="59.943364" transform="rotate(-0 17.183622 59.943364)">• Somatic epigenetic divergence [Li13]:</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="67.880372" transform="rotate(-0 17.183622 67.880372)">  Environmental exposures and epigenetic drift</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="75.81738" transform="rotate(-0 17.183622 75.81738)">  accumulate divergent CpG methylation over lifetime.</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="83.754388" transform="rotate(-0 17.183622 83.754388)">• Discovery phase in reference blood:</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="91.691396" transform="rotate(-0 17.183622 91.691396)">  Genome-wide screens identify candidate DMS marks</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="99.628404" transform="rotate(-0 17.183622 99.628404)">  differing between twin pairs in fresh blood [Vid17b].</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="241.12063" y="27.887183" transform="rotate(-0 241.12063 27.887183)">The Discovery-to-Trace Attenuation Challenge</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="36.132414" transform="rotate(-0 241.12063 36.132414)">• Reference blood vs bloodstain trace [Vid17b]:</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="44.069422" transform="rotate(-0 241.12063 44.069422)">  DMS differences observed in reference blood often</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="52.00643" transform="rotate(-0 241.12063 52.00643)">  weaken, vanish, or reverse in forensic bloodstains!</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="59.943364" transform="rotate(-0 241.12063 59.943364)">• Biological &amp; technical causes [Vid17c]:</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="67.880372" transform="rotate(-0 241.12063 67.880372)">  Cell composition shifts, storage degradation,</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="75.817453" transform="rotate(-0 241.12063 75.817453)">  and stochastic conversion/amplification variance.</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="83.754461" transform="rotate(-0 241.12063 83.754461)">• Critical forensic status [Vid18, Vid17c]:</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="91.691396" transform="rotate(-0 241.12063 91.691396)">  Epigenetic twin differentiation remains an exploratory</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="241.12063" y="99.628404" transform="rotate(-0 241.12063 99.628404)">  investigative lead, NEVER individual identification.</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="143.204919" transform="rotate(-0 12.08126 143.204919)">(B) Environmental exposure inference: Maas 13-CpG smoking panel [Maa19]</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #e69f00" x="17.750551" y="155.797795" transform="rotate(-0 17.750551 155.797795)">Maas 13-CpG Panel Performance [Maa19]</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="164.301732" transform="rotate(-0 17.750551 164.301732)">• Category-dependent discrimination:</text>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="17.750551" y="171.671811" transform="rotate(-0 17.750551 171.671811)">  - Current smokers: AUC ≈ 0.91 (High).</text>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #e69f00" x="17.750551" y="179.04189" transform="rotate(-0 17.750551 179.04189)">  - Former smokers: AUC ≈ 0.70 (Modest).</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="187.545827" transform="rotate(-0 17.750551 187.545827)">• Broad classification boundaries:</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="194.915906" transform="rotate(-0 17.750551 194.915906)">  Thresholded by pack-years and cessation;</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="202.285984" transform="rotate(-0 17.750551 202.285984)">  cannot deduce exact consumption or date [Maa19].</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="210.789921" transform="rotate(-0 17.750551 210.789921)">• Model requires replication in casework traces.</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="219.293858" transform="rotate(-0 17.750551 219.293858)">  Array-derived; unvalidated for degraded DNA.</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="227.797795" transform="rotate(-0 17.750551 227.797795)">• Non-transferable across tissues without testing.</text>
+   </g>
+   <g id="text_33">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #e69f00" x="17.750551" y="236.301732" transform="rotate(-0 17.750551 236.301732)">Probabilistic classification lead only [Maa19]</text>
+   </g>
+   <g id="text_34">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #cc79a7" x="236.018268" y="155.797795" transform="rotate(-0 236.018268 155.797795)">Biological &amp; Environmental Confounders [Ger24]</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="236.018268" y="164.301732" transform="rotate(-0 236.018268 164.301732)">• Post-cessation persistence dynamics:</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="236.018268" y="171.671811" transform="rotate(-0 236.018268 171.671811)">  Some CpG marks revert quickly after quitting;</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="236.018268" y="179.04189" transform="rotate(-0 236.018268 179.04189)">  others persist for decades post-cessation [Vid17c].</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="236.018268" y="187.545827" transform="rotate(-0 236.018268 187.545827)">• Extraneous confounding variables:</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="236.018268" y="194.915906" transform="rotate(-0 236.018268 194.915906)">  Passive smoke, pulmonary disease, ageing, and</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="236.018268" y="202.285984" transform="rotate(-0 236.018268 202.285984)">  population background alter smoking marks [Maa19].</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="236.018268" y="210.789921" transform="rotate(-0 236.018268 210.789921)">• Cell composition shifts:</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="236.018268" y="219.293858" transform="rotate(-0 236.018268 219.293858)">  Leukocyte proportions shift bulk methylation.</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="236.018268" y="227.797795" transform="rotate(-0 236.018268 227.797795)">• Emerging research direction, NOT established.</text>
+   </g>
+   <g id="text_44">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #cc79a7" x="236.018268" y="236.301732" transform="rotate(-0 236.018268 236.301732)">Pattern != proof of individual behavior [Pal26]</text>
+   </g>
+   <g id="text_45">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="17.750551" y="264.580096" transform="rotate(-0 17.750551 264.580096)">Governance Standards, Privacy Protection, and Evidentiary Boundaries [Sha18, Pal26]</text>
+   </g>
+   <g id="text_46">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="17.750551" y="272.018268" transform="rotate(-0 17.750551 272.018268)">Model PIA Framework [Sha18]</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="279.955276" transform="rotate(-0 17.750551 279.955276)">• Statutory Privacy Impact Assessment:</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="287.325354" transform="rotate(-0 17.750551 287.325354)">  Mandatory proportionality testing.</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="294.695433" transform="rotate(-0 17.750551 294.695433)">• Purpose limitation boundaries:</text>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="302.065512" transform="rotate(-0 17.750551 302.065512)">  Confine testing to serious crimes.</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="310.00252" transform="rotate(-0 17.750551 310.00252)">• Independent judicial authorization.</text>
+   </g>
+   <g id="text_52">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="162.31748" y="272.018268" transform="rotate(-0 162.31748 272.018268)">Health Safeguards [Pal26]</text>
+   </g>
+   <g id="text_53">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="162.31748" y="279.955276" transform="rotate(-0 162.31748 279.955276)">• Strict medical data firewall:</text>
+   </g>
+   <g id="text_54">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="162.31748" y="287.325354" transform="rotate(-0 162.31748 287.325354)">  Prohibit disease or health profiling.</text>
+   </g>
+   <g id="text_55">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="162.31748" y="294.695433" transform="rotate(-0 162.31748 294.695433)">• Prevent minority group stigmatisation.</text>
+   </g>
+   <g id="text_56">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="162.31748" y="302.065512" transform="rotate(-0 162.31748 302.065512)">• Prevent mission and function creep.</text>
+   </g>
+   <g id="text_57">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="162.31748" y="310.00252" transform="rotate(-0 162.31748 310.00252)">• Secondary data mining banned [Sha18].</text>
+   </g>
+   <g id="text_58">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="306.884409" y="272.018268" transform="rotate(-0 306.884409 272.018268)">Cardinal Evidentiary Law [Pal26]</text>
+   </g>
+   <g id="text_59">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="306.884409" y="279.955276" transform="rotate(-0 306.884409 279.955276)">• Strictly investigative lead:</text>
+   </g>
+   <g id="text_60">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="306.884409" y="287.325354" transform="rotate(-0 306.884409 287.325354)">  Epigenetics is an intelligence tool,</text>
+   </g>
+   <g id="text_61">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="306.884409" y="294.695433" transform="rotate(-0 306.884409 294.695433)">  NEVER direct evidence of identity.</text>
+   </g>
+   <g id="text_62">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="306.884409" y="302.065512" transform="rotate(-0 306.884409 302.065512)">• Does NOT establish deposition act.</text>
+   </g>
+   <g id="text_63">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="306.884409" y="310.00252" transform="rotate(-0 306.884409 310.00252)">• Mandatory STR confirmation [Vid18].</text>
+   </g>
+   <g id="text_64">
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #8c8c8c" x="451.167874" y="331.506819" transform="rotate(-0 451.167874 331.506819)">Simulated data for illustration</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p2f55bc362e">
+   <rect x="2.16" y="2.16" width="453.543307" height="328.818898"/>
+  </clipPath>
+ </defs>
+</svg>

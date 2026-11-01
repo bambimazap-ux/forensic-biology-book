@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="457.863307pt" height="327.469606pt" viewBox="0 0 457.863307 327.469606" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-31T23:11:25.840700</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 327.469606 
+L 457.863307 327.469606 
+L 457.863307 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 15.482835 179.325354 
+L 218.443465 179.325354 
+Q 221.845039 179.325354 221.845039 175.92378 
+L 221.845039 29.656063 
+Q 221.845039 26.254488 218.443465 26.254488 
+L 15.482835 26.254488 
+Q 12.08126 26.254488 12.08126 29.656063 
+L 12.08126 175.92378 
+Q 12.08126 179.325354 15.482835 179.325354 
+z
+" clip-path="url(#p0313241cd0)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 27.955276 65.939528 
+L 52.900157 65.939528 
+Q 54.600945 65.939528 54.600945 64.23874 
+L 54.600945 53.467087 
+Q 54.600945 51.766299 52.900157 51.766299 
+L 27.955276 51.766299 
+Q 26.254488 51.766299 26.254488 53.467087 
+L 26.254488 64.23874 
+Q 26.254488 65.939528 27.955276 65.939528 
+z
+" clip-path="url(#p0313241cd0)" style="fill: #56b4e9; stroke: #4d4d4d; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 27.955276 145.309606 
+L 52.900157 145.309606 
+Q 54.600945 145.309606 54.600945 143.608819 
+L 54.600945 70.474961 
+Q 54.600945 68.774173 52.900157 68.774173 
+L 27.955276 68.774173 
+Q 26.254488 68.774173 26.254488 70.474961 
+L 26.254488 143.608819 
+Q 26.254488 145.309606 27.955276 145.309606 
+z
+" clip-path="url(#p0313241cd0)" style="fill: #0072b2; stroke: #4d4d4d; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 27.955276 160.900157 
+L 52.900157 160.900157 
+Q 54.600945 160.900157 54.600945 159.19937 
+L 54.600945 148.427717 
+Q 54.600945 146.726929 52.900157 146.726929 
+L 27.955276 146.726929 
+Q 26.254488 146.726929 26.254488 148.427717 
+L 26.254488 159.19937 
+Q 26.254488 160.900157 27.955276 160.900157 
+z
+" clip-path="url(#p0313241cd0)" style="fill: #56b4e9; stroke: #4d4d4d; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 239.419843 179.325354 
+L 442.380472 179.325354 
+Q 445.782047 179.325354 445.782047 175.92378 
+L 445.782047 29.656063 
+Q 445.782047 26.254488 442.380472 26.254488 
+L 239.419843 26.254488 
+Q 236.018268 26.254488 236.018268 29.656063 
+L 236.018268 175.92378 
+Q 236.018268 179.325354 239.419843 179.325354 
+z
+" clip-path="url(#p0313241cd0)" style="fill: #ffffff; stroke: #009e73; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 279.104882 75.293858 
+L 294.978898 75.293858 
+L 294.978898 59.419843 
+L 279.104882 59.419843 
+z
+" clip-path="url(#p0313241cd0)" style="fill: #009e73; stroke: #4d4d4d; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 252.175748 106.474961 
+L 268.049764 106.474961 
+L 268.049764 90.600945 
+L 252.175748 90.600945 
+z
+" clip-path="url(#p0313241cd0)" style="fill: #009e73; stroke: #4d4d4d; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 306.034016 106.474961 
+L 321.908031 106.474961 
+L 321.908031 90.600945 
+L 306.034016 90.600945 
+z
+" clip-path="url(#p0313241cd0)" style="fill: #009e73; stroke: #4d4d4d; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 252.175748 137.656063 
+L 268.049764 137.656063 
+L 268.049764 121.782047 
+L 252.175748 121.782047 
+z
+" clip-path="url(#p0313241cd0)" style="fill: #009e73; stroke: #4d4d4d; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 306.034016 137.656063 
+L 321.908031 137.656063 
+L 321.908031 121.782047 
+L 306.034016 121.782047 
+z
+" clip-path="url(#p0313241cd0)" style="fill: #e69f00; stroke: #4d4d4d; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 15.482835 306.884409 
+L 442.380472 306.884409 
+Q 445.782047 306.884409 445.782047 303.482835 
+L 445.782047 203.986772 
+Q 445.782047 200.585197 442.380472 200.585197 
+L 15.482835 200.585197 
+Q 12.08126 200.585197 12.08126 203.986772 
+L 12.08126 303.482835 
+Q 12.08126 306.884409 15.482835 306.884409 
+z
+" clip-path="url(#p0313241cd0)" style="fill: #fdf7f5; stroke: #d55e00; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 20.018268 296.96315 
+L 218.16 296.96315 
+Q 220.427717 296.96315 220.427717 294.695433 
+L 220.427717 228.364724 
+Q 220.427717 226.097008 218.16 226.097008 
+L 20.018268 226.097008 
+Q 17.750551 226.097008 17.750551 228.364724 
+L 17.750551 294.695433 
+Q 17.750551 296.96315 20.018268 296.96315 
+z
+" clip-path="url(#p0313241cd0)" style="fill: #ffffff; stroke: #bfbfbf; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 235.451339 296.96315 
+L 433.593071 296.96315 
+Q 435.860787 296.96315 435.860787 294.695433 
+L 435.860787 228.364724 
+Q 435.860787 226.097008 433.593071 226.097008 
+L 235.451339 226.097008 
+Q 233.183622 226.097008 233.183622 228.364724 
+L 233.183622 294.695433 
+Q 233.183622 296.96315 235.451339 296.96315 
+z
+" clip-path="url(#p0313241cd0)" style="fill: #ffffff; stroke: #bfbfbf; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 287.04189 75.293858 
+L 287.04189 82.947402 
+" clip-path="url(#p0313241cd0)" style="fill: none; stroke: #4d4d4d; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 260.112756 82.947402 
+L 313.971024 82.947402 
+" clip-path="url(#p0313241cd0)" style="fill: none; stroke: #4d4d4d; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 260.112756 82.947402 
+L 260.112756 90.600945 
+" clip-path="url(#p0313241cd0)" style="fill: none; stroke: #4d4d4d; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 313.971024 82.947402 
+L 313.971024 90.600945 
+" clip-path="url(#p0313241cd0)" style="fill: none; stroke: #4d4d4d; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 260.112756 106.474961 
+L 260.112756 121.782047 
+" clip-path="url(#p0313241cd0)" style="fill: none; stroke: #4d4d4d; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 313.971024 106.474961 
+L 313.971024 121.782047 
+" clip-path="url(#p0313241cd0)" style="fill: none; stroke: #4d4d4d; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="19.361533" transform="rotate(-0 12.08126 19.361533)">(A) Chromosomal structure: PARs vs MSY</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="236.018268" y="19.361533" transform="rotate(-0 236.018268 19.361533)">(B) Paternal inheritance: IBD vs IBS</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="18.31748" y="38.375372" transform="rotate(-0 18.31748 38.375372)">Human Y-chromosome organization [Cou21]</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="40.427717" y="60.793831" transform="rotate(-0 40.427717 60.793831)">PAR1</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(32.301349 98.638557)">MSY</text>
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(29.594318 105.287263)">(Male-</text>
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(26.047638 112.726985)">Specific</text>
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(26.472443 120.068269)">Region)</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="40.427717" y="155.754461" transform="rotate(-0 40.427717 155.754461)">PAR2</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="63.104882" y="48.037853" transform="rotate(-0 63.104882 48.037853)">• PAR1 &amp; PAR2 (Pseudoautosomal):</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="63.104882" y="57.959186" transform="rotate(-0 63.104882 57.959186)">  Pair and recombine with X chromosome</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="63.104882" y="67.880372" transform="rotate(-0 63.104882 67.880372)">• MSY (Male-Specific Region):</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="63.104882" y="77.801632" transform="rotate(-0 63.104882 77.801632)">  Effectively haploid; non-recombining</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="63.104882" y="87.722892" transform="rotate(-0 63.104882 87.722892)">  (no routine X–Y exchange) [Cou21]</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="63.104882" y="97.644225" transform="rotate(-0 63.104882 97.644225)">• Forensic Y-STR loci reside in MSY</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="63.104882" y="107.565485" transform="rotate(-0 63.104882 107.565485)">• Linked loci transmitted as an intact</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="63.104882" y="117.486671" transform="rotate(-0 63.104882 117.486671)">  haplotype, not independent draws</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="63.104882" y="127.408005" transform="rotate(-0 63.104882 127.408005)">• Mutation alters descendant alleles</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="63.104882" y="137.329191" transform="rotate(-0 63.104882 137.329191)">  while preserving lineage profile</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="242.254488" y="38.375455" transform="rotate(-0 242.254488 38.375455)">Patrilineal transmission and IBD vs IBS [Kni22]</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="287.04189" y="55.006828" transform="rotate(-0 287.04189 55.006828)">Father</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="260.112756" y="114.769811" transform="rotate(-0 260.112756 114.769811)">Son 1</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="313.971024" y="114.769811" transform="rotate(-0 313.971024 114.769811)">Son 2</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #009e73" transform="translate(240.51842 146.87014)">Grandson 1</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #009e73" transform="translate(240.111193 153.517088)">(IBD match)</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #e69f00" transform="translate(294.376688 146.87014)">Grandson 2</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #e69f00" transform="translate(293.964774 153.517088)">(1 mutation)</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="339.482835" y="48.037853" transform="rotate(-0 339.482835 48.037853)">• Identical by Descent (IBD):</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="339.482835" y="57.959112" transform="rotate(-0 339.482835 57.959112)">  Men share haplotype through</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="339.482835" y="67.880372" transform="rotate(-0 339.482835 67.880372)">  common ancestry [Kni22]</text>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="339.482835" y="77.801632" transform="rotate(-0 339.482835 77.801632)">• Identical by State (IBS):</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="339.482835" y="87.722965" transform="rotate(-0 339.482835 87.722965)">  Unrelated men share profile</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="339.482835" y="97.644152" transform="rotate(-0 339.482835 97.644152)">  coincidentally by chance</text>
+   </g>
+   <g id="text_29">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="339.482835" y="107.565485" transform="rotate(-0 339.482835 107.565485)">• Step-wise mutation:</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="339.482835" y="117.486745" transform="rotate(-0 339.482835 117.486745)">  Alters allele in descendant</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="339.482835" y="127.407931" transform="rotate(-0 339.482835 127.407931)">  without breaking lineage</text>
+   </g>
+   <g id="text_32">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="339.482835" y="137.329191" transform="rotate(-0 339.482835 137.329191)">• Lineage, not unique person</text>
+   </g>
+   <g id="text_33">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="200.778856" transform="rotate(-0 12.08126 200.778856)">(C) Forensic evidential meaning and case-specific limits</text>
+   </g>
+   <g id="text_34">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="17.750551" y="212.706081" transform="rotate(-0 17.750551 212.706081)">Core forensic principle: Paternal lineage correspondence vs individualization [Kay17c, Cou21, Roe20]</text>
+   </g>
+   <g id="text_35">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="23.419843" y="236.54179" transform="rotate(-0 23.419843 236.54179)">Lineage correspondence [Kay17c, Cou21]</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="23.419843" y="246.463123" transform="rotate(-0 23.419843 246.463123)">• Traces paternal line, not a unique person</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="23.419843" y="256.384383" transform="rotate(-0 23.419843 256.384383)">• All direct paternal relatives share basic profile</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="23.419843" y="266.305642" transform="rotate(-0 23.419843 266.305642)">• Cannot separate father, brothers, sons, or cousins</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="23.419843" y="276.226902" transform="rotate(-0 23.419843 276.226902)">• Full match is a non-exclusion, not identification</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="23.419843" y="286.148162" transform="rotate(-0 23.419843 286.148162)">• Compatible profile supports paternal-line connection</text>
+   </g>
+   <g id="text_41">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="238.852913" y="236.541863" transform="rotate(-0 238.852913 236.541863)">Case-specific evaluation [Roe20, And21b]</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="238.852913" y="246.463123" transform="rotate(-0 238.852913 246.463123)">• Plausible alternatives include paternal relatives</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="238.852913" y="256.384309" transform="rotate(-0 238.852913 256.384309)">• Rarity in database does not settle source attribution</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="238.852913" y="266.305642" transform="rotate(-0 238.852913 266.305642)">• Direct autosomal comparison needed to name suspect</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="238.852913" y="276.226902" transform="rotate(-0 238.852913 276.226902)">• Detection does not establish deposition act or time</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="238.852913" y="286.148089" transform="rotate(-0 238.852913 286.148089)">• Source-level match kept distinct from activity claims</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p0313241cd0">
+   <rect x="2.16" y="2.16" width="453.543307" height="323.149606"/>
+  </clipPath>
+ </defs>
+</svg>

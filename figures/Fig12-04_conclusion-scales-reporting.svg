@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="457.863307pt" height="333.138898pt" viewBox="0 0 457.863307 333.138898" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-01T00:43:14.095937</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 333.138898 
+L 457.863307 333.138898 
+L 457.863307 -0 
+L 0 -0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 14.915906 148.144252 
+L 221.845039 148.144252 
+Q 224.679685 148.144252 224.679685 145.309606 
+L 224.679685 22.00252 
+Q 224.679685 19.167874 221.845039 19.167874 
+L 14.915906 19.167874 
+Q 12.08126 19.167874 12.08126 22.00252 
+L 12.08126 145.309606 
+Q 12.08126 148.144252 14.915906 148.144252 
+z
+" clip-path="url(#p0f3be207c2)" style="fill: #f4f8fa; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 238.852913 148.144252 
+L 442.947402 148.144252 
+Q 445.782047 148.144252 445.782047 145.309606 
+L 445.782047 22.00252 
+Q 445.782047 19.167874 442.947402 19.167874 
+L 238.852913 19.167874 
+Q 236.018268 19.167874 236.018268 22.00252 
+L 236.018268 145.309606 
+Q 236.018268 148.144252 238.852913 148.144252 
+z
+" clip-path="url(#p0f3be207c2)" style="fill: #fdfbf7; stroke: #e69f00; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 14.915906 282.789921 
+L 221.845039 282.789921 
+Q 224.679685 282.789921 224.679685 279.955276 
+L 224.679685 172.23874 
+Q 224.679685 169.404094 221.845039 169.404094 
+L 14.915906 169.404094 
+Q 12.08126 169.404094 12.08126 172.23874 
+L 12.08126 279.955276 
+Q 12.08126 282.789921 14.915906 282.789921 
+z
+" clip-path="url(#p0f3be207c2)" style="fill: #f4faf6; stroke: #009e73; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 238.852913 282.789921 
+L 442.947402 282.789921 
+Q 445.782047 282.789921 445.782047 279.955276 
+L 445.782047 172.23874 
+Q 445.782047 169.404094 442.947402 169.404094 
+L 238.852913 169.404094 
+Q 236.018268 169.404094 236.018268 172.23874 
+L 236.018268 279.955276 
+Q 236.018268 282.789921 238.852913 282.789921 
+z
+" clip-path="url(#p0f3be207c2)" style="fill: #faf5f9; stroke: #cc79a7; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 14.915906 321.057638 
+L 442.947402 321.057638 
+Q 445.782047 321.057638 445.782047 318.222992 
+L 445.782047 294.128504 
+Q 445.782047 291.293858 442.947402 291.293858 
+L 14.915906 291.293858 
+Q 12.08126 291.293858 12.08126 294.128504 
+L 12.08126 318.222992 
+Q 12.08126 321.057638 14.915906 321.057638 
+z
+" clip-path="url(#p0f3be207c2)" style="fill: #fffdf7; stroke: #d55e00; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="11.393895" transform="rotate(-0 12.08126 11.393895)">(A) Conclusion scale frameworks [Bec20]</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="236.018268" y="11.393895" transform="rotate(-0 236.018268 11.393895)">(B) Empirical threshold shifts [Car20b]</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="16.049764" y="28.454195" transform="rotate(-0 16.049764 28.454195)">Traditional vs Expanded Scales [Bec20]</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="36.415805" transform="rotate(-0 16.049764 36.415805)">Traditional Three-Category Scale [Bec20]:</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="43.785884" transform="rotate(-0 16.049764 43.785884)">- Categories: Identification, Inconclusive, Exclusion</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="51.155963" transform="rotate(-0 16.049764 51.155963)">- Compresses evidential nuance into binary bins</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="58.526042" transform="rotate(-0 16.049764 58.526042)">- Fails to convey support near decision boundaries</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="65.89612" transform="rotate(-0 16.049764 65.89612)">- Unjustified implication of absolute uniqueness</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="80.636278" transform="rotate(-0 16.049764 80.636278)">Expanded Strength-of-Support Scales [Car20b]:</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="88.006357" transform="rotate(-0 16.049764 88.006357)">- Adds graded propositions: support for common source,</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="95.376435" transform="rotate(-0 16.049764 95.376435)">  strong support, inconclusive, support for diff source</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="102.748638" transform="rotate(-0 16.049764 102.748638)">- Offers intermediate direction beyond 'inconclusive'</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="110.116593" transform="rotate(-0 16.049764 110.116593)">- Extra labels do not themselves quantify uncertainty</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="117.486671" transform="rotate(-0 16.049764 117.486671)">  or establish calibrated numerical strength [Bec22]</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #e69f00" x="239.986772" y="28.454195" transform="rotate(-0 239.986772 28.454195)">Decision Threshold Shifts [Car20b, Bus22]</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="36.415879" transform="rotate(-0 239.986772 36.415879)">Examiner Experiments with Expanded Scales:</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="43.785884" transform="rotate(-0 239.986772 43.785884)">- Carter et al. (2020) &amp; Busey et al. (2022):</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="51.155963" transform="rotate(-0 239.986772 51.155963)">  * Adding support categories reduced definitive IDs</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="58.526115" transform="rotate(-0 239.986772 58.526115)">  * Comparisons shifted to 'support for common source'</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="65.89612" transform="rotate(-0 239.986772 65.89612)">  * Examiners used strongest support less than ID</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="80.636278" transform="rotate(-0 239.986772 80.636278)">Critical Methodological Finding [Bus22]:</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="88.006357" transform="rotate(-0 239.986772 88.006357)">- Category availability &amp; wording shift decision</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="95.376435" transform="rotate(-0 239.986772 95.376435)">  thresholds rather than changing physical evidence</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="102.746587" transform="rotate(-0 239.986772 102.746587)">- Does not prove one scale is more accurate or</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="110.116593" transform="rotate(-0 239.986772 110.116593)">  intelligible in casework; depends on validation</text>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="160.212793" transform="rotate(-0 12.08126 160.212793)">(C) Probabilistic calibration [Ypm24]</text>
+   </g>
+   <g id="text_27">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="236.018268" y="160.212793" transform="rotate(-0 236.018268 160.212793)">(D) Tripartite reporting standards [Bec20]</text>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="16.049764" y="178.690333" transform="rotate(-0 16.049764 178.690333)">Empirical LR &amp; Bayes Calibration [Ypm24, Mor24]</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="186.652026" transform="rotate(-0 16.049764 186.652026)">Ypma (2024) Empirical LRs for Statements:</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="194.022105" transform="rotate(-0 16.049764 194.022105)">- Evaluates frequency in known-source trials</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="201.392257" transform="rotate(-0 16.049764 201.392257)">- ID favors same source; exclusion favors diff source</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="208.762262" transform="rotate(-0 16.049764 208.762262)">- Inconclusive decisions are not necessarily neutral</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="216.132341" transform="rotate(-0 16.049764 216.132341)">- Characterizes statement, not full fingerprint evidence</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="230.872498" transform="rotate(-0 16.049764 230.872498)">Morrison (2024) Beta-Binomial Bayes Factors:</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="238.242577" transform="rotate(-0 16.049764 238.242577)">- Maps primary-examiner categories to Bayes factors</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="245.612729" transform="rotate(-0 16.049764 245.612729)">- Depends on calibration data for specific examiner</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="16.049764" y="252.982734" transform="rotate(-0 16.049764 252.982734)">- Factors are evidential weights, not source identity</text>
+   </g>
+   <g id="text_38">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #cc79a7" x="239.986772" y="178.690333" transform="rotate(-0 239.986772 178.690333)">Tripartite Reporting Separation [Bec20]</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="186.652026" transform="rotate(-0 239.986772 186.652026)">Three Mandatory Distinctions in Reports [Bec20]:</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="194.024229" transform="rotate(-0 239.986772 194.024229)">1. Physical Observations:</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="201.394307" transform="rotate(-0 239.986772 201.394307)">   - Observed ridge correspondences &amp; discrepancies</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="208.762262" transform="rotate(-0 239.986772 208.762262)">2. Categorical Conclusion:</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="216.132414" transform="rotate(-0 239.986772 216.132414)">   - Examiner's structured qualitative determination</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="223.50242" transform="rotate(-0 239.986772 223.50242)">3. Evidential Strength Measure:</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="230.872498" transform="rotate(-0 239.986772 230.872498)">   - Supported quantitative measure (if validated)</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="245.612656" transform="rotate(-0 239.986772 245.612656)">Absolute Infallibility Prohibition [Bec20]:</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="252.982808" transform="rotate(-0 239.986772 252.982808)">- Neither ID nor support proves no other source exists;</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.986772" y="260.352813" transform="rotate(-0 239.986772 260.352813)">- Source attribution does not prove activity or guilt</text>
+   </g>
+   <g id="text_49">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="17.750551" y="302.564431" transform="rotate(-0 17.750551 302.564431)">CARDINAL FORENSIC REPORTING PRINCIPLE [Bec20, Car20b, Bus22]:</text>
+   </g>
+   <g id="text_50">
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #8c8c8c" x="440.112756" y="302.316629" transform="rotate(-0 440.112756 302.316629)">Simulated data for illustration</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #4d4d4d" transform="translate(17.750551 310.413051)">Reports must maintain tripartite separation: physical observations, categorical conclusions, and empirical evidential strength;</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #4d4d4d" transform="translate(17.750551 318.57604)">neither 'identification' nor 'support' warrants claims of zero error, unique individuality, or criminal guilt.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p0f3be207c2">
+   <rect x="2.16" y="2.16" width="453.543307" height="328.818898"/>
+  </clipPath>
+ </defs>
+</svg>

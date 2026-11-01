@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="453.543307pt" height="334.488189pt" viewBox="0 0 453.543307 334.488189" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-30T07:01:46.291142</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 334.488189 
+L 453.543307 334.488189 
+L 453.543307 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 31.181102 140.189903 
+L 274.96063 140.189903 
+Q 277.795276 140.189903 277.795276 137.238536 
+L 277.795276 20.659565 
+Q 277.795276 17.708198 274.96063 17.708198 
+L 31.181102 17.708198 
+Q 28.346457 17.708198 28.346457 20.659565 
+L 28.346457 137.238536 
+Q 28.346457 140.189903 31.181102 140.189903 
+z
+" clip-path="url(#pad8bbf7521)" style="fill: #ffffff; stroke: #bfbfbf; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 39.11811 78.211209 
+L 111.11811 78.211209 
+Q 113.385827 78.211209 113.385827 75.850116 
+L 113.385827 40.728856 
+Q 113.385827 38.367763 111.11811 38.367763 
+L 39.11811 38.367763 
+Q 36.850394 38.367763 36.850394 40.728856 
+L 36.850394 75.850116 
+Q 36.850394 78.211209 39.11811 78.211209 
+z
+" clip-path="url(#pad8bbf7521)" style="fill: #f5f5f5; stroke: #8c8c8c; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 119.634366 58.437054 
+Q 145.982686 58.437054 170.877563 58.437054 
+" clip-path="url(#pad8bbf7521)" style="fill: none; stroke: #0072b2; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 167.677563 56.837054 
+L 170.877563 58.437054 
+L 167.677563 60.037054 
+z
+" clip-path="url(#pad8bbf7521)" style="fill: #0072b2; stroke: #0072b2; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 180.850394 78.211209 
+L 267.023622 78.211209 
+Q 269.291339 78.211209 269.291339 75.850116 
+L 269.291339 40.728856 
+Q 269.291339 38.367763 267.023622 38.367763 
+L 180.850394 38.367763 
+Q 178.582677 38.367763 178.582677 40.728856 
+L 178.582677 75.850116 
+Q 178.582677 78.211209 180.850394 78.211209 
+z
+" clip-path="url(#pad8bbf7521)" style="fill: #ffffff; stroke: #d55e00; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 289.133858 140.189903 
+L 436.535433 140.189903 
+Q 439.370079 140.189903 439.370079 137.238536 
+L 439.370079 20.659565 
+Q 439.370079 17.708198 436.535433 17.708198 
+L 289.133858 17.708198 
+Q 286.299213 17.708198 286.299213 20.659565 
+L 286.299213 137.238536 
+Q 286.299213 140.189903 289.133858 140.189903 
+z
+" clip-path="url(#pad8bbf7521)" style="fill: #f5f5f5; stroke-dasharray: 2.4,1.6; stroke-dashoffset: 0; stroke: #d55e00; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start" x="11.338583" y="13.281149" transform="rotate(-0 11.338583 13.281149)">(A)</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 8.3px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="36.850394" y="28.037981" transform="rotate(-0 36.850394 28.037981)">Peroxidase-like catalytic oxidation:</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif" transform="translate(43.459321 52.739458)">Colour-producing</text>
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif" transform="translate(61.572993 60.307192)">reagent</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="75.11811" y="72.772246" transform="rotate(-0 75.11811 72.772246)">+ oxidant</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 8.2px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0072b2" x="145.984252" y="43.42166" transform="rotate(-0 145.984252 43.42166)">Heme in haemoglobin</text>
+   </g>
+   <g id="text_6">
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0072b2" x="145.984252" y="52.702955" transform="rotate(-0 145.984252 52.702955)">(catalytic activity)</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #d55e00" x="223.937008" y="56.539731" transform="rotate(-0 223.937008 56.539731)">Oxidised product</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif" transform="translate(195.171578 69.004785)">Colour change or</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif" transform="translate(188.088766 76.539707)">light emission [Bar07]</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #4d4d4d" transform="translate(36.850394 105.781613)">Reagents include Kastle-Meyer, leucomalachite</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #4d4d4d" transform="translate(36.850394 113.751347)">green, and luminol [Tob07, Bar07].</text>
+   </g>
+   <g id="text_10">
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #4d4d4d" transform="translate(36.850394 124.965494)">The observation is catalytic activity, not human blood;</text>
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #4d4d4d" transform="translate(36.850394 132.935229)">reactions are not unique to blood [Tob07, Ven14].</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 8.3px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="293.385827" y="28.037981" transform="rotate(-0 293.385827 28.037981)">Non-blood catalysts &amp; interferents:</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="293.385827" y="51.181335" transform="rotate(-0 293.385827 51.181335)">Catalytic tests:</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif" transform="translate(293.385827 60.920844)">Plant materials, metal salts,</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif" transform="translate(293.385827 68.727524)">and cleaning products [Tob07, Ven14]</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="293.385827" y="89.549098" transform="rotate(-0 293.385827 89.549098)">Luminol:</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif" transform="translate(293.385827 99.288607)">Rust, plant peroxidases, bleach,</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif" transform="translate(293.385827 107.095287)">some soils and paints [Bar07]</text>
+   </g>
+   <g id="text_16">
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #8c8c8c" transform="translate(293.385827 127.916861)">Negative result does not exclude</text>
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #8c8c8c" transform="translate(293.385827 135.72354)">target (degradation, dilution) [Cut24].</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_7">
+    <path d="M 31.181102 315.507312 
+L 155.905512 315.507312 
+Q 158.740157 315.507312 158.740157 312.587177 
+L 158.740157 176.8009 
+Q 158.740157 173.880765 155.905512 173.880765 
+L 31.181102 173.880765 
+Q 28.346457 173.880765 28.346457 176.8009 
+L 28.346457 312.587177 
+Q 28.346457 315.507312 31.181102 315.507312 
+z
+" clip-path="url(#p1fa299be1e)" style="fill: #ffffff; stroke: #8c8c8c; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 39.11811 232.867492 
+L 147.968504 232.867492 
+Q 150.23622 232.867492 150.23622 230.531384 
+L 150.23622 210.674466 
+Q 150.23622 208.338358 147.968504 208.338358 
+L 39.11811 208.338358 
+Q 36.850394 208.338358 36.850394 210.674466 
+L 36.850394 230.531384 
+Q 36.850394 232.867492 39.11811 232.867492 
+z
+" clip-path="url(#p1fa299be1e)" style="fill: #e6e6e6; stroke: #8c8c8c; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 49.606299 227.027222 
+C 51.260164 227.027222 52.846514 226.350317 54.015973 225.145589 
+C 55.185432 223.94086 55.84252 222.306668 55.84252 220.602925 
+C 55.84252 218.899181 55.185432 217.264989 54.015973 216.060261 
+C 52.846514 214.855532 51.260164 214.178628 49.606299 214.178628 
+C 47.952434 214.178628 46.366085 214.855532 45.196625 216.060261 
+C 44.027166 217.264989 43.370079 218.899181 43.370079 220.602925 
+C 43.370079 222.306668 44.027166 223.94086 45.196625 225.145589 
+C 46.366085 226.350317 47.952434 227.027222 49.606299 227.027222 
+z
+" clip-path="url(#p1fa299be1e)" style="fill: #ffffff; stroke: #4d4d4d; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 73.700787 228.779303 
+L 141.732283 228.779303 
+L 141.732283 212.426547 
+L 73.700787 212.426547 
+z
+" clip-path="url(#p1fa299be1e)" style="fill: #ffffff; stroke: #8c8c8c; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 64.359467 239.583802 
+Q 96.375027 239.583802 127.607963 239.583802 
+" clip-path="url(#p1fa299be1e)" style="fill: none; stroke: #8c8c8c; stroke-width: 0.7; stroke-linecap: round"/>
+    <path d="M 125.207963 238.383802 
+L 127.607963 239.583802 
+L 125.207963 240.783802 
+z
+" clip-path="url(#p1fa299be1e)" style="fill: #8c8c8c; stroke: #8c8c8c; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 168.661417 315.507312 
+L 293.385827 315.507312 
+Q 296.220472 315.507312 296.220472 312.587177 
+L 296.220472 176.8009 
+Q 296.220472 173.880765 293.385827 173.880765 
+L 168.661417 173.880765 
+Q 165.826772 173.880765 165.826772 176.8009 
+L 165.826772 312.587177 
+Q 165.826772 315.507312 168.661417 315.507312 
+z
+" clip-path="url(#p1fa299be1e)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 176.598425 232.867492 
+L 285.448819 232.867492 
+Q 287.716535 232.867492 287.716535 230.531384 
+L 287.716535 210.674466 
+Q 287.716535 208.338358 285.448819 208.338358 
+L 176.598425 208.338358 
+Q 174.330709 208.338358 174.330709 210.674466 
+L 174.330709 230.531384 
+Q 174.330709 232.867492 176.598425 232.867492 
+z
+" clip-path="url(#p1fa299be1e)" style="fill: #e6e6e6; stroke: #8c8c8c; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 187.086614 227.027222 
+C 188.740479 227.027222 190.326829 226.350317 191.496288 225.145589 
+C 192.665747 223.94086 193.322835 222.306668 193.322835 220.602925 
+C 193.322835 218.899181 192.665747 217.264989 191.496288 216.060261 
+C 190.326829 214.855532 188.740479 214.178628 187.086614 214.178628 
+C 185.432749 214.178628 183.8464 214.855532 182.67694 216.060261 
+C 181.507481 217.264989 180.850394 218.899181 180.850394 220.602925 
+C 180.850394 222.306668 181.507481 223.94086 182.67694 225.145589 
+C 183.8464 226.350317 185.432749 227.027222 187.086614 227.027222 
+z
+" clip-path="url(#p1fa299be1e)" style="fill: #ffffff; stroke: #4d4d4d; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 211.181102 228.779303 
+L 279.212598 228.779303 
+L 279.212598 212.426547 
+L 211.181102 212.426547 
+z
+" clip-path="url(#p1fa299be1e)" style="fill: #ffffff; stroke: #8c8c8c; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 201.839782 239.583802 
+Q 233.855342 239.583802 265.088278 239.583802 
+" clip-path="url(#p1fa299be1e)" style="fill: none; stroke: #8c8c8c; stroke-width: 0.7; stroke-linecap: round"/>
+    <path d="M 262.688278 238.383802 
+L 265.088278 239.583802 
+L 262.688278 240.783802 
+z
+" clip-path="url(#p1fa299be1e)" style="fill: #8c8c8c; stroke: #8c8c8c; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 306.141732 315.507312 
+L 430.866142 315.507312 
+Q 433.700787 315.507312 433.700787 312.587177 
+L 433.700787 176.8009 
+Q 433.700787 173.880765 430.866142 173.880765 
+L 306.141732 173.880765 
+Q 303.307087 173.880765 303.307087 176.8009 
+L 303.307087 312.587177 
+Q 303.307087 315.507312 306.141732 315.507312 
+z
+" clip-path="url(#p1fa299be1e)" style="fill: #ffffff; stroke-dasharray: 3.6,1.8; stroke-dashoffset: 0; stroke: #d55e00; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 314.07874 232.867492 
+L 422.929134 232.867492 
+Q 425.19685 232.867492 425.19685 230.531384 
+L 425.19685 210.674466 
+Q 425.19685 208.338358 422.929134 208.338358 
+L 314.07874 208.338358 
+Q 311.811024 208.338358 311.811024 210.674466 
+L 311.811024 230.531384 
+Q 311.811024 232.867492 314.07874 232.867492 
+z
+" clip-path="url(#p1fa299be1e)" style="fill: #e6e6e6; stroke: #8c8c8c; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 324.566929 227.027222 
+C 326.220794 227.027222 327.807144 226.350317 328.976603 225.145589 
+C 330.146062 223.94086 330.80315 222.306668 330.80315 220.602925 
+C 330.80315 218.899181 330.146062 217.264989 328.976603 216.060261 
+C 327.807144 214.855532 326.220794 214.178628 324.566929 214.178628 
+C 322.913064 214.178628 321.326715 214.855532 320.157255 216.060261 
+C 318.987796 217.264989 318.330709 218.899181 318.330709 220.602925 
+C 318.330709 222.306668 318.987796 223.94086 320.157255 225.145589 
+C 321.326715 226.350317 322.913064 227.027222 324.566929 227.027222 
+z
+" clip-path="url(#p1fa299be1e)" style="fill: #ffffff; stroke: #4d4d4d; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 348.661417 228.779303 
+L 416.692913 228.779303 
+L 416.692913 212.426547 
+L 348.661417 212.426547 
+z
+" clip-path="url(#p1fa299be1e)" style="fill: #ffffff; stroke: #8c8c8c; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 339.320097 239.583802 
+Q 371.335657 239.583802 402.568593 239.583802 
+" clip-path="url(#p1fa299be1e)" style="fill: none; stroke: #8c8c8c; stroke-width: 0.7; stroke-linecap: round"/>
+    <path d="M 400.168593 238.383802 
+L 402.568593 239.583802 
+L 400.168593 240.783802 
+z
+" clip-path="url(#p1fa299be1e)" style="fill: #8c8c8c; stroke: #8c8c8c; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 93.543307 227.611249 
+L 93.543307 213.594601 
+" clip-path="url(#p1fa299be1e)" style="fill: none; stroke-dasharray: 0.8,1.32; stroke-dashoffset: 0; stroke: #e6e6e6; stroke-width: 0.8"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 121.889764 227.611249 
+L 121.889764 213.594601 
+" clip-path="url(#p1fa299be1e)" style="fill: none; stroke: #d55e00; stroke-width: 2.4"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 36.850394 290.686164 
+L 150.23622 290.686164 
+" clip-path="url(#p1fa299be1e)" style="fill: none; stroke: #bfbfbf; stroke-width: 0.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 231.023622 227.611249 
+L 231.023622 213.594601 
+" clip-path="url(#p1fa299be1e)" style="fill: none; stroke: #0072b2; stroke-width: 2.4"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 259.370079 227.611249 
+L 259.370079 213.594601 
+" clip-path="url(#p1fa299be1e)" style="fill: none; stroke: #d55e00; stroke-width: 2.4"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 174.330709 290.686164 
+L 287.716535 290.686164 
+" clip-path="url(#p1fa299be1e)" style="fill: none; stroke: #bfbfbf; stroke-width: 0.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 368.503937 227.611249 
+L 368.503937 213.594601 
+" clip-path="url(#p1fa299be1e)" style="fill: none; stroke-dasharray: 1,1.65; stroke-dashoffset: 0; stroke: #d55e00"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 396.850394 227.611249 
+L 396.850394 213.594601 
+" clip-path="url(#p1fa299be1e)" style="fill: none; stroke: #d55e00; stroke-width: 2.4"/>
+   </g>
+   <g id="line2d_9">
+    <path d="M 311.811024 290.686164 
+L 425.19685 290.686164 
+" clip-path="url(#p1fa299be1e)" style="fill: none; stroke: #bfbfbf; stroke-width: 0.5; stroke-linecap: square"/>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start" x="11.338583" y="163.660292" transform="rotate(-0 11.338583 163.660292)">(B)</text>
+   </g>
+   <g id="text_18">
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #8c8c8c" x="439.370079" y="163.660292" transform="rotate(-0 439.370079 163.660292)">Adapted from [Cut24] p. 4</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 8.3px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="36.850394" y="184.101237" transform="rotate(-0 36.850394 184.101237)">(1) Negative result</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="49.606299" y="222.542378" transform="rotate(-0 49.606299 222.542378)">S</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #8c8c8c" x="93.543307" y="202.985932" transform="rotate(-0 93.543307 202.985932)">T</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="121.889764" y="202.985932" transform="rotate(-0 121.889764 202.985932)">C</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #8c8c8c" x="96.377953" y="247.363525" transform="rotate(-0 96.377953 247.363525)">Capillary flow</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif" transform="translate(36.850394 264.106235)">Target antigen not detected;</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif" transform="translate(36.850394 272.184672)">dye-labelled antibody binds</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif" transform="translate(36.850394 280.26311)">only at control line (C)</text>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #4d4d4d" transform="translate(36.850394 301.764951)">Negative: does not necessarily</text>
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #4d4d4d" transform="translate(36.850394 309.767498)">exclude blood [Cut24]</text>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 700; font-size: 8.3px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="174.330709" y="184.101237" transform="rotate(-0 174.330709 184.101237)">(2) Positive result</text>
+   </g>
+   <g id="text_27">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="187.086614" y="222.542378" transform="rotate(-0 187.086614 222.542378)">S</text>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0072b2" x="231.023622" y="202.985932" transform="rotate(-0 231.023622 202.985932)">T</text>
+   </g>
+   <g id="text_29">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="259.370079" y="202.985932" transform="rotate(-0 259.370079 202.985932)">C</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #8c8c8c" x="233.858268" y="247.363525" transform="rotate(-0 233.858268 247.363525)">Capillary flow</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif" transform="translate(174.330709 264.106235)">Antibody binding to defined</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif" transform="translate(174.330709 272.184672)">antigen (human haemoglobin</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif" transform="translate(174.330709 280.26311)">or glycophorin A) [Cut24]</text>
+   </g>
+   <g id="text_32">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #0072b2" transform="translate(174.330709 301.764951)">Positive test: supports presence</text>
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #0072b2" transform="translate(174.330709 309.734686)">of defined target [Cut24]</text>
+   </g>
+   <g id="text_33">
+    <text style="font-weight: 700; font-size: 8.3px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="311.811024" y="184.101237" transform="rotate(-0 311.811024 184.101237)">(3) High-dose hook effect</text>
+   </g>
+   <g id="text_34">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="324.566929" y="222.542378" transform="rotate(-0 324.566929 222.542378)">S</text>
+   </g>
+   <g id="text_35">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #d55e00" x="368.503937" y="202.985932" transform="rotate(-0 368.503937 202.985932)">T</text>
+   </g>
+   <g id="text_36">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="396.850394" y="202.985932" transform="rotate(-0 396.850394 202.985932)">C</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #8c8c8c" x="371.338583" y="247.363525" transform="rotate(-0 371.338583 247.363525)">Capillary flow</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif" transform="translate(311.811024 264.106235)">Very high antigen concentration;</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif" transform="translate(311.811024 272.184672)">antibody binding impaired,</text>
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif" transform="translate(311.811024 280.26311)">giving weak or absent test line</text>
+   </g>
+   <g id="text_39">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #d55e00" transform="translate(311.811024 301.764951)">False negative (hook effect):</text>
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #d55e00" transform="translate(311.811024 309.767498)">weak or absent test line [Cut24]</text>
+   </g>
+   <g id="text_40">
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #4d4d4d" transform="translate(28.346457 323.68237)">Targets: human haemoglobin or red-cell glycophorin A [Cut24].</text>
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #4d4d4d" transform="translate(28.346457 331.652104)">In high-dose hook effect, dilution of the extract is a suggested action [Cut24].</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pad8bbf7521">
+   <rect x="0" y="0" width="453.543307" height="150.519685"/>
+  </clipPath>
+  <clipPath id="p1fa299be1e">
+   <rect x="0" y="150.519685" width="453.543307" height="183.968504"/>
+  </clipPath>
+ </defs>
+</svg>

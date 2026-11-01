@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="457.863307pt" height="327.469606pt" viewBox="0 0 457.863307 327.469606" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-31T22:53:36.018852</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 327.469606 
+L 457.863307 327.469606 
+L 457.863307 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 15.482835 146.726929 
+L 218.443465 146.726929 
+Q 221.845039 146.726929 221.845039 143.325354 
+L 221.845039 25.404094 
+Q 221.845039 22.00252 218.443465 22.00252 
+L 15.482835 22.00252 
+Q 12.08126 22.00252 12.08126 25.404094 
+L 12.08126 143.325354 
+Q 12.08126 146.726929 15.482835 146.726929 
+z
+" clip-path="url(#p620d2c622d)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 239.419843 146.726929 
+L 442.380472 146.726929 
+Q 445.782047 146.726929 445.782047 143.325354 
+L 445.782047 25.404094 
+Q 445.782047 22.00252 442.380472 22.00252 
+L 239.419843 22.00252 
+Q 236.018268 22.00252 236.018268 25.404094 
+L 236.018268 143.325354 
+Q 236.018268 146.726929 239.419843 146.726929 
+z
+" clip-path="url(#p620d2c622d)" style="fill: #ffffff; stroke: #009e73; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 15.482835 304.049764 
+L 218.443465 304.049764 
+Q 221.845039 304.049764 221.845039 300.648189 
+L 221.845039 171.388346 
+Q 221.845039 167.986772 218.443465 167.986772 
+L 15.482835 167.986772 
+Q 12.08126 167.986772 12.08126 171.388346 
+L 12.08126 300.648189 
+Q 12.08126 304.049764 15.482835 304.049764 
+z
+" clip-path="url(#p620d2c622d)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 21.435591 295.545827 
+L 212.490709 295.545827 
+Q 214.758425 295.545827 214.758425 293.27811 
+L 214.758425 270.884409 
+Q 214.758425 268.616693 212.490709 268.616693 
+L 21.435591 268.616693 
+Q 19.167874 268.616693 19.167874 270.884409 
+L 19.167874 293.27811 
+Q 19.167874 295.545827 21.435591 295.545827 
+z
+" clip-path="url(#p620d2c622d)" style="fill: #e6e6e6; stroke: #0072b2; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 239.419843 304.049764 
+L 442.380472 304.049764 
+Q 445.782047 304.049764 445.782047 300.648189 
+L 445.782047 171.388346 
+Q 445.782047 167.986772 442.380472 167.986772 
+L 239.419843 167.986772 
+Q 236.018268 167.986772 236.018268 171.388346 
+L 236.018268 300.648189 
+Q 236.018268 304.049764 239.419843 304.049764 
+z
+" clip-path="url(#p620d2c622d)" style="fill: #fdf7f5; stroke: #d55e00; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="20.778856" transform="rotate(-0 12.08126 20.778856)">(A) Profile rarity (RMP) versus evidential weight (LR)</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="19.167874" y="34.973797" transform="rotate(-0 19.167874 34.973797)">Random Match Probability (RMP)</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="19.167874" y="47.187459" transform="rotate(-0 19.167874 47.187459)">• Expected frequency of a profile in a specified population</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="19.167874" y="59.092971" transform="rotate(-0 19.167874 59.092971)">  under stated genetic assumptions [For03, But24b]</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="19.167874" y="70.998483" transform="rotate(-0 19.167874 70.998483)">• Evaluates profile rarity independently of case claims</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="19.167874" y="82.904068" transform="rotate(-0 19.167874 82.904068)">• Answers: 'How rare is this profile in the population?'</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="19.167874" y="94.809506" transform="rotate(-0 19.167874 94.809506)">• Profile rarity alone is not evidential weight [Bal95]</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="19.167874" y="106.715018" transform="rotate(-0 19.167874 106.715018)">• Small RMP is not the probability that the person of</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="19.167874" y="118.620603" transform="rotate(-0 19.167874 118.620603)">  interest is not the source [For03]</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="243.104882" y="34.973797" transform="rotate(-0 243.104882 34.973797)">Likelihood Ratio (LR)</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="243.104882" y="47.187459" transform="rotate(-0 243.104882 47.187459)">• Compares probability of observed DNA results under two</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="243.104882" y="59.092971" transform="rotate(-0 243.104882 59.092971)">  competing propositions (Hp vs Hd) [For03, Hic22]</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="243.104882" y="70.998483" transform="rotate(-0 243.104882 70.998483)">• Evaluates evidential weight of a case comparison</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="243.104882" y="82.903994" transform="rotate(-0 243.104882 82.903994)">• Answers: 'How much more probable are the findings</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="243.104882" y="94.809579" transform="rotate(-0 243.104882 94.809579)">  under one stated proposition than the other?'</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="243.104882" y="106.715091" transform="rotate(-0 243.104882 106.715091)">• Does not establish which proposition is true [For03]</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="243.104882" y="118.62053" transform="rotate(-0 243.104882 118.62053)">• See Figure 0.2 for LR logic and transposed conditional</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="166.763108" transform="rotate(-0 12.08126 166.763108)">(B) Four restricted conditions for LR ≈ 1/RMP, and breakdown</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="19.167874" y="180.958132" transform="rotate(-0 19.167874 180.958132)">The four restricted conditions [For03, Bal95]</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="19.167874" y="193.171711" transform="rotate(-0 19.167874 193.171711)">(1)</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="33.341102" y="193.171711" transform="rotate(-0 33.341102 193.171711)">A full single-source profile</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="19.167874" y="204.510294" transform="rotate(-0 19.167874 204.510294)">(2)</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="33.341102" y="204.510367" transform="rotate(-0 33.341102 204.510367)">Person of interest assumed to be the source</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="33.341102" y="215.848876" transform="rotate(-0 33.341102 215.848876)">under Hp (Pr(E | Hp) ≈ 1)</text>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="19.167874" y="227.187459" transform="rotate(-0 19.167874 227.187459)">(3)</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="33.341102" y="227.187459" transform="rotate(-0 33.341102 227.187459)">Laboratory error is set aside</text>
+   </g>
+   <g id="text_27">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="19.167874" y="238.526042" transform="rotate(-0 19.167874 238.526042)">(4)</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="33.341102" y="238.526115" transform="rotate(-0 33.341102 238.526115)">Alternative is an unrelated person from the</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="33.341102" y="249.864624" transform="rotate(-0 33.341102 249.864624)">specified population (Pr(E | Hd) ≈ RMP)</text>
+   </g>
+   <g id="text_30">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0072b2" x="116.96315" y="281.045727" transform="rotate(-0 116.96315 281.045727)">In this restricted setting:</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="116.96315" y="291.250451" transform="rotate(-0 116.96315 291.250451)">the LR may approximate the inverse of the RMP</text>
+   </g>
+   <g id="text_32">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="243.104882" y="180.958049" transform="rotate(-0 243.104882 180.958049)">Breakdown: why it is not a general identity</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="243.104882" y="193.171784" transform="rotate(-0 243.104882 193.171784)">• Close-relative alternative:</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="243.104882" y="205.077223" transform="rotate(-0 243.104882 205.077223)">  shared ancestry increases Pr(E | Hd) and</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="243.104882" y="216.982808" transform="rotate(-0 243.104882 216.982808)">  reduces the LR well below 1/RMP [Bal95]</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="243.104882" y="228.888246" transform="rotate(-0 243.104882 228.888246)">• Different conditioning assumptions:</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="243.104882" y="240.793758" transform="rotate(-0 243.104882 240.793758)">  conditioning on a known contributor changes the</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="243.104882" y="252.69927" transform="rotate(-0 243.104882 252.69927)">  comparison without altering RMP [Bal95, But24b]</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="243.104882" y="264.604855" transform="rotate(-0 243.104882 264.604855)">• Partial profiles and drop-out:</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="243.104882" y="276.510294" transform="rotate(-0 243.104882 276.510294)">  Pr(E | Hp) may be less than one, altering the ratio</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="243.104882" y="288.415805" transform="rotate(-0 243.104882 288.415805)">• Changing conditions changes LR with unchanged RMP</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p620d2c622d">
+   <rect x="2.16" y="2.16" width="453.543307" height="323.149606"/>
+  </clipPath>
+ </defs>
+</svg>

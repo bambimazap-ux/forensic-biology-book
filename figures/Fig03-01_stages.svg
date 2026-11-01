@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="453.543307pt" height="306.141732pt" viewBox="0 0 453.543307 306.141732" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-31T20:09:23.758542</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 306.141732 
+L 453.543307 306.141732 
+L 453.543307 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 12.472441 96.377953 
+L 92.409449 96.377953 
+Q 96.377953 96.377953 96.377953 92.409449 
+L 96.377953 23.811024 
+Q 96.377953 19.84252 92.409449 19.84252 
+L 12.472441 19.84252 
+Q 8.503937 19.84252 8.503937 23.811024 
+L 8.503937 92.409449 
+Q 8.503937 96.377953 12.472441 96.377953 
+z
+" clip-path="url(#pf46ad38a65)" style="fill: #0072b2"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 21.259843 66.047244 
+C 23.364762 66.047244 25.383752 65.210951 26.872155 63.722548 
+C 28.360557 62.234146 29.19685 60.215155 29.19685 58.110236 
+C 29.19685 56.005317 28.360557 53.986327 26.872155 52.497924 
+C 25.383752 51.009522 23.364762 50.173228 21.259843 50.173228 
+C 19.154923 50.173228 17.135933 51.009522 15.64753 52.497924 
+C 14.159128 53.986327 13.322835 56.005317 13.322835 58.110236 
+C 13.322835 60.215155 14.159128 62.234146 15.64753 63.722548 
+C 17.135933 65.210951 19.154923 66.047244 21.259843 66.047244 
+z
+" clip-path="url(#pf46ad38a65)" style="fill: #ffffff; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 106.866142 96.377953 
+L 265.889764 96.377953 
+Q 269.291339 96.377953 269.291339 92.976378 
+L 269.291339 23.244094 
+Q 269.291339 19.84252 265.889764 19.84252 
+L 106.866142 19.84252 
+Q 103.464567 19.84252 103.464567 23.244094 
+L 103.464567 92.976378 
+Q 103.464567 96.377953 106.866142 96.377953 
+z
+" clip-path="url(#pf46ad38a65)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 279.779528 96.377953 
+L 441.637795 96.377953 
+Q 445.03937 96.377953 445.03937 92.976378 
+L 445.03937 23.244094 
+Q 445.03937 19.84252 441.637795 19.84252 
+L 279.779528 19.84252 
+Q 276.377953 19.84252 276.377953 23.244094 
+L 276.377953 92.976378 
+Q 276.377953 96.377953 279.779528 96.377953 
+z
+" clip-path="url(#pf46ad38a65)" style="fill: #ffffff; stroke: #d55e00; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 52.440945 99.791846 
+Q 52.440945 104.879822 52.440945 108.849764 
+" clip-path="url(#pf46ad38a65)" style="fill: none; stroke: #8c8c8c; stroke-linecap: round"/>
+    <path d="M 54.040945 105.649764 
+L 52.440945 108.849764 
+L 50.840945 105.649764 
+z
+" clip-path="url(#pf46ad38a65)" style="fill: #8c8c8c; stroke: #8c8c8c; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 12.472441 189.92126 
+L 92.409449 189.92126 
+Q 96.377953 189.92126 96.377953 185.952756 
+L 96.377953 117.354331 
+Q 96.377953 113.385827 92.409449 113.385827 
+L 12.472441 113.385827 
+Q 8.503937 113.385827 8.503937 117.354331 
+L 8.503937 185.952756 
+Q 8.503937 189.92126 12.472441 189.92126 
+z
+" clip-path="url(#pf46ad38a65)" style="fill: #0072b2"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 21.259843 159.590551 
+C 23.364762 159.590551 25.383752 158.754258 26.872155 157.265855 
+C 28.360557 155.777453 29.19685 153.758462 29.19685 151.653543 
+C 29.19685 149.548624 28.360557 147.529634 26.872155 146.041231 
+C 25.383752 144.552829 23.364762 143.716535 21.259843 143.716535 
+C 19.154923 143.716535 17.135933 144.552829 15.64753 146.041231 
+C 14.159128 147.529634 13.322835 149.548624 13.322835 151.653543 
+C 13.322835 153.758462 14.159128 155.777453 15.64753 157.265855 
+C 17.135933 158.754258 19.154923 159.590551 21.259843 159.590551 
+z
+" clip-path="url(#pf46ad38a65)" style="fill: #ffffff; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 106.866142 189.92126 
+L 265.889764 189.92126 
+Q 269.291339 189.92126 269.291339 186.519685 
+L 269.291339 116.787402 
+Q 269.291339 113.385827 265.889764 113.385827 
+L 106.866142 113.385827 
+Q 103.464567 113.385827 103.464567 116.787402 
+L 103.464567 186.519685 
+Q 103.464567 189.92126 106.866142 189.92126 
+z
+" clip-path="url(#pf46ad38a65)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 279.779528 189.92126 
+L 441.637795 189.92126 
+Q 445.03937 189.92126 445.03937 186.519685 
+L 445.03937 116.787402 
+Q 445.03937 113.385827 441.637795 113.385827 
+L 279.779528 113.385827 
+Q 276.377953 113.385827 276.377953 116.787402 
+L 276.377953 186.519685 
+Q 276.377953 189.92126 279.779528 189.92126 
+z
+" clip-path="url(#pf46ad38a65)" style="fill: #ffffff; stroke: #009e73; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 52.440945 193.335153 
+Q 52.440945 198.423129 52.440945 202.393071 
+" clip-path="url(#pf46ad38a65)" style="fill: none; stroke: #8c8c8c; stroke-linecap: round"/>
+    <path d="M 54.040945 199.193071 
+L 52.440945 202.393071 
+L 50.840945 199.193071 
+z
+" clip-path="url(#pf46ad38a65)" style="fill: #8c8c8c; stroke: #8c8c8c; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 12.472441 283.464567 
+L 92.409449 283.464567 
+Q 96.377953 283.464567 96.377953 279.496063 
+L 96.377953 210.897638 
+Q 96.377953 206.929134 92.409449 206.929134 
+L 12.472441 206.929134 
+Q 8.503937 206.929134 8.503937 210.897638 
+L 8.503937 279.496063 
+Q 8.503937 283.464567 12.472441 283.464567 
+z
+" clip-path="url(#pf46ad38a65)" style="fill: #0072b2"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 21.259843 253.133858 
+C 23.364762 253.133858 25.383752 252.297565 26.872155 250.809162 
+C 28.360557 249.32076 29.19685 247.301769 29.19685 245.19685 
+C 29.19685 243.091931 28.360557 241.072941 26.872155 239.584538 
+C 25.383752 238.096136 23.364762 237.259843 21.259843 237.259843 
+C 19.154923 237.259843 17.135933 238.096136 15.64753 239.584538 
+C 14.159128 241.072941 13.322835 243.091931 13.322835 245.19685 
+C 13.322835 247.301769 14.159128 249.32076 15.64753 250.809162 
+C 17.135933 252.297565 19.154923 253.133858 21.259843 253.133858 
+z
+" clip-path="url(#pf46ad38a65)" style="fill: #ffffff; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 106.866142 283.464567 
+L 265.889764 283.464567 
+Q 269.291339 283.464567 269.291339 280.062992 
+L 269.291339 210.330709 
+Q 269.291339 206.929134 265.889764 206.929134 
+L 106.866142 206.929134 
+Q 103.464567 206.929134 103.464567 210.330709 
+L 103.464567 280.062992 
+Q 103.464567 283.464567 106.866142 283.464567 
+z
+" clip-path="url(#pf46ad38a65)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 279.779528 283.464567 
+L 441.637795 283.464567 
+Q 445.03937 283.464567 445.03937 280.062992 
+L 445.03937 210.330709 
+Q 445.03937 206.929134 441.637795 206.929134 
+L 279.779528 206.929134 
+Q 276.377953 206.929134 276.377953 210.330709 
+L 276.377953 280.062992 
+Q 276.377953 283.464567 279.779528 283.464567 
+z
+" clip-path="url(#pf46ad38a65)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0072b2" x="21.259843" y="60.308283" transform="rotate(-0 21.259843 60.308283)">1</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(33.448819 48.908758)">Mixture</text>
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(33.448819 58.064321)">recognition</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #e6e6e6" x="33.448819" y="68.553626" transform="rotate(-0 33.448819 68.553626)">Section 3.1</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="111.401575" y="32.793626" transform="rotate(-0 111.401575 32.793626)">Profile-level judgment</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="111.401575" y="45.026067" transform="rotate(-0 111.401575 45.026067)">Evaluates signals across the full profile</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="111.401575" y="56.931579" transform="rotate(-0 111.401575 56.931579)">More than two distinct alleles at a locus</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="111.401575" y="68.837091" transform="rotate(-0 111.401575 68.837091)">Signals assessed against plausible artefacts</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="111.401575" y="80.742603" transform="rotate(-0 111.401575 80.742603)">Single signal alone is not conclusive [Cla98]</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="284.314961" y="32.81222" transform="rotate(-0 284.314961 32.81222)">Concealment factors</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="284.314961" y="45.026067" transform="rotate(-0 284.314961 45.026067)">Allele sharing causes signals to overlap</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="284.314961" y="56.931579" transform="rotate(-0 284.314961 56.931579)">Weak components can conceal contributors</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="284.314961" y="68.837091" transform="rotate(-0 284.314961 68.837091)">Absence of extra alleles does not rule out</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="284.314961" y="80.742603" transform="rotate(-0 284.314961 80.742603)">a mixture [Cla98, Hu14]</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0072b2" x="21.259843" y="153.85159" transform="rotate(-0 21.259843 153.85159)">2</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(33.448819 142.470659)">Suitability</text>
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(33.448819 151.626222)">assessment</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #e6e6e6" x="33.448819" y="162.096933" transform="rotate(-0 33.448819 162.096933)">Section 3.1</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="111.401575" y="126.336933" transform="rotate(-0 111.401575 126.336933)">Separate from recognition</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="111.401575" y="138.569374" transform="rotate(-0 111.401575 138.569374)">Judged under validated laboratory criteria</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="111.401575" y="150.474886" transform="rotate(-0 111.401575 150.474886)">Not determined merely by reportable signals</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="111.401575" y="162.380398" transform="rotate(-0 111.401575 162.380398)">Distinguishes presence of DNA from whether</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="111.401575" y="174.28591" transform="rotate(-0 111.401575 174.28591)">data support reliable comparison [Sci21]</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="284.314961" y="126.336933" transform="rotate(-0 284.314961 126.336933)">Not all-or-nothing across profile</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="284.314961" y="138.569374" transform="rotate(-0 284.314961 138.569374)">Full profile may support interpretation</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="284.314961" y="150.474886" transform="rotate(-0 284.314961 150.474886)">Specific component or subset of loci suitable</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="284.314961" y="162.380398" transform="rotate(-0 284.314961 162.380398)">Retained data must support interpretation</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="284.314961" y="174.28591" transform="rotate(-0 284.314961 174.28591)">Unsuitable or inconclusive [Sci21]</text>
+   </g>
+   <g id="text_27">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0072b2" x="21.259843" y="247.394897" transform="rotate(-0 21.259843 247.394897)">3</text>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(33.448819 236.013966)">Order of</text>
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(33.448819 245.169529)">interpretation</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #e6e6e6" x="33.448819" y="255.640241" transform="rotate(-0 33.448819 255.640241)">Section 3.1</text>
+   </g>
+   <g id="text_30">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="111.401575" y="219.898834" transform="rotate(-0 111.401575 219.898834)">Step 1: Evidentiary profile</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="111.401575" y="232.112681" transform="rotate(-0 111.401575 232.112681)">Interpreted before reference profiles</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="111.401575" y="244.018193" transform="rotate(-0 111.401575 244.018193)">Candidate genotype combinations assessed</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="111.401575" y="255.923705" transform="rotate(-0 111.401575 255.923705)">Keeps initial assessment independent of</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="111.401575" y="267.829217" transform="rotate(-0 111.401575 267.829217)">knowledge about person of interest [Gil06]</text>
+   </g>
+   <g id="text_35">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="284.314961" y="219.898834" transform="rotate(-0 284.314961 219.898834)">Step 2: Reference comparison</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="284.314961" y="232.112681" transform="rotate(-0 284.314961 232.112681)">Comparison follows profile assessment</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="284.314961" y="244.018193" transform="rotate(-0 284.314961 244.018193)">Reference may or may not be excluded [Sci21]</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="284.314961" y="255.923705" transform="rotate(-0 284.314961 255.923705)">Reference match does not alone resolve</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="284.314961" y="267.829217" transform="rotate(-0 284.314961 267.829217)">remaining alternative combinations [Cla98]</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pf46ad38a65">
+   <rect x="0" y="0" width="453.543307" height="306.141732"/>
+  </clipPath>
+ </defs>
+</svg>

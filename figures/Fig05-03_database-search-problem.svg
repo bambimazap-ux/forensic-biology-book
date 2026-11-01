@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="474.15953pt" height="327.469606pt" viewBox="0 0 474.15953 327.469606" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-31T22:56:12.909140</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 327.469606 
+L 474.15953 327.469606 
+L 474.15953 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 15.482835 146.726929 
+L 218.443465 146.726929 
+Q 221.845039 146.726929 221.845039 143.325354 
+L 221.845039 25.404094 
+Q 221.845039 22.00252 218.443465 22.00252 
+L 15.482835 22.00252 
+Q 12.08126 22.00252 12.08126 25.404094 
+L 12.08126 143.325354 
+Q 12.08126 146.726929 15.482835 146.726929 
+z
+" clip-path="url(#p4d0588fa58)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 239.419843 146.726929 
+L 442.380472 146.726929 
+Q 445.782047 146.726929 445.782047 143.325354 
+L 445.782047 25.404094 
+Q 445.782047 22.00252 442.380472 22.00252 
+L 239.419843 22.00252 
+Q 236.018268 22.00252 236.018268 25.404094 
+L 236.018268 143.325354 
+Q 236.018268 146.726929 239.419843 146.726929 
+z
+" clip-path="url(#p4d0588fa58)" style="fill: #ffffff; stroke: #009e73; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 15.482835 305.467087 
+L 442.380472 305.467087 
+Q 445.782047 305.467087 445.782047 302.065512 
+L 445.782047 174.222992 
+Q 445.782047 170.821417 442.380472 170.821417 
+L 15.482835 170.821417 
+Q 12.08126 170.821417 12.08126 174.222992 
+L 12.08126 302.065512 
+Q 12.08126 305.467087 15.482835 305.467087 
+z
+" clip-path="url(#p4d0588fa58)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 20.018268 270.034016 
+L 218.16 270.034016 
+Q 220.427717 270.034016 220.427717 267.766299 
+L 220.427717 197.183622 
+Q 220.427717 194.915906 218.16 194.915906 
+L 20.018268 194.915906 
+Q 17.750551 194.915906 17.750551 197.183622 
+L 17.750551 267.766299 
+Q 17.750551 270.034016 20.018268 270.034016 
+z
+" clip-path="url(#p4d0588fa58)" style="fill: #e6e6e6; stroke: #bfbfbf; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 235.451339 270.034016 
+L 433.593071 270.034016 
+Q 435.860787 270.034016 435.860787 267.766299 
+L 435.860787 197.183622 
+Q 435.860787 194.915906 433.593071 194.915906 
+L 235.451339 194.915906 
+Q 233.183622 194.915906 233.183622 197.183622 
+L 233.183622 267.766299 
+Q 233.183622 270.034016 235.451339 270.034016 
+z
+" clip-path="url(#p4d0588fa58)" style="fill: #e6e6e6; stroke: #bfbfbf; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 20.018268 298.380472 
+L 433.593071 298.380472 
+Q 435.860787 298.380472 435.860787 296.112756 
+L 435.860787 276.553701 
+Q 435.860787 274.285984 433.593071 274.285984 
+L 20.018268 274.285984 
+Q 17.750551 274.285984 17.750551 276.553701 
+L 17.750551 296.112756 
+Q 17.750551 298.380472 20.018268 298.380472 
+z
+" clip-path="url(#p4d0588fa58)" style="fill: #fdf7f5; stroke: #d55e00; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="20.778856" transform="rotate(-0 12.08126 20.778856)">(A) Directed comparison vs database search</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="236.018268" y="20.778856" transform="rotate(-0 236.018268 20.778856)">(B) Weir's all-pairs comparison paradox</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="18.31748" y="34.123487" transform="rotate(-0 18.31748 34.123487)">The database search problem [Mee19, Bal95]</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="18.31748" y="43.785957" transform="rotate(-0 18.31748 43.785957)">• Named-suspect comparison:</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="18.31748" y="53.707144" transform="rotate(-0 18.31748 53.707144)">  Inquiry initiated with a named suspect from prior</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="18.31748" y="63.628477" transform="rotate(-0 18.31748 63.628477)">  non-DNA evidence; evaluates propositions about that</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="18.31748" y="73.549737" transform="rotate(-0 18.31748 73.549737)">  specific individual [Mee19]</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="18.31748" y="83.470997" transform="rotate(-0 18.31748 83.470997)">• Database search match:</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="18.31748" y="93.392183" transform="rotate(-0 18.31748 93.392183)">  Trace searched against N database records; asks whether</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="18.31748" y="103.313443" transform="rotate(-0 18.31748 103.313443)">  trace matches anyone among records and, if so, whom</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="18.31748" y="113.234776" transform="rotate(-0 18.31748 113.234776)">• Selection process and prior information matter:</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="18.31748" y="123.156036" transform="rotate(-0 18.31748 123.156036)">  The search process and prior information shape the</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="18.31748" y="133.077223" transform="rotate(-0 18.31748 133.077223)">  relevant evidential inference, not profile rarity alone</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="18.31748" y="142.998483" transform="rotate(-0 18.31748 142.998483)">• Evidential weight requires stated propositions [But24b]</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="242.254488" y="34.123404" transform="rotate(-0 242.254488 34.123404)">All-pairs comparisons: quadratic scaling [Wei04]</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="242.254488" y="43.785884" transform="rotate(-0 242.254488 43.785884)">• Single trace search: N comparisons</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="242.254488" y="53.707144" transform="rotate(-0 242.254488 53.707144)">  Trace queried against a database of size N</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="242.254488" y="63.628404" transform="rotate(-0 242.254488 63.628404)">• All-pairs internal search: N(N - 1) / 2 comparisons</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="242.254488" y="73.551788" transform="rotate(-0 242.254488 73.551788)">  Scales quadratically: O(N²) comparisons within database</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="242.254488" y="83.470923" transform="rotate(-0 242.254488 83.470923)">• In a database of 65,000 profiles (Weir 2004):</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="242.254488" y="93.392257" transform="rotate(-0 242.254488 93.392257)">  Yields over 2.1 billion pairwise comparisons [Wei04]</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="242.254488" y="103.313443" transform="rotate(-0 242.254488 103.313443)">• High partial matches inevitable by chance:</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="242.254488" y="113.234703" transform="rotate(-0 242.254488 113.234703)">  Across billions of comparisons among unrelated people,</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="242.254488" y="123.155963" transform="rotate(-0 242.254488 123.155963)">  pairs sharing 9 or 10 loci are mathematically expected</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="242.254488" y="133.079347" transform="rotate(-0 242.254488 133.079347)">• Does NOT give match probability for a single query trace</text>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="168.180431" transform="rotate(-0 12.08126 168.180431)">(C) Evidential formulations and database-wide evaluation</text>
+   </g>
+   <g id="text_27">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="17.750551" y="182.942384" transform="rotate(-0 17.750551 182.942384)">Evidential formulations: suspect-centred vs database-centred [Mee19]</text>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="23.419843" y="205.927616" transform="rotate(-0 23.419843 205.927616)">Suspect-centred formulation (1 / p)</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="23.419843" y="216.132341" transform="rotate(-0 23.419843 216.132341)">• Formulation: Evaluates weight as approximately 1 / p</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="23.419843" y="225.770136" transform="rotate(-0 23.419843 225.770136)">• Context: Natural when candidate was already targeted</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="23.419843" y="235.408005" transform="rotate(-0 23.419843 235.408005)">  or other database members excluded [Mee19]</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="23.419843" y="245.0458" transform="rotate(-0 23.419843 245.0458)">• Focuses on propositions about the candidate</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="23.419843" y="254.683522" transform="rotate(-0 23.419843 254.683522)">• Profile rarity p evaluated for identified person</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="23.419843" y="264.321317" transform="rotate(-0 23.419843 264.321317)">• Applied when inquiry precedes match [Mee19]</text>
+   </g>
+   <g id="text_35">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="238.852913" y="205.927616" transform="rotate(-0 238.852913 205.927616)">Database-centred formulation (1 / [np])</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="238.852913" y="216.132341" transform="rotate(-0 238.852913 216.132341)">• Formulation: Evaluates weight as approximately 1 / (np)</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="238.852913" y="225.77226" transform="rotate(-0 238.852913 225.77226)">• Context: Open search where no person was singled out</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="238.852913" y="235.407931" transform="rotate(-0 238.852913 235.407931)">  and members are treated as equally plausible donors</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="238.852913" y="245.0458" transform="rotate(-0 238.852913 245.0458)">• Accounts for N opportunities for adventitious match</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="238.852913" y="254.683595" transform="rotate(-0 238.852913 254.683595)">• Not a universal mechanical correction for all searches</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="238.852913" y="264.32139" transform="rotate(-0 238.852913 264.32139)">• Evaluation follows actual search protocol [Mee19]</text>
+   </g>
+   <g id="text_42">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="23.419843" y="286.998556" transform="rotate(-0 23.419843 286.998556)">Core forensic principle: Stated propositions determine evaluation [But24b]</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="23.419843" y="295.50242" transform="rotate(-0 23.419843 295.50242)">A database hit points to a candidate for investigation; evidential weight requires comparison under stated propositions [Mee19, But24b].</text>
+   </g>
+   <g id="text_44">
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #8c8c8c" x="445.782047" y="320.174896" transform="rotate(-0 445.782047 320.174896)">Simulated data for illustration</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p4d0588fa58">
+   <rect x="2.16" y="2.16" width="453.543307" height="323.149606"/>
+  </clipPath>
+ </defs>
+</svg>

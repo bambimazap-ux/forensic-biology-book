@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="457.863307pt" height="327.469606pt" viewBox="0 0 457.863307 327.469606" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-31T22:56:12.316829</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 327.469606 
+L 457.863307 327.469606 
+L 457.863307 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 15.482835 142.474961 
+L 218.443465 142.474961 
+Q 221.845039 142.474961 221.845039 139.073386 
+L 221.845039 25.404094 
+Q 221.845039 22.00252 218.443465 22.00252 
+L 15.482835 22.00252 
+Q 12.08126 22.00252 12.08126 25.404094 
+L 12.08126 139.073386 
+Q 12.08126 142.474961 15.482835 142.474961 
+z
+" clip-path="url(#p665be5352f)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 239.419843 142.474961 
+L 442.380472 142.474961 
+Q 445.782047 142.474961 445.782047 139.073386 
+L 445.782047 25.404094 
+Q 445.782047 22.00252 442.380472 22.00252 
+L 239.419843 22.00252 
+Q 236.018268 22.00252 236.018268 25.404094 
+L 236.018268 139.073386 
+Q 236.018268 142.474961 239.419843 142.474961 
+z
+" clip-path="url(#p665be5352f)" style="fill: #ffffff; stroke: #009e73; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 15.482835 305.467087 
+L 218.443465 305.467087 
+Q 221.845039 305.467087 221.845039 302.065512 
+L 221.845039 169.971024 
+Q 221.845039 166.569449 218.443465 166.569449 
+L 15.482835 166.569449 
+Q 12.08126 166.569449 12.08126 169.971024 
+L 12.08126 302.065512 
+Q 12.08126 305.467087 15.482835 305.467087 
+z
+" clip-path="url(#p665be5352f)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 20.585197 238.852913 
+L 213.057638 238.852913 
+Q 215.325354 238.852913 215.325354 236.585197 
+L 215.325354 190.097008 
+Q 215.325354 187.829291 213.057638 187.829291 
+L 20.585197 187.829291 
+Q 18.31748 187.829291 18.31748 190.097008 
+L 18.31748 236.585197 
+Q 18.31748 238.852913 20.585197 238.852913 
+z
+" clip-path="url(#p665be5352f)" style="fill: #e6e6e6; stroke: #bfbfbf; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 20.585197 295.545827 
+L 213.057638 295.545827 
+Q 215.325354 295.545827 215.325354 293.27811 
+L 215.325354 246.789921 
+Q 215.325354 244.522205 213.057638 244.522205 
+L 20.585197 244.522205 
+Q 18.31748 244.522205 18.31748 246.789921 
+L 18.31748 293.27811 
+Q 18.31748 295.545827 20.585197 295.545827 
+z
+" clip-path="url(#p665be5352f)" style="fill: #e6e6e6; stroke: #bfbfbf; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 239.419843 305.467087 
+L 442.380472 305.467087 
+Q 445.782047 305.467087 445.782047 302.065512 
+L 445.782047 169.971024 
+Q 445.782047 166.569449 442.380472 166.569449 
+L 239.419843 166.569449 
+Q 236.018268 166.569449 236.018268 169.971024 
+L 236.018268 302.065512 
+Q 236.018268 305.467087 239.419843 305.467087 
+z
+" clip-path="url(#p665be5352f)" style="fill: #fdf7f5; stroke: #d55e00; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="20.778856" transform="rotate(-0 12.08126 20.778856)">(A) Matching-allele count versus LR ranking</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="18.31748" y="34.123404" transform="rotate(-0 18.31748 34.123404)">Matching-allele count (retrieval criterion)</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="18.31748" y="43.785884" transform="rotate(-0 18.31748 43.785884)">• Traditional search: counts matching alleles or allows</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="18.31748" y="53.707144" transform="rotate(-0 18.31748 53.707144)">  a fixed mismatch threshold (e.g. 0 or 1 mismatch)</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="18.31748" y="63.628404" transform="rotate(-0 18.31748 63.628404)">• Candidate profiles with the same matching-allele count</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="18.31748" y="73.549737" transform="rotate(-0 18.31748 73.549737)">  are left tied in an unranked candidate block [Ben17c]</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="18.31748" y="83.470923" transform="rotate(-0 18.31748 83.470923)">• Complex mixtures return overwhelming tied candidates</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="18.31748" y="93.394307" transform="rotate(-0 18.31748 93.394307)">• Ordering candidates only by count leaves tied records</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="18.31748" y="103.313443" transform="rotate(-0 18.31748 103.313443)">  undifferentiated for laboratory review [Ben17c]</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="18.31748" y="113.234703" transform="rotate(-0 18.31748 113.234703)">• Retrieval criterion only; not an LR ranking</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="242.254488" y="34.123404" transform="rotate(-0 242.254488 34.123404)">Likelihood-ratio ranking (SmartRank / PG)</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="242.254488" y="43.785957" transform="rotate(-0 242.254488 43.785957)">• Likelihood-ratio tools evaluate candidate database</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="242.254488" y="53.707217" transform="rotate(-0 242.254488 53.707217)">  profiles as potential contributors [Ben17c, Noz24]</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="242.254488" y="63.628477" transform="rotate(-0 242.254488 63.628477)">• Calculates a specific LR for each database profile</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="242.254488" y="73.549737" transform="rotate(-0 242.254488 73.549737)">  and orders candidates that pass a chosen cutoff</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="242.254488" y="83.470997" transform="rotate(-0 242.254488 83.470997)">• ProbRank and continuous PG searches use quantitative</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="242.254488" y="93.392183" transform="rotate(-0 242.254488 93.392183)">  or genotype evaluations to rank candidates [Noz24]</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="242.254488" y="103.313516" transform="rotate(-0 242.254488 103.313516)">• The cutoff determines who enters the list; the LR</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="242.254488" y="113.234703" transform="rotate(-0 242.254488 113.234703)">  ranking determines their priority order [Ben17c]</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="242.254488" y="123.156036" transform="rotate(-0 242.254488 123.156036)">• Breaks tied blocks into an ordered candidate worklist</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="163.928462" transform="rotate(-0 12.08126 163.928462)">(B) Retrieval threshold trade-offs and evidential status</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="18.31748" y="178.690416" transform="rotate(-0 18.31748 178.690416)">Retrieval cutoff threshold trade-offs [Ben17c]</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="22.00252" y="198.274073" transform="rotate(-0 22.00252 198.274073)">Permissive cutoff (lower LR threshold)</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="22.00252" y="208.195406" transform="rotate(-0 22.00252 208.195406)">• Retains more true contributors in candidate list</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="22.00252" y="217.833128" transform="rotate(-0 22.00252 217.833128)">• Substantially enlarges candidate list size</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="22.00252" y="227.470923" transform="rotate(-0 22.00252 227.470923)">• Increases laboratory review workload and false leads</text>
+   </g>
+   <g id="text_27">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="22.00252" y="254.966986" transform="rotate(-0 22.00252 254.966986)">Stricter cutoff (higher LR threshold)</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="22.00252" y="264.88832" transform="rotate(-0 22.00252 264.88832)">• Reduces candidate list size and review burden</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="22.00252" y="274.526042" transform="rotate(-0 22.00252 274.526042)">• Risks omitting true contributors with drop-out [Ben17c]</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="22.00252" y="284.16391" transform="rotate(-0 22.00252 284.16391)">• Difficult mixtures can leave contributors unranked</text>
+   </g>
+   <g id="text_31">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="242.254488" y="178.690333" transform="rotate(-0 242.254488 178.690333)">Evidential meaning of ranked candidate lists</text>
+   </g>
+   <g id="text_32">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="242.254488" y="188.352886" transform="rotate(-0 242.254488 188.352886)">• Prioritised worklist, not verified contributors:</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="242.254488" y="198.557611" transform="rotate(-0 242.254488 198.557611)">  A ranked list is a prioritised worklist for profile</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="242.254488" y="208.764459" transform="rotate(-0 242.254488 208.764459)">  review and follow-up, NOT a verified list [Ben17c, Noz24]</text>
+   </g>
+   <g id="text_35">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="242.254488" y="218.966986" transform="rotate(-0 242.254488 218.966986)">• Investigative lead, not an identification:</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="242.254488" y="229.171711" transform="rotate(-0 242.254488 229.171711)">  A hit is an investigative lead, not an identification [But12d]</text>
+   </g>
+   <g id="text_37">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="242.254488" y="239.376509" transform="rotate(-0 242.254488 239.376509)">• Independent confirmation required:</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="242.254488" y="249.581233" transform="rotate(-0 242.254488 249.581233)">  New PG associations require independent verification</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="242.254488" y="259.785957" transform="rotate(-0 242.254488 259.785957)">  before information is passed onward [Noz24]</text>
+   </g>
+   <g id="text_40">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="242.254488" y="269.990609" transform="rotate(-0 242.254488 269.990609)">• Expert laboratory review required:</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="242.254488" y="280.195333" transform="rotate(-0 242.254488 280.195333)">  Analysts must examine underlying profiles, resolve</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="242.254488" y="290.400131" transform="rotate(-0 242.254488 290.400131)">  discrepancies, and confirm the association [But12d]</text>
+   </g>
+   <g id="text_43">
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #8c8c8c" x="445.782047" y="320.174896" transform="rotate(-0 445.782047 320.174896)">Simulated data for illustration</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p665be5352f">
+   <rect x="2.16" y="2.16" width="453.543307" height="323.149606"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="457.863307pt" height="333.138898pt" viewBox="0 0 457.863307 333.138898" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-31T23:28:22.078421</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 333.138898 
+L 457.863307 333.138898 
+L 457.863307 -0 
+L 0 -0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 15.482835 121.215118 
+L 219.860787 121.215118 
+Q 223.262362 121.215118 223.262362 117.813543 
+L 223.262362 28.23874 
+Q 223.262362 24.837165 219.860787 24.837165 
+L 15.482835 24.837165 
+Q 12.08126 24.837165 12.08126 28.23874 
+L 12.08126 117.813543 
+Q 12.08126 121.215118 15.482835 121.215118 
+z
+" clip-path="url(#p292c2036aa)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 238.00252 121.215118 
+L 442.380472 121.215118 
+Q 445.782047 121.215118 445.782047 117.813543 
+L 445.782047 28.23874 
+Q 445.782047 24.837165 442.380472 24.837165 
+L 238.00252 24.837165 
+Q 234.600945 24.837165 234.600945 28.23874 
+L 234.600945 117.813543 
+Q 234.600945 121.215118 238.00252 121.215118 
+z
+" clip-path="url(#p292c2036aa)" style="fill: #ffffff; stroke: #009e73; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 15.482835 223.262362 
+L 219.860787 223.262362 
+Q 223.262362 223.262362 223.262362 219.860787 
+L 223.262362 145.876535 
+Q 223.262362 142.474961 219.860787 142.474961 
+L 15.482835 142.474961 
+Q 12.08126 142.474961 12.08126 145.876535 
+L 12.08126 219.860787 
+Q 12.08126 223.262362 15.482835 223.262362 
+z
+" clip-path="url(#p292c2036aa)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 238.00252 223.262362 
+L 442.380472 223.262362 
+Q 445.782047 223.262362 445.782047 219.860787 
+L 445.782047 145.876535 
+Q 445.782047 142.474961 442.380472 142.474961 
+L 238.00252 142.474961 
+Q 234.600945 142.474961 234.600945 145.876535 
+L 234.600945 219.860787 
+Q 234.600945 223.262362 238.00252 223.262362 
+z
+" clip-path="url(#p292c2036aa)" style="fill: #fdf7f5; stroke: #d55e00; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 15.482835 315.388346 
+L 219.860787 315.388346 
+Q 223.262362 315.388346 223.262362 311.986772 
+L 223.262362 249.341102 
+Q 223.262362 245.939528 219.860787 245.939528 
+L 15.482835 245.939528 
+Q 12.08126 245.939528 12.08126 249.341102 
+L 12.08126 311.986772 
+Q 12.08126 315.388346 15.482835 315.388346 
+z
+" clip-path="url(#p292c2036aa)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 238.00252 315.388346 
+L 442.380472 315.388346 
+Q 445.782047 315.388346 445.782047 311.986772 
+L 445.782047 249.341102 
+Q 445.782047 245.939528 442.380472 245.939528 
+L 238.00252 245.939528 
+Q 234.600945 245.939528 234.600945 249.341102 
+L 234.600945 311.986772 
+Q 234.600945 315.388346 238.00252 315.388346 
+z
+" clip-path="url(#p292c2036aa)" style="fill: #fdf7f5; stroke: #d55e00; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="16.526888" transform="rotate(-0 12.08126 16.526888)">(A) Coordinates and nomenclature [Par14c]</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="234.600945" y="16.526888" transform="rotate(-0 234.600945 16.526888)">(B) Homopolymer alignment &amp; SAM2 [Ban06]</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="17.183622" y="36.107656" transform="rotate(-0 17.183622 36.107656)">rCRS Reporting Coordinates [And99, Par14c]</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="45.203207" transform="rotate(-0 17.183622 45.203207)">• revised Cambridge Reference Sequence (rCRS):</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="53.709268" transform="rotate(-0 17.183622 53.709268)">  Reporting coordinate standard, NOT an ancestral</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="62.211081" transform="rotate(-0 17.183622 62.211081)">  or 'wild-type' genome; carries rare alleles [And99]</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="70.715091" transform="rotate(-0 17.183622 70.715091)">• Standardized variant nomenclature [Par14c]:</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="79.218955" transform="rotate(-0 17.183622 79.218955)">  - Substitutions: position + observed base (e.g. 73G)</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="87.722892" transform="rotate(-0 17.183622 87.722892)">  - Insertions: decimal position (e.g. 315.1C)</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="96.226829" transform="rotate(-0 17.183622 96.226829)">  - Deletions: marked explicitly (e.g. 249del)</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="104.730766" transform="rotate(-0 17.183622 104.730766)">  - Heteroplasmy: IUPAC codes (e.g. 16169Y for C/T)</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="113.234703" transform="rotate(-0 17.183622 113.234703)">• Symbols record sequence data, not evidential weight</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="239.703307" y="36.107656" transform="rotate(-0 239.703307 36.107656)">Homopolymer Alignment &amp; SAM2 [Ban06, Hub18]</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="45.203207" transform="rotate(-0 239.703307 45.203207)">• Alignment ambiguity in repetitive tracts:</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="53.707144" transform="rotate(-0 239.703307 53.707144)">  In poly-C tracts, 3' rule vs phylogenetic alignment</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="62.211081" transform="rotate(-0 239.703307 62.211081)">  places indels differently, creating false mismatches</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="70.715018" transform="rotate(-0 239.703307 70.715018)">• Phylogenetic alignment convention [Ban06]:</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="79.218955" transform="rotate(-0 239.703307 79.218955)">  Harmonizes notation using mitochondrial tree rules</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="87.722892" transform="rotate(-0 239.703307 87.722892)">• SAM2 string search engine [Hub18]:</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="96.226829" transform="rotate(-0 239.703307 96.226829)">  Alignment-independent string searching retrieves</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="104.730766" transform="rotate(-0 239.703307 104.730766)">  equivalent haplotypes regardless of indel placement</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="113.234703" transform="rotate(-0 239.703307 113.234703)">• PhyloTree: Curated tree validating haplogroup motifs</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="138.416651" transform="rotate(-0 12.08126 138.416651)">(C) EMPOP population database and frequency estimation [Par07c, Buc11]</text>
+   </g>
+   <g id="text_24">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="17.183622" y="153.745534" transform="rotate(-0 17.183622 153.745534)">EMPOP Database Framework [Par07c]</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="162.841075" transform="rotate(-0 17.183622 162.841075)">• Global curated population resource:</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="171.347063" transform="rotate(-0 17.183622 171.347063)">  Quality-controlled reference data; not an identity</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="179.848949" transform="rotate(-0 17.183622 179.848949)">  database [Par07c, Par07d]</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="188.352886" transform="rotate(-0 17.183622 188.352886)">• Search returns sample count x / N:</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="196.856823" transform="rotate(-0 17.183622 196.856823)">  Describes recurrence in sampled database,</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="205.362811" transform="rotate(-0 17.183622 205.362811)">  NOT an immutable population frequency</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="213.864624" transform="rotate(-0 17.183622 213.864624)">• Reference population selection governs relevance</text>
+   </g>
+   <g id="text_32">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="239.703307" y="153.745534" transform="rotate(-0 239.703307 153.745534)">The Zero-Count Problem [Par14c, Buc11]</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="162.843199" transform="rotate(-0 239.703307 162.843199)">• Non-observation does NOT mean zero:</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="171.344939" transform="rotate(-0 239.703307 171.344939)">  x = 0 in database does not indicate haplotype is</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="179.848949" transform="rotate(-0 239.703307 179.848949)">  absent from wider population [Par14c, Buc11]</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="188.352813" transform="rotate(-0 239.703307 188.352813)">• Finite sampling adjustments:</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="196.85675" transform="rotate(-0 239.703307 196.85675)">  Upper confidence limits (e.g. 95% Clopper-Pearson)</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="205.360687" transform="rotate(-0 239.703307 205.360687)">  or Bayesian estimators prevent zero estimates</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="213.864624" transform="rotate(-0 239.703307 213.864624)">• Sensitive to database size N and panel coverage</text>
+   </g>
+   <g id="text_40">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="240.463895" transform="rotate(-0 12.08126 240.463895)">(D) Lineage propositions and evidential evaluation [Buc11, And21b, Par14c]</text>
+   </g>
+   <g id="text_41">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="17.183622" y="257.210018" transform="rotate(-0 17.183622 257.210018)">Maternal Proposition Framing [And21b]</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="266.305569" transform="rotate(-0 17.183622 266.305569)">• Prosecution proposition (Hp):</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="274.81163" transform="rotate(-0 17.183622 274.81163)">  DNA originated from the person of interest (POI)</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="283.313443" transform="rotate(-0 17.183622 283.313443)">• Defence proposition (Hd) options [Buc11]:</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="291.81738" transform="rotate(-0 17.183622 291.81738)">  (1) Unknown person from specified reference pool</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="300.321317" transform="rotate(-0 17.183622 300.321317)">  (2) Specified maternal relative sharing haplotype</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="308.825254" transform="rotate(-0 17.183622 308.825254)">• Alternative source may be unexcluded maternal kin</text>
+   </g>
+   <g id="text_48">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="239.703307" y="257.210018" transform="rotate(-0 239.703307 257.210018)">Interpretive Safeguards [Par14c, Buc11]</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="266.305569" transform="rotate(-0 239.703307 266.305569)">• Likelihood ratio evaluates findings under propositions:</text>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="274.809506" transform="rotate(-0 239.703307 274.809506)">  LR expresses P(Evidence | Hp) vs P(Evidence | Hd)</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="283.313516" transform="rotate(-0 239.703307 283.313516)">• Transposed conditional prohibited:</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="291.819504" transform="rotate(-0 239.703307 291.819504)">  LR is NOT the probability that POI is source</text>
+   </g>
+   <g id="text_53">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="300.321317" transform="rotate(-0 239.703307 300.321317)">• Match supports maternal lineage correspondence,</text>
+   </g>
+   <g id="text_54">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="308.825327" transform="rotate(-0 239.703307 308.825327)">  never unique individual identification [Amo19b]</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p292c2036aa">
+   <rect x="2.16" y="2.16" width="453.543307" height="328.818898"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="457.863307pt" height="333.138898pt" viewBox="0 0 457.863307 333.138898" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-31T23:11:27.646493</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 333.138898 
+L 457.863307 333.138898 
+L 457.863307 -0 
+L 0 -0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 14.915906 58.852913 
+L 442.947402 58.852913 
+Q 445.782047 58.852913 445.782047 56.018268 
+L 445.782047 23.419843 
+Q 445.782047 20.585197 442.947402 20.585197 
+L 14.915906 20.585197 
+Q 12.08126 20.585197 12.08126 23.419843 
+L 12.08126 56.018268 
+Q 12.08126 58.852913 14.915906 58.852913 
+z
+" clip-path="url(#pa91b455c4f)" style="fill: #f8f9fa; stroke: #0072b2; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 15.482835 227.514331 
+L 146.16 227.514331 
+Q 149.561575 227.514331 149.561575 224.112756 
+L 149.561575 82.097008 
+Q 149.561575 78.695433 146.16 78.695433 
+L 15.482835 78.695433 
+Q 12.08126 78.695433 12.08126 82.097008 
+L 12.08126 224.112756 
+Q 12.08126 227.514331 15.482835 227.514331 
+z
+" clip-path="url(#pa91b455c4f)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 162.884409 227.514331 
+L 293.561575 227.514331 
+Q 296.96315 227.514331 296.96315 224.112756 
+L 296.96315 82.097008 
+Q 296.96315 78.695433 293.561575 78.695433 
+L 162.884409 78.695433 
+Q 159.482835 78.695433 159.482835 82.097008 
+L 159.482835 224.112756 
+Q 159.482835 227.514331 162.884409 227.514331 
+z
+" clip-path="url(#pa91b455c4f)" style="fill: #ffffff; stroke: #009e73; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 310.285984 227.514331 
+L 440.96315 227.514331 
+Q 444.364724 227.514331 444.364724 224.112756 
+L 444.364724 82.097008 
+Q 444.364724 78.695433 440.96315 78.695433 
+L 310.285984 78.695433 
+Q 306.884409 78.695433 306.884409 82.097008 
+L 306.884409 224.112756 
+Q 306.884409 227.514331 310.285984 227.514331 
+z
+" clip-path="url(#pa91b455c4f)" style="fill: #ffffff; stroke: #e69f00; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 15.482835 316.805669 
+L 146.16 316.805669 
+Q 149.561575 316.805669 149.561575 313.404094 
+L 149.561575 252.175748 
+Q 149.561575 248.774173 146.16 248.774173 
+L 15.482835 248.774173 
+Q 12.08126 248.774173 12.08126 252.175748 
+L 12.08126 313.404094 
+Q 12.08126 316.805669 15.482835 316.805669 
+z
+" clip-path="url(#pa91b455c4f)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 162.884409 316.805669 
+L 293.561575 316.805669 
+Q 296.96315 316.805669 296.96315 313.404094 
+L 296.96315 252.175748 
+Q 296.96315 248.774173 293.561575 248.774173 
+L 162.884409 248.774173 
+Q 159.482835 248.774173 159.482835 252.175748 
+L 159.482835 313.404094 
+Q 159.482835 316.805669 162.884409 316.805669 
+z
+" clip-path="url(#pa91b455c4f)" style="fill: #ffffff; stroke: #009e73; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 310.285984 316.805669 
+L 440.96315 316.805669 
+Q 444.364724 316.805669 444.364724 313.404094 
+L 444.364724 252.175748 
+Q 444.364724 248.774173 440.96315 248.774173 
+L 310.285984 248.774173 
+Q 306.884409 248.774173 306.884409 252.175748 
+L 306.884409 313.404094 
+Q 306.884409 316.805669 310.285984 316.805669 
+z
+" clip-path="url(#pa91b455c4f)" style="fill: #fdf7f5; stroke: #d55e00; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="19.361533" transform="rotate(-0 12.08126 19.361533)">(A) Y-Chromosome Haplotype Reference Database (YHRD) structure [Wil15b, Roe20]</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="17.750551" y="31.288758" transform="rotate(-0 17.750551 31.288758)">YHRD Architecture &amp; Search Strategy [Wil15b, Roe20]</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="40.384309" transform="rotate(-0 17.750551 40.384309)">• Global repository indexing submitted Y-STR and Y-SNP population data across standardized multiplex kits.</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="49.455175" transform="rotate(-0 17.750551 49.455175)">• Supports multi-level queries: national reference databases vs ancestry-based continental metapopulations.</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="17.750551" y="57.394307" transform="rotate(-0 17.750551 57.394307)">• Database count describes sample recurrence, NOT an immutable population frequency; sensitive to size N and panel.</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="77.47177" transform="rotate(-0 12.08126 77.47177)">(B) Comparison of Y-STR haplotype frequency estimation models [Roe20, And13, And18b]</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="17.750551" y="89.965923" transform="rotate(-0 17.750551 89.965923)">Counting &amp; Augmented</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="99.061475" transform="rotate(-0 17.750551 99.061475)">• Direct counting formula: p = x / N</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="108.132341" transform="rotate(-0 17.750551 108.132341)">  Transparent and strictly tied to data</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="117.203207" transform="rotate(-0 17.750551 117.203207)">• Augmented counting: (x + 1)/(N + 1)</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="126.274073" transform="rotate(-0 17.750551 126.274073)">  Adds target profile to sample to</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="135.344939" transform="rotate(-0 17.750551 135.344939)">  prevent an ungrounded zero estimate</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="144.415879" transform="rotate(-0 17.750551 144.415879)">• The Zero-Count Problem [Roe20]:</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="153.488869" transform="rotate(-0 17.750551 153.488869)">  x = 0 in database does NOT mean</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="162.557538" transform="rotate(-0 17.750551 162.557538)">  haplotype is absent in population</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="171.628404" transform="rotate(-0 17.750551 171.628404)">• High sensitivity to sample size N:</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="180.699343" transform="rotate(-0 17.750551 180.699343)">  Rare counts cannot establish true</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="189.770136" transform="rotate(-0 17.750551 189.770136)">  underlying population prevalence</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="198.841075" transform="rotate(-0 17.750551 198.841075)">• Excludes mutational distance</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="165.152126" y="89.966006" transform="rotate(-0 165.152126 89.966006)">Discrete Laplace Method</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="165.152126" y="99.061548" transform="rotate(-0 165.152126 99.061548)">• Spatial distance model [And13]:</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="165.152126" y="108.132341" transform="rotate(-0 165.152126 108.132341)">  Models haplotype clusters around</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="165.152126" y="117.203207" transform="rotate(-0 165.152126 117.203207)">  inferred central founder haplotypes</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="165.152126" y="126.274146" transform="rotate(-0 165.152126 126.274146)">• Non-zero unobserved estimates:</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="165.152126" y="135.345012" transform="rotate(-0 165.152126 135.345012)">  Estimates frequencies for both</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="165.152126" y="144.415879" transform="rotate(-0 165.152126 144.415879)">  observed and unobserved profiles</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="165.152126" y="153.486745" transform="rotate(-0 165.152126 153.486745)">• Incorporates repeat differences:</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="165.152126" y="162.557538" transform="rotate(-0 165.152126 162.557538)">  Haplotype 1-step away is more</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="165.152126" y="171.628477" transform="rotate(-0 165.152126 171.628477)">  probable than distant recombinant</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="165.152126" y="180.699343" transform="rotate(-0 165.152126 180.699343)">• Strict Model Assumptions [And13]:</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="165.152126" y="189.770136" transform="rotate(-0 165.152126 189.770136)">  Assumes integer repeat steps;</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="165.152126" y="198.841075" transform="rotate(-0 165.152126 198.841075)">  excludes null alleles, duplications,</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="165.152126" y="207.911942" transform="rotate(-0 165.152126 207.911942)">  and intermediate microvariants</text>
+   </g>
+   <g id="text_34">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #e69f00" x="312.553701" y="89.965923" transform="rotate(-0 312.553701 89.965923)">Graphical Dependency Trees</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="312.553701" y="99.061475" transform="rotate(-0 312.553701 99.061475)">• Linked MSY loci: Complete physical</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="312.553701" y="108.132341" transform="rotate(-0 312.553701 108.132341)">  linkage precludes standard product</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="312.553701" y="117.20328" transform="rotate(-0 312.553701 117.20328)">  rule multiplication across loci</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="312.553701" y="126.274146" transform="rotate(-0 312.553701 126.274146)">• Chow–Liu Tree Models [And18b]:</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="312.553701" y="135.345012" transform="rotate(-0 312.553701 135.345012)">  Constructs optimal branch trees</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="312.553701" y="144.415805" transform="rotate(-0 312.553701 144.415805)">  capturing pairwise dependencies</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="312.553701" y="153.486671" transform="rotate(-0 312.553701 153.486671)">• t-Cherry Extensions [And19]:</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="312.553701" y="162.557538" transform="rotate(-0 312.553701 162.557538)">  Extends dependencies to higher-</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="312.553701" y="171.628477" transform="rotate(-0 312.553701 171.628477)">  order conditional interactions</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="312.553701" y="180.699343" transform="rotate(-0 312.553701 180.699343)">• Computational trade-off:</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="312.553701" y="189.770136" transform="rotate(-0 312.553701 189.770136)">  Higher parameter complexity;</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="312.553701" y="198.841075" transform="rotate(-0 312.553701 198.841075)">  requires substantial reference data</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="312.553701" y="207.911942" transform="rotate(-0 312.553701 207.911942)">  for stable branch estimation</text>
+   </g>
+   <g id="text_48">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="246.133187" transform="rotate(-0 12.08126 246.133187)">(C) Mandatory verification requirements prior to frequency reporting [Roe20]</text>
+   </g>
+   <g id="text_49">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="17.750551" y="260.044663" transform="rotate(-0 17.750551 260.044663)">Marker Compatibility</text>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="269.142339" transform="rotate(-0 17.750551 269.142339)">• Query panel must strictly match</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="278.211154" transform="rotate(-0 17.750551 278.211154)">  reference database locus set [Roe20]</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="287.28202" transform="rotate(-0 17.750551 287.28202)">• Standard vs extended panels</text>
+   </g>
+   <g id="text_53">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="296.352813" transform="rotate(-0 17.750551 296.352813)">  (e.g. 17 vs 23 vs 27 loci)</text>
+   </g>
+   <g id="text_54">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="305.423753" transform="rotate(-0 17.750551 305.423753)">• Incomplete or partial profiles</text>
+   </g>
+   <g id="text_55">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="314.494619" transform="rotate(-0 17.750551 314.494619)">  require reduced database search</text>
+   </g>
+   <g id="text_56">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="165.152126" y="260.044746" transform="rotate(-0 165.152126 260.044746)">Population Relevance</text>
+   </g>
+   <g id="text_57">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="165.152126" y="269.140288" transform="rotate(-0 165.152126 269.140288)">• Assess relevance of reference pool:</text>
+   </g>
+   <g id="text_58">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="165.152126" y="278.211154" transform="rotate(-0 165.152126 278.211154)">  national sample vs metapopulation</text>
+   </g>
+   <g id="text_59">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="165.152126" y="287.28202" transform="rotate(-0 165.152126 287.28202)">• Population substructure impacts</text>
+   </g>
+   <g id="text_60">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="165.152126" y="296.352813" transform="rotate(-0 165.152126 296.352813)">  lineage sharing frequencies [Wil15b]</text>
+   </g>
+   <g id="text_61">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="165.152126" y="305.423753" transform="rotate(-0 165.152126 305.423753)">• State database release, version,</text>
+   </g>
+   <g id="text_62">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="165.152126" y="314.494546" transform="rotate(-0 165.152126 314.494546)">  and accession date explicitly</text>
+   </g>
+   <g id="text_63">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="312.553701" y="260.044663" transform="rotate(-0 312.553701 260.044663)">Model Validity Limits</text>
+   </g>
+   <g id="text_64">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="312.553701" y="269.140215" transform="rotate(-0 312.553701 269.140215)">• No estimator removes the duty to</text>
+   </g>
+   <g id="text_65">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="312.553701" y="278.211154" transform="rotate(-0 312.553701 278.211154)">  assess model assumptions [Roe20]</text>
+   </g>
+   <g id="text_66">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="312.553701" y="287.281947" transform="rotate(-0 312.553701 287.281947)">• Verify absence of intermediate alleles</text>
+   </g>
+   <g id="text_67">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="312.553701" y="296.352813" transform="rotate(-0 312.553701 296.352813)">  or nulls if applying Discrete Laplace</text>
+   </g>
+   <g id="text_68">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="312.553701" y="305.423753" transform="rotate(-0 312.553701 305.423753)">• Rare match does not establish</text>
+   </g>
+   <g id="text_69">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="312.553701" y="314.494619" transform="rotate(-0 312.553701 314.494619)">  individual identification [And21b]</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pa91b455c4f">
+   <rect x="2.16" y="2.16" width="453.543307" height="328.818898"/>
+  </clipPath>
+ </defs>
+</svg>

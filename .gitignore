@@ -1,0 +1,10 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.tmp
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini

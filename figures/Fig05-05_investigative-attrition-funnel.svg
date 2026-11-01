@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="457.863307pt" height="327.469606pt" viewBox="0 0 457.863307 327.469606" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-31T22:56:14.088812</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 327.469606 
+L 457.863307 327.469606 
+L 457.863307 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 15.482835 142.474961 
+L 218.443465 142.474961 
+Q 221.845039 142.474961 221.845039 139.073386 
+L 221.845039 25.404094 
+Q 221.845039 22.00252 218.443465 22.00252 
+L 15.482835 22.00252 
+Q 12.08126 22.00252 12.08126 25.404094 
+L 12.08126 139.073386 
+Q 12.08126 142.474961 15.482835 142.474961 
+z
+" clip-path="url(#pdd8b9bd95b)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 239.419843 142.474961 
+L 442.380472 142.474961 
+Q 445.782047 142.474961 445.782047 139.073386 
+L 445.782047 25.404094 
+Q 445.782047 22.00252 442.380472 22.00252 
+L 239.419843 22.00252 
+Q 236.018268 22.00252 236.018268 25.404094 
+L 236.018268 139.073386 
+Q 236.018268 142.474961 239.419843 142.474961 
+z
+" clip-path="url(#pdd8b9bd95b)" style="fill: #ffffff; stroke: #009e73; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 15.482835 304.049764 
+L 442.380472 304.049764 
+Q 445.782047 304.049764 445.782047 300.648189 
+L 445.782047 168.553701 
+Q 445.782047 165.152126 442.380472 165.152126 
+L 15.482835 165.152126 
+Q 12.08126 165.152126 12.08126 168.553701 
+L 12.08126 300.648189 
+Q 12.08126 304.049764 15.482835 304.049764 
+z
+" clip-path="url(#pdd8b9bd95b)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 124.333228 196.333228 
+L 186.128504 196.333228 
+Q 187.829291 196.333228 187.829291 194.632441 
+L 187.829291 185.561575 
+Q 187.829291 183.860787 186.128504 183.860787 
+L 124.333228 183.860787 
+Q 122.632441 183.860787 122.632441 185.561575 
+L 122.632441 194.632441 
+Q 122.632441 196.333228 124.333228 196.333228 
+z
+" clip-path="url(#pdd8b9bd95b)" style="fill: #0072b2"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 124.333228 213.908031 
+L 174.789921 213.908031 
+Q 176.490709 213.908031 176.490709 212.207244 
+L 176.490709 203.136378 
+Q 176.490709 201.435591 174.789921 201.435591 
+L 124.333228 201.435591 
+Q 122.632441 201.435591 122.632441 203.136378 
+L 122.632441 212.207244 
+Q 122.632441 213.908031 124.333228 213.908031 
+z
+" clip-path="url(#pdd8b9bd95b)" style="fill: #56b4e9"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 124.333228 231.482835 
+L 163.451339 231.482835 
+Q 165.152126 231.482835 165.152126 229.782047 
+L 165.152126 220.711181 
+Q 165.152126 219.010394 163.451339 219.010394 
+L 124.333228 219.010394 
+Q 122.632441 219.010394 122.632441 220.711181 
+L 122.632441 229.782047 
+Q 122.632441 231.482835 124.333228 231.482835 
+z
+" clip-path="url(#pdd8b9bd95b)" style="fill: #009e73"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 124.333228 249.057638 
+L 153.530079 249.057638 
+Q 155.230866 249.057638 155.230866 247.35685 
+L 155.230866 238.285984 
+Q 155.230866 236.585197 153.530079 236.585197 
+L 124.333228 236.585197 
+Q 122.632441 236.585197 122.632441 238.285984 
+L 122.632441 247.35685 
+Q 122.632441 249.057638 124.333228 249.057638 
+z
+" clip-path="url(#pdd8b9bd95b)" style="fill: #e69f00"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 124.333228 266.632441 
+L 143.608819 266.632441 
+Q 145.309606 266.632441 145.309606 264.931654 
+L 145.309606 255.860787 
+Q 145.309606 254.16 143.608819 254.16 
+L 124.333228 254.16 
+Q 122.632441 254.16 122.632441 255.860787 
+L 122.632441 264.931654 
+Q 122.632441 266.632441 124.333228 266.632441 
+z
+" clip-path="url(#pdd8b9bd95b)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 124.333228 284.207244 
+L 135.104882 284.207244 
+Q 136.805669 284.207244 136.805669 282.506457 
+L 136.805669 273.435591 
+Q 136.805669 271.734803 135.104882 271.734803 
+L 124.333228 271.734803 
+Q 122.632441 271.734803 122.632441 273.435591 
+L 122.632441 282.506457 
+Q 122.632441 284.207244 124.333228 284.207244 
+z
+" clip-path="url(#pdd8b9bd95b)" style="fill: #cc79a7"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 222.695433 291.293858 
+L 436.427717 291.293858 
+Q 438.695433 291.293858 438.695433 289.026142 
+L 438.695433 183.010394 
+Q 438.695433 180.742677 436.427717 180.742677 
+L 222.695433 180.742677 
+Q 220.427717 180.742677 220.427717 183.010394 
+L 220.427717 289.026142 
+Q 220.427717 291.293858 222.695433 291.293858 
+z
+" clip-path="url(#pdd8b9bd95b)" style="fill: #e6e6e6; stroke: #bfbfbf; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="20.778856" transform="rotate(-0 12.08126 20.778856)">(A) Performance metrics and denominator dependence</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="18.31748" y="34.123404" transform="rotate(-0 18.31748 34.123404)">Metric misalignment and denominators</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="18.31748" y="43.785884" transform="rotate(-0 18.31748 43.785884)">• Coverage versus success:</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="18.31748" y="53.707144" transform="rotate(-0 18.31748 53.707144)">  Profile and trace counts describe database coverage,</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="18.31748" y="63.628404" transform="rotate(-0 18.31748 63.628404)">  not investigative success or crime prevention [Str19b]</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="18.31748" y="73.549737" transform="rotate(-0 18.31748 73.549737)">• Denominator dependence:</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="18.31748" y="83.470923" transform="rotate(-0 18.31748 83.470923)">  Hit rates depend on the denominator (loaded traces,</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="18.31748" y="93.392183" transform="rotate(-0 18.31748 93.392183)">  offender records, or total population) [San13b]</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="18.31748" y="103.313443" transform="rotate(-0 18.31748 103.313443)">• Expansive models do not ensure higher match yields:</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="18.31748" y="113.234776" transform="rotate(-0 18.31748 113.234776)">  European studies found no reliable link between broader</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="18.31748" y="123.156036" transform="rotate(-0 18.31748 123.156036)">  inclusion and matches per included person [San13b]</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="242.254488" y="34.123487" transform="rotate(-0 242.254488 34.123487)">Warm hits versus cold hits [Ama19, Ama21]</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="242.254488" y="43.785884" transform="rotate(-0 242.254488 43.785884)">• Warm hit (confirmatory match):</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="242.254488" y="53.707144" transform="rotate(-0 242.254488 53.707144)">  Confirms an individual already under investigation</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="242.254488" y="63.628477" transform="rotate(-0 242.254488 63.628477)">  prior to the database search; not a novel lead</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="242.254488" y="73.549664" transform="rotate(-0 242.254488 73.549664)">• Cold hit (novel investigative lead):</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="242.254488" y="83.470997" transform="rotate(-0 242.254488 83.470997)">  Associates an unsolved crime trace with a database profile</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="242.254488" y="93.392257" transform="rotate(-0 242.254488 93.392257)">  where no prior suspect had been identified</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="242.254488" y="103.313443" transform="rotate(-0 242.254488 103.313443)">• Reporting conflation:</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="242.254488" y="113.236827" transform="rotate(-0 242.254488 113.236827)">  Official statistics rarely distinguish warm from cold hits,</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="242.254488" y="123.155963" transform="rotate(-0 242.254488 123.155963)">  conflating confirmatory with proactive leads [Ama21]</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="163.928462" transform="rotate(-0 12.08126 163.928462)">(B) The investigative attrition funnel: from scene trace to conviction</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="17.750551" y="177.27301" transform="rotate(-0 17.750551 177.27301)">Operational progression and case attrition across criminal justice stages [Ama21, Str19b]</text>
+   </g>
+   <g id="text_24">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="192.037926" transform="rotate(-0 17.750551 192.037926)">1. Crime-scene trace</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="192.08126" y="192.037926" transform="rotate(-0 192.08126 192.037926)">100%</text>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="209.612729" transform="rotate(-0 17.750551 209.612729)">2. Candidate hit lead</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #56b4e9" x="180.742677" y="209.612729" transform="rotate(-0 180.742677 209.612729)">Hit</text>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="227.187459" transform="rotate(-0 17.750551 227.187459)">3. Laboratory confirmed</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="169.404094" y="227.187532" transform="rotate(-0 169.404094 227.187532)">Verified</text>
+   </g>
+   <g id="text_30">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="244.762335" transform="rotate(-0 17.750551 244.762335)">4. Police attribution</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #e69f00" x="159.482835" y="244.762335" transform="rotate(-0 159.482835 244.762335)">Attributed</text>
+   </g>
+   <g id="text_32">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="262.337065" transform="rotate(-0 17.750551 262.337065)">5. Arrest and charge</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="149.561575" y="262.337065" transform="rotate(-0 149.561575 262.337065)">Charged</text>
+   </g>
+   <g id="text_34">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="279.911942" transform="rotate(-0 17.750551 279.911942)">6. Judicial conviction</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #cc79a7" x="141.057638" y="279.911942" transform="rotate(-0 141.057638 279.911942)">Convicted</text>
+   </g>
+   <g id="text_36">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="226.097008" y="191.187532" transform="rotate(-0 226.097008 191.187532)">Sources of attrition across the funnel [Ama21, Str19b]</text>
+   </g>
+   <g id="text_37">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="226.097008" y="201.108792" transform="rotate(-0 226.097008 201.108792)">• Non-probative DNA:</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="226.097008" y="210.179585" transform="rotate(-0 226.097008 210.179585)">  Trace may be legitimately deposited or unrelated</text>
+   </g>
+   <g id="text_39">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="226.097008" y="219.250451" transform="rotate(-0 226.097008 219.250451)">• Lack of corroborating evidence:</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="226.097008" y="228.321317" transform="rotate(-0 226.097008 228.321317)">  Hit alone does not satisfy prosecution threshold</text>
+   </g>
+   <g id="text_41">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="226.097008" y="237.392257" transform="rotate(-0 226.097008 237.392257)">• Witness and procedural factors:</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="226.097008" y="246.463049" transform="rotate(-0 226.097008 246.463049)">  Victim withdrawal, alibis, or legal suppression</text>
+   </g>
+   <g id="text_43">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="226.097008" y="255.533916" transform="rotate(-0 226.097008 255.533916)">• Different denominators at each stage:</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="226.097008" y="264.606979" transform="rotate(-0 226.097008 264.606979)">  A database hit is NOT a solved case [Str19b]</text>
+   </g>
+   <g id="text_45">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="226.097008" y="273.675721" transform="rotate(-0 226.097008 273.675721)">• Causation:</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="226.097008" y="282.746587" transform="rotate(-0 226.097008 282.746587)">  Associated outcome does not establish causation [Wic22]</text>
+   </g>
+   <g id="text_47">
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #8c8c8c" x="445.782047" y="320.174896" transform="rotate(-0 445.782047 320.174896)">Simulated data for illustration</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pdd8b9bd95b">
+   <rect x="2.16" y="2.16" width="453.543307" height="323.149606"/>
+  </clipPath>
+ </defs>
+</svg>

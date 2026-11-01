@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="457.863307pt" height="333.579121pt" viewBox="0 0 457.863307 333.579121" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-31T23:28:21.443992</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 333.579121 
+L 457.863307 333.579121 
+L 457.863307 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 15.482835 109.876535 
+L 219.860787 109.876535 
+Q 223.262362 109.876535 223.262362 106.474961 
+L 223.262362 23.986772 
+Q 223.262362 20.585197 219.860787 20.585197 
+L 15.482835 20.585197 
+Q 12.08126 20.585197 12.08126 23.986772 
+L 12.08126 106.474961 
+Q 12.08126 109.876535 15.482835 109.876535 
+z
+" clip-path="url(#p86eff66eea)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 238.00252 109.876535 
+L 442.380472 109.876535 
+Q 445.782047 109.876535 445.782047 106.474961 
+L 445.782047 23.986772 
+Q 445.782047 20.585197 442.380472 20.585197 
+L 238.00252 20.585197 
+Q 234.600945 20.585197 234.600945 23.986772 
+L 234.600945 106.474961 
+Q 234.600945 109.876535 238.00252 109.876535 
+z
+" clip-path="url(#p86eff66eea)" style="fill: #ffffff; stroke: #009e73; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 15.482835 221.845039 
+L 442.380472 221.845039 
+Q 445.782047 221.845039 445.782047 218.443465 
+L 445.782047 130.285984 
+Q 445.782047 126.884409 442.380472 126.884409 
+L 15.482835 126.884409 
+Q 12.08126 126.884409 12.08126 130.285984 
+L 12.08126 218.443465 
+Q 12.08126 221.845039 15.482835 221.845039 
+z
+" clip-path="url(#p86eff66eea)" style="fill: #f8f9fa; stroke: #e69f00; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 223.262362 152.39622 
+L 371.230866 152.39622 
+L 371.230866 141.624567 
+L 223.262362 141.624567 
+z
+" clip-path="url(#p86eff66eea)" style="fill: #0072b2"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 371.230866 152.39622 
+L 387.671811 152.39622 
+L 387.671811 141.624567 
+L 371.230866 141.624567 
+z
+" clip-path="url(#p86eff66eea)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 223.262362 170.821417 
+L 280.805669 170.821417 
+L 280.805669 160.049764 
+L 223.262362 160.049764 
+z
+" clip-path="url(#p86eff66eea)" style="fill: #0072b2"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 280.805669 170.821417 
+L 387.671811 170.821417 
+L 387.671811 160.049764 
+L 280.805669 160.049764 
+z
+" clip-path="url(#p86eff66eea)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 223.262362 189.246614 
+L 346.569449 189.246614 
+L 346.569449 178.474961 
+L 223.262362 178.474961 
+z
+" clip-path="url(#p86eff66eea)" style="fill: #0072b2"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 346.569449 189.246614 
+L 387.671811 189.246614 
+L 387.671811 178.474961 
+L 346.569449 178.474961 
+z
+" clip-path="url(#p86eff66eea)" style="fill: #d55e00"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 15.482835 315.388346 
+L 219.860787 315.388346 
+Q 223.262362 315.388346 223.262362 311.986772 
+L 223.262362 245.089134 
+Q 223.262362 241.687559 219.860787 241.687559 
+L 15.482835 241.687559 
+Q 12.08126 241.687559 12.08126 245.089134 
+L 12.08126 311.986772 
+Q 12.08126 315.388346 15.482835 315.388346 
+z
+" clip-path="url(#p86eff66eea)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 238.00252 315.388346 
+L 442.380472 315.388346 
+Q 445.782047 315.388346 445.782047 311.986772 
+L 445.782047 245.089134 
+Q 445.782047 241.687559 442.380472 241.687559 
+L 238.00252 241.687559 
+Q 234.600945 241.687559 234.600945 245.089134 
+L 234.600945 311.986772 
+Q 234.600945 315.388346 238.00252 315.388346 
+z
+" clip-path="url(#p86eff66eea)" style="fill: #fff8f5; stroke: #d55e00; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="16.526888" transform="rotate(-0 12.08126 16.526888)">(A) Classes of mitochondrial heteroplasmy [Par14c, Stu19]</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="17.183622" y="31.855687" transform="rotate(-0 17.183622 31.855687)">Point Heteroplasmy (PHP) [Par14c]</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="40.951238" transform="rotate(-0 17.183622 40.951238)">• Single-nucleotide site mixture:</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="49.455249" transform="rotate(-0 17.183622 49.455249)">  Coexistence of two distinct bases at one position</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="57.959112" transform="rotate(-0 17.183622 57.959112)">  (e.g. 16169 C/T transition in HVS-I) [Par14c]</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="66.463049" transform="rotate(-0 17.183622 66.463049)">• Manifestation across technologies:</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="74.966986" transform="rotate(-0 17.183622 74.966986)">  Appears as overlapping double peaks in Sanger CE,</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="83.470997" transform="rotate(-0 17.183622 83.470997)">  or proportional variant read counts in MPS [Stu19]</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="91.97486" transform="rotate(-0 17.183622 91.97486)">• IUPAC ambiguity notation: Y (C/T), R (A/G), etc.</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="100.478871" transform="rotate(-0 17.183622 100.478871)">• Stable maternal marker when shared across kin</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="239.703307" y="31.855687" transform="rotate(-0 239.703307 31.855687)">Length Heteroplasmy (LHP) [Stu19, Ewe26]</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="40.951238" transform="rotate(-0 239.703307 40.951238)">• Homopolymeric length mixture:</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="49.455175" transform="rotate(-0 239.703307 49.455175)">  Molecules differ in repeat count, predominantly in</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="57.959112" transform="rotate(-0 239.703307 57.959112)">  poly-C tracts (HVS-I 16184–16193, HVS-II 303–315)</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="66.463049" transform="rotate(-0 239.703307 66.463049)">• Sequencing out-of-phase:</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="74.966986" transform="rotate(-0 239.703307 74.966986)">  Slipped-strand replication produces overlapping</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="83.470923" transform="rotate(-0 239.703307 83.470923)">  out-of-phase traces downstream of homopolymer</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="91.97486" transform="rotate(-0 239.703307 91.97486)">• Technology sensitivity: length calls vary across</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="100.478871" transform="rotate(-0 239.703307 100.478871)">  platforms, instruments, and bioinformatic pipelines</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="127.078069" transform="rotate(-0 12.08126 127.078069)">(B) Developmental tissue segregation: buccal reference vs hair shafts [Gaa20]</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #e69f00" x="17.750551" y="137.58797" transform="rotate(-0 17.750551 137.58797)">Intra-Individual Variant Proportion Shifts Across Biological Tissues [Gaa20]</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="148.144252" transform="rotate(-0 17.750551 148.144252)">Buccal Reference:</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #8c8c8c" x="84.364724" y="148.144252" transform="rotate(-0 84.364724 148.144252)">10% T / 90% C  (Minor T missed by Sanger)</text>
+   </g>
+   <g id="text_24">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="166.569449" transform="rotate(-0 17.750551 166.569449)">Shed Hair Shaft 1:</text>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="84.364724" y="166.569449" transform="rotate(-0 84.364724 166.569449)">65% T / 35% C  (Variant T predominates!)</text>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="184.994646" transform="rotate(-0 17.750551 184.994646)">Shed Hair Shaft 2:</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #8c8c8c" x="84.364724" y="184.994646" transform="rotate(-0 84.364724 184.994646)">25% T / 75% C  (Intermediate proportion)</text>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="396.175748" y="148.144252" transform="rotate(-0 396.175748 148.144252)">Major 16169C</text>
+   </g>
+   <g id="text_29">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="396.175748" y="166.569449" transform="rotate(-0 396.175748 166.569449)">Minor 16169T</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="204.837165" transform="rotate(-0 17.750551 204.837165)">• Developmental segregation: Mitochondrial bottleneck during embryogenesis causes variant levels to shift between tissues.</text>
+   </g>
+   <g id="text_31">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="17.750551" y="213.341102" transform="rotate(-0 17.750551 213.341102)">• Casework impact: An apparent hair–reference difference can arise WITHOUT a different maternal lineage [Gaa20].</text>
+   </g>
+   <g id="text_32">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="240.463895" transform="rotate(-0 12.08126 240.463895)">(C) Analytical thresholds and ISFG non-exclusion guideline [Par14c, Con22b]</text>
+   </g>
+   <g id="text_33">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="17.183622" y="252.958049" transform="rotate(-0 17.183622 252.958049)">Analytical Detection Limits [Par14c, Gaa20]</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="262.053601" transform="rotate(-0 17.183622 262.053601)">• Sanger sequencing limit: ~10–20%</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="270.557538" transform="rotate(-0 17.183622 270.557538)">  Semi-quantitative; peaks below 10% are frequently</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="279.061548" transform="rotate(-0 17.183622 279.061548)">  swallowed in baseline noise or uncalled [Par14c]</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="287.565412" transform="rotate(-0 17.183622 287.565412)">• Massively parallel sequencing (MPS): ~1–5%</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="296.069349" transform="rotate(-0 17.183622 296.069349)">  Deep digital read depth uncovers minor variants,</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="304.573359" transform="rotate(-0 17.183622 304.573359)">  but requires validated thresholds to avoid noise</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="313.077223" transform="rotate(-0 17.183622 313.077223)">• Length heteroplasmy calls are assay-dependent</text>
+   </g>
+   <g id="text_41">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="239.703307" y="252.958132" transform="rotate(-0 239.703307 252.958132)">ISFG Non-Exclusion Guideline [Par14c, Con22b]</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="262.053601" transform="rotate(-0 239.703307 262.053601)">• Heteroplasmy cannot exclude kinship [Par14c]:</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="270.557538" transform="rotate(-0 239.703307 270.557538)">  Differences in heteroplasmic state or single base</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="279.063599" transform="rotate(-0 239.703307 279.063599)">  discrepancies do NOT automatically exclude kin</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="287.565485" transform="rotate(-0 239.703307 287.565485)">• False exclusion hazard [Con22b]:</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="296.069349" transform="rotate(-0 239.703307 296.069349)">  Treating heteroplasmic variants as genuine exclusions</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="304.573286" transform="rotate(-0 239.703307 304.573286)">  falsely excludes true maternal kin in pedigrees</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="239.703307" y="313.077223" transform="rotate(-0 239.703307 313.077223)">• Requires technology-aware interpretation rules</text>
+   </g>
+   <g id="text_49">
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #8c8c8c" x="451.167874" y="329.862725" transform="rotate(-0 451.167874 329.862725)">Simulated data for illustration</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p86eff66eea">
+   <rect x="2.16" y="2.16" width="453.543307" height="328.818898"/>
+  </clipPath>
+ </defs>
+</svg>

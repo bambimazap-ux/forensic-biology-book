@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="491.915768pt" height="335.223216pt" viewBox="0 0 491.915768 335.223216" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-01T00:01:33.486735</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 335.223216 
+L 491.915768 335.223216 
+L 491.915768 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 14.915906 128.301732 
+L 219.010394 128.301732 
+Q 221.845039 128.301732 221.845039 125.467087 
+L 221.845039 20.585197 
+Q 221.845039 17.750551 219.010394 17.750551 
+L 14.915906 17.750551 
+Q 12.08126 17.750551 12.08126 20.585197 
+L 12.08126 125.467087 
+Q 12.08126 128.301732 14.915906 128.301732 
+z
+" clip-path="url(#p411159c620)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 238.852913 128.301732 
+L 442.947402 128.301732 
+Q 445.782047 128.301732 445.782047 125.467087 
+L 445.782047 20.585197 
+Q 445.782047 17.750551 442.947402 17.750551 
+L 238.852913 17.750551 
+Q 236.018268 17.750551 236.018268 20.585197 
+L 236.018268 125.467087 
+Q 236.018268 128.301732 238.852913 128.301732 
+z
+" clip-path="url(#p411159c620)" style="fill: #ffffff; stroke: #009e73; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 242.821417 53.183622 
+L 437.845039 53.183622 
+Q 439.545827 53.183622 439.545827 51.482835 
+L 439.545827 30.789921 
+Q 439.545827 29.089134 437.845039 29.089134 
+L 242.821417 29.089134 
+Q 241.12063 29.089134 241.12063 30.789921 
+L 241.12063 51.482835 
+Q 241.12063 53.183622 242.821417 53.183622 
+z
+" clip-path="url(#p411159c620)" style="fill: #f0f7ff; stroke: #0072b2; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 242.821417 81.530079 
+L 437.845039 81.530079 
+Q 439.545827 81.530079 439.545827 79.829291 
+L 439.545827 59.136378 
+Q 439.545827 57.435591 437.845039 57.435591 
+L 242.821417 57.435591 
+Q 241.12063 57.435591 241.12063 59.136378 
+L 241.12063 79.829291 
+Q 241.12063 81.530079 242.821417 81.530079 
+z
+" clip-path="url(#p411159c620)" style="fill: #fff5f0; stroke: #d55e00; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 241.12063 122.065512 
+L 439.545827 122.065512 
+L 439.545827 106.474961 
+L 241.12063 106.474961 
+z
+" clip-path="url(#p411159c620)" style="fill: #f5f5f5; stroke: #8c8c8c; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 14.915906 265.782047 
+L 442.947402 265.782047 
+Q 445.782047 265.782047 445.782047 262.947402 
+L 445.782047 146.726929 
+Q 445.782047 143.892283 442.947402 143.892283 
+L 14.915906 143.892283 
+Q 12.08126 143.892283 12.08126 146.726929 
+L 12.08126 262.947402 
+Q 12.08126 265.782047 14.915906 265.782047 
+z
+" clip-path="url(#p411159c620)" style="fill: #f8f9fa; stroke: #e69f00; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 20.018268 260.112756 
+L 147.293858 260.112756 
+Q 149.561575 260.112756 149.561575 257.845039 
+L 149.561575 163.167874 
+Q 149.561575 160.900157 147.293858 160.900157 
+L 20.018268 160.900157 
+Q 17.750551 160.900157 17.750551 163.167874 
+L 17.750551 257.845039 
+Q 17.750551 260.112756 20.018268 260.112756 
+z
+" clip-path="url(#p411159c620)" style="fill: #ffffff; stroke: #0072b2; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 164.585197 260.112756 
+L 291.860787 260.112756 
+Q 294.128504 260.112756 294.128504 257.845039 
+L 294.128504 163.167874 
+Q 294.128504 160.900157 291.860787 160.900157 
+L 164.585197 160.900157 
+Q 162.31748 160.900157 162.31748 163.167874 
+L 162.31748 257.845039 
+Q 162.31748 260.112756 164.585197 260.112756 
+z
+" clip-path="url(#p411159c620)" style="fill: #ffffff; stroke: #009e73; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 309.152126 260.112756 
+L 436.427717 260.112756 
+Q 438.695433 260.112756 438.695433 257.845039 
+L 438.695433 163.167874 
+Q 438.695433 160.900157 436.427717 160.900157 
+L 309.152126 160.900157 
+Q 306.884409 160.900157 306.884409 163.167874 
+L 306.884409 257.845039 
+Q 306.884409 260.112756 309.152126 260.112756 
+z
+" clip-path="url(#p411159c620)" style="fill: #ffffff; stroke: #cc79a7; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 14.915906 319.640315 
+L 442.947402 319.640315 
+Q 445.782047 319.640315 445.782047 316.805669 
+L 445.782047 274.285984 
+Q 445.782047 271.451339 442.947402 271.451339 
+L 14.915906 271.451339 
+Q 12.08126 271.451339 12.08126 274.285984 
+L 12.08126 316.805669 
+Q 12.08126 319.640315 14.915906 319.640315 
+z
+" clip-path="url(#p411159c620)" style="fill: #fff8f5; stroke: #d55e00; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="12.811218" transform="rotate(-0 12.08126 12.811218)">(A) Biology of CpG methylation [Nau23, Vid18]</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="236.018268" y="12.811218" transform="rotate(-0 236.018268 12.811218)">(B) Bisulfite conversion biochemistry [Nau17, Woz21]</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="17.183622" y="27.887183" transform="rotate(-0 17.183622 27.887183)">5-Methylcytosine &amp; CpG Dinucleotides</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="36.132341" transform="rotate(-0 17.183622 36.132341)">• 5-Methylcytosine (5mC) modification:</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="44.069349" transform="rotate(-0 17.183622 44.069349)">  Addition of methyl group to 5th carbon of cytosine;</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="52.006357" transform="rotate(-0 17.183622 52.006357)">  occurs symmetrically at CpG dinucleotides [Nau23].</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="59.943364" transform="rotate(-0 17.183622 59.943364)">• Functional genomic context [Vid18]:</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="67.880372" transform="rotate(-0 17.183622 67.880372)">  - Promoter hypermethylation: gene repression.</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="75.81738" transform="rotate(-0 17.183622 75.81738)">  - Gene-body methylation: transcription elongation.</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="83.754388" transform="rotate(-0 17.183622 83.754388)">• Cellular heterogeneity in bulk tissue:</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="91.691396" transform="rotate(-0 17.183622 91.691396)">  Bulk measurements average across cell types;</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.183622" y="99.628477" transform="rotate(-0 17.183622 99.628477)">  cell composition shifts alter bulk beta values [Nau23].</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="241.12063" y="27.887183" transform="rotate(-0 241.12063 27.887183)">Bisulfite Conversion Pathways [Woz21]</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="245.372598" y="35.325354" transform="rotate(-0 245.372598 35.325354)">Unmethylated Cytosine (C)</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="245.372598" y="46.947402" transform="rotate(-0 245.372598 46.947402)">Bisulfite deamination -&gt; Uracil (U) -&gt; PCR: Thymine (T)</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="245.372598" y="63.671811" transform="rotate(-0 245.372598 63.671811)">Methylated Cytosine (5mC)</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="245.372598" y="75.293858" transform="rotate(-0 245.372598 75.293858)">Chemically protected -&gt; Resistant -&gt; PCR: Cytosine (C)</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="340.333228" y="116.211081" transform="rotate(-0 340.333228 116.211081)">Methylation Fraction: beta = C / (C + T)   [0.0 to 1.0]</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="12.08126" y="137.535627" transform="rotate(-0 12.08126 137.535627)">(C) Forensic trace constraints of bisulfite treatment [Nau23, Woz21]</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #e69f00" x="17.750551" y="154.028915" transform="rotate(-0 17.750551 154.028915)">Severe Physicochemical Constraints of Bisulfite Treatment in Forensic Casework [Nau23, Woz21]</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="22.00252" y="168.837165" transform="rotate(-0 22.00252 168.837165)">1. Severe Hydrolytic Loss</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="22.00252" y="179.325354" transform="rotate(-0 22.00252 179.325354)">• &gt;80–90% template loss:</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="22.00252" y="187.829291" transform="rotate(-0 22.00252 187.829291)">  Harsh bisulfite conditions</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="22.00252" y="196.333228" transform="rotate(-0 22.00252 196.333228)">  cleave phosphodiester bonds.</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="22.00252" y="206.254488" transform="rotate(-0 22.00252 206.254488)">• Fragment shortening:</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="22.00252" y="214.758425" transform="rotate(-0 22.00252 214.758425)">  Yields fragments &lt;150 bp.</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="22.00252" y="224.679685" transform="rotate(-0 22.00252 224.679685)">• Input threshold boundary:</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="22.00252" y="233.183622" transform="rotate(-0 22.00252 233.183622)">  Kit- and workflow-specific;</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="22.00252" y="241.687559" transform="rotate(-0 22.00252 241.687559)">  no universal minimum [Woz21].</text>
+   </g>
+   <g id="text_30">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0072b2" x="22.00252" y="252.175748" transform="rotate(-0 22.00252 252.175748)">Recovery loss limits low DNA</text>
+   </g>
+   <g id="text_31">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="166.569449" y="168.837165" transform="rotate(-0 166.569449 168.837165)">2. Reduced Complexity</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="166.569449" y="179.325354" transform="rotate(-0 166.569449 179.325354)">• 4-to-3 base reduction:</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="166.569449" y="187.829291" transform="rotate(-0 166.569449 187.829291)">  Nearly all cytosines become T;</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="166.569449" y="196.333228" transform="rotate(-0 166.569449 196.333228)">  drastic drop in complexity.</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="166.569449" y="206.254488" transform="rotate(-0 166.569449 206.254488)">• Homopolymer formation:</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="166.569449" y="214.758425" transform="rotate(-0 166.569449 214.758425)">  Long poly-T tracts cause PCR</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="166.569449" y="223.262362" transform="rotate(-0 166.569449 223.262362)">  stutter and primer slippage.</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="166.569449" y="233.183622" transform="rotate(-0 166.569449 233.183622)">• Primer design challenge:</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="166.569449" y="241.687559" transform="rotate(-0 166.569449 241.687559)">  Must avoid variable CpGs [Nau23].</text>
+   </g>
+   <g id="text_40">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #009e73" x="166.569449" y="252.175748" transform="rotate(-0 166.569449 252.175748)">Severe amplification bias</text>
+   </g>
+   <g id="text_41">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #cc79a7" x="311.136378" y="168.837165" transform="rotate(-0 311.136378 168.837165)">3. Artefacts &amp; Imbalance</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="311.136378" y="179.325354" transform="rotate(-0 311.136378 179.325354)">• Incomplete conversion:</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="311.136378" y="187.829291" transform="rotate(-0 311.136378 187.829291)">  Unmethylated C fails to convert;</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="311.136378" y="196.333228" transform="rotate(-0 311.136378 196.333228)">  falsely inflates beta fraction.</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="311.136378" y="206.254488" transform="rotate(-0 311.136378 206.254488)">• Non-CpG control monitoring:</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="311.136378" y="214.758425" transform="rotate(-0 311.136378 214.758425)">  Monitors non-CpG cytosines.</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="311.136378" y="224.679685" transform="rotate(-0 311.136378 224.679685)">• Stochastic sampling error:</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="311.136378" y="233.183622" transform="rotate(-0 311.136378 233.183622)">  Severe drop-out in degraded</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="311.136378" y="241.687559" transform="rotate(-0 311.136378 241.687559)">  or low-input casework DNA.</text>
+   </g>
+   <g id="text_50">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #cc79a7" x="311.136378" y="252.175748" transform="rotate(-0 311.136378 252.175748)">Stochastic trace drop-out</text>
+   </g>
+   <g id="text_51">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #d55e00" x="17.750551" y="283.572222" transform="rotate(-0 17.750551 283.572222)">Foundational Forensic Evidentiary Principle of DNA Methylation [Nau23, Vid18]</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="293.801632" transform="rotate(-0 17.750551 293.801632)">• DNA methylation modifies the chemical state of DNA without altering the underlying inherited nucleotide sequence [Nau23].</text>
+   </g>
+   <g id="text_53">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="303.441551" transform="rotate(-0 17.750551 303.441551)">• It provides investigative intelligence regarding chronological age, tissue source, or exposures, NOT direct proof of identity.</text>
+   </g>
+   <g id="text_54">
+    <text style="font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #4d4d4d" x="17.750551" y="313.077223" transform="rotate(-0 17.750551 313.077223)">• Epigenetic predictions cannot individualize a person and must be corroborated by autonomous autosomal STR profiling [Vid18].</text>
+   </g>
+   <g id="text_55">
+    <text style="font-style: italic; font-size: 7.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #8c8c8c" x="451.167874" y="331.506819" transform="rotate(-0 451.167874 331.506819)">Simulated data for illustration</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p411159c620">
+   <rect x="2.16" y="2.16" width="453.543307" height="328.818898"/>
+  </clipPath>
+ </defs>
+</svg>
