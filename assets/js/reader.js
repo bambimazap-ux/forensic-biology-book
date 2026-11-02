@@ -194,7 +194,7 @@
             <span>🔬</span> MSc-Level Forensic Curriculum • DIFS Special Reading Pack
           </div>
           <h1 class="cover-hero-title">${meta.title}</h1>
-          <p class="cover-hero-subtitle">${meta.subtitle}</p>
+          ${meta.subtitle ? `<p class="cover-hero-subtitle">${meta.subtitle}</p>` : ''}
         </div>
 
         <!-- Official Regulatory & AI Disclosure Notices -->

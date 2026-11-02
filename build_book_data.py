@@ -649,11 +649,11 @@ print(f"Total interactive concept links: {total_concepts_inserted}")
 # -------------------------------------------------------------
 book_data = {
     "title": "Forensic Biological Identification: From DNA to Fingerprints",
-    "subtitle": "An Advanced Enriching Reading Pack for Computational Biology in Forensic Science",
+    "subtitle": "",
     "institutional": {
         "agency": "Israel Police — Division of Identification and Forensic Science (DIFS / מז\"פ)",
         "department": "Research and Development Section (מדור מו\"פ)",
-        "targetAudience": "Computational Biology Graduates & Forensic DNA / Pattern Specialists",
+        "targetAudience": "Forensic Practitioners, Interns & Research Specialists",
         "academicLevel": "MSc Level Advanced Forensic Curriculum",
         "logos": {
             "rnd": "assets/logos/logo_rnd_web.png",
