@@ -301,21 +301,42 @@ for k, raw_cit in master_raw_citations.items():
         "filename": loc_info["filename"] if loc_info else None
     }
 
+# Special Curriculum Papers Metadata (Course Summaries & Official DIFS Texts)
+special_curriculum_papers = {
+    "Alm11": {
+        "authors": "Prof. Joseph Almog (Edited & Transcribed: Naftaly Einot)",
+        "title": "Introduction to Forensic Chemistry — Course Summary (מבוא לכימיה פורנזית - סיכום קורס)",
+        "year": "2011",
+        "citation": "Almog, J. (2011). Introduction to Forensic Chemistry (Course Lectures Summary, Hebrew University of Jerusalem). Edited, structured, and transcribed by Naftaly Einot, DIFS R&D Section, Israel Police. 67 pp.",
+        "doi": None,
+        "annotation": "סיכום מקיף ומעמיק של קורס היסוד בכימיה פורנזית שהועבר על ידי פרופ' יוסף אלמוג (האוניברסיטה העברית ומז\"פ), בעריכת נפתלי עינות. כולל פרקים מרכזיים על מדע פורנזי ומשפט, עדות מומחה, כימיה של פיתוח טביעות אצבע סמויות (נינהידרין, DFO, 1,2-אינדנדיאון), ביוכימיה פורנזית, בדיקת מסמכים, חומרי נפץ וסמים אסורים."
+    }
+}
+
 # Ensure all physical PDFs are represented
 for k, loc_info in key_to_local_pdf.items():
     if k not in papers_map:
+        sp = special_curriculum_papers.get(k, {})
         papers_map[k] = {
             "key": k,
-            "authors": "Forensic Literature Archive",
-            "title": loc_info["title"],
-            "year": "",
-            "citation": loc_info["filename"],
-            "doi": None,
-            "annotation": further_reading_annotations.get(k, ""),
+            "authors": sp.get("authors", "Forensic Literature Archive"),
+            "title": sp.get("title", loc_info["title"]),
+            "year": sp.get("year", ""),
+            "citation": sp.get("citation", loc_info["filename"]),
+            "doi": sp.get("doi", None),
+            "annotation": sp.get("annotation", further_reading_annotations.get(k, "")),
             "hasLocalPdf": True,
             "localPath": loc_info["localPath"],
             "filename": loc_info["filename"]
         }
+    elif k in special_curriculum_papers:
+        sp = special_curriculum_papers[k]
+        papers_map[k]["authors"] = sp["authors"]
+        papers_map[k]["title"] = sp["title"]
+        papers_map[k]["year"] = sp["year"]
+        papers_map[k]["citation"] = sp["citation"]
+        papers_map[k]["annotation"] = sp["annotation"]
+        papers_map[k]["doi"] = sp.get("doi", None)
 
 local_pdf_count = sum(1 for p in papers_map.values() if p["hasLocalPdf"])
 web_only_count = sum(1 for p in papers_map.values() if not p["hasLocalPdf"])
